@@ -1,0 +1,5018 @@
+[
+    {
+        "price_open": 0.058514,
+        "price_hight": 0.05865791,
+        "price_low": 0.05834306,
+        "price_vwap": 0.0585,
+        "timestamp": 1687910400,
+        "date": "2023-06-28 00:00:00"
+    },
+    {
+        "price_open": 0.058474,
+        "price_hight": 0.05857884,
+        "price_low": 0.05824689,
+        "price_vwap": 0.0585,
+        "timestamp": 1687996800,
+        "date": "2023-06-29 00:00:00"
+    },
+    {
+        "price_open": 0.058397,
+        "price_hight": 0.058661,
+        "price_low": 0.05818182,
+        "price_vwap": 0.0584,
+        "timestamp": 1688083200,
+        "date": "2023-06-30 00:00:00"
+    },
+    {
+        "price_open": 0.05828423,
+        "price_hight": 0.0583946,
+        "price_low": 0.058221,
+        "price_vwap": 0.0584,
+        "timestamp": 1688256000,
+        "date": "2023-07-02 00:00:00"
+    },
+    {
+        "price_open": 0.0583913,
+        "price_hight": 0.05868558,
+        "price_low": 0.0582591,
+        "price_vwap": 0.0585,
+        "timestamp": 1688342400,
+        "date": "2023-07-03 00:00:00"
+    },
+    {
+        "price_open": 0.0586072,
+        "price_hight": 0.05875751,
+        "price_low": 0.05851892,
+        "price_vwap": 0.0587,
+        "timestamp": 1688428800,
+        "date": "2023-07-04 00:00:00"
+    },
+    {
+        "price_open": 0.05864061,
+        "price_hight": 0.0588838,
+        "price_low": 0.05851307,
+        "price_vwap": 0.0587,
+        "timestamp": 1688515200,
+        "date": "2023-07-05 00:00:00"
+    },
+    {
+        "price_open": 0.05878632,
+        "price_hight": 0.05881869,
+        "price_low": 0.05747886,
+        "price_vwap": 0.0583,
+        "timestamp": 1688601600,
+        "date": "2023-07-06 00:00:00"
+    },
+    {
+        "price_open": 0.05801376,
+        "price_hight": 0.05856927,
+        "price_low": 0.0574366,
+        "price_vwap": 0.0581,
+        "timestamp": 1688688000,
+        "date": "2023-07-07 00:00:00"
+    },
+    {
+        "price_open": 0.0582401,
+        "price_hight": 0.058355,
+        "price_low": 0.05818927,
+        "price_vwap": 0.0583,
+        "timestamp": 1688860800,
+        "date": "2023-07-09 00:00:00"
+    },
+    {
+        "price_open": 0.05829768,
+        "price_hight": 0.05871311,
+        "price_low": 0.0581764,
+        "price_vwap": 0.0585,
+        "timestamp": 1688947200,
+        "date": "2023-07-10 00:00:00"
+    },
+    {
+        "price_open": 0.05861888,
+        "price_hight": 0.058719,
+        "price_low": 0.05835668,
+        "price_vwap": 0.0586,
+        "timestamp": 1689033600,
+        "date": "2023-07-11 00:00:00"
+    },
+    {
+        "price_open": 0.058663,
+        "price_hight": 0.059484,
+        "price_low": 0.05854972,
+        "price_vwap": 0.059,
+        "timestamp": 1689120000,
+        "date": "2023-07-12 00:00:00"
+    },
+    {
+        "price_open": 0.0591654,
+        "price_hight": 0.05942586,
+        "price_low": 0.058906,
+        "price_vwap": 0.0592,
+        "timestamp": 1689206400,
+        "date": "2023-07-13 00:00:00"
+    },
+    {
+        "price_open": 0.05932951,
+        "price_hight": 0.05981423,
+        "price_low": 0.05905523,
+        "price_vwap": 0.0594,
+        "timestamp": 1689292800,
+        "date": "2023-07-14 00:00:00"
+    },
+    {
+        "price_open": 0.05967299,
+        "price_hight": 0.05967299,
+        "price_low": 0.05967299,
+        "price_vwap": 0.0597,
+        "timestamp": 1689379200,
+        "date": "2023-07-15 00:00:00"
+    },
+    {
+        "price_open": 0.05954047,
+        "price_hight": 0.059703,
+        "price_low": 0.059501,
+        "price_vwap": 0.0597,
+        "timestamp": 1689465600,
+        "date": "2023-07-16 00:00:00"
+    },
+    {
+        "price_open": 0.05963456,
+        "price_hight": 0.059845,
+        "price_low": 0.05912751,
+        "price_vwap": 0.0596,
+        "timestamp": 1689552000,
+        "date": "2023-07-17 00:00:00"
+    },
+    {
+        "price_open": 0.05976661,
+        "price_hight": 0.059899,
+        "price_low": 0.0593648,
+        "price_vwap": 0.0597,
+        "timestamp": 1689638400,
+        "date": "2023-07-18 00:00:00"
+    },
+    {
+        "price_open": 0.05967456,
+        "price_hight": 0.0598462,
+        "price_low": 0.05951531,
+        "price_vwap": 0.0597,
+        "timestamp": 1689724800,
+        "date": "2023-07-19 00:00:00"
+    },
+    {
+        "price_open": 0.05982185,
+        "price_hight": 0.059863,
+        "price_low": 0.05906605,
+        "price_vwap": 0.0595,
+        "timestamp": 1689811200,
+        "date": "2023-07-20 00:00:00"
+    },
+    {
+        "price_open": 0.059224,
+        "price_hight": 0.05929932,
+        "price_low": 0.05860703,
+        "price_vwap": 0.059,
+        "timestamp": 1689897600,
+        "date": "2023-07-21 00:00:00"
+    },
+    {
+        "price_open": 0.0588443,
+        "price_hight": 0.0588443,
+        "price_low": 0.0588443,
+        "price_vwap": 0.0588,
+        "timestamp": 1689984000,
+        "date": "2023-07-22 00:00:00"
+    },
+    {
+        "price_open": 0.05882249,
+        "price_hight": 0.058928,
+        "price_low": 0.05879966,
+        "price_vwap": 0.0588,
+        "timestamp": 1690070400,
+        "date": "2023-07-23 00:00:00"
+    },
+    {
+        "price_open": 0.05885199,
+        "price_hight": 0.05946824,
+        "price_low": 0.05873853,
+        "price_vwap": 0.0591,
+        "timestamp": 1690156800,
+        "date": "2023-07-24 00:00:00"
+    },
+    {
+        "price_open": 0.059371,
+        "price_hight": 0.05951205,
+        "price_low": 0.0589428,
+        "price_vwap": 0.0593,
+        "timestamp": 1690243200,
+        "date": "2023-07-25 00:00:00"
+    },
+    {
+        "price_open": 0.05902059,
+        "price_hight": 0.05945409,
+        "price_low": 0.05882595,
+        "price_vwap": 0.0592,
+        "timestamp": 1690329600,
+        "date": "2023-07-26 00:00:00"
+    },
+    {
+        "price_open": 0.059288,
+        "price_hight": 0.059859,
+        "price_low": 0.05906507,
+        "price_vwap": 0.0595,
+        "timestamp": 1690416000,
+        "date": "2023-07-27 00:00:00"
+    },
+    {
+        "price_open": 0.05929865,
+        "price_hight": 0.06014046,
+        "price_low": 0.05895635,
+        "price_vwap": 0.0597,
+        "timestamp": 1690502400,
+        "date": "2023-07-28 00:00:00"
+    },
+    {
+        "price_open": 0.05980039,
+        "price_hight": 0.059979,
+        "price_low": 0.059753,
+        "price_vwap": 0.0599,
+        "timestamp": 1690675200,
+        "date": "2023-07-30 00:00:00"
+    },
+    {
+        "price_open": 0.05992894,
+        "price_hight": 0.06002401,
+        "price_low": 0.05951495,
+        "price_vwap": 0.0598,
+        "timestamp": 1690761600,
+        "date": "2023-07-31 00:00:00"
+    },
+    {
+        "price_open": 0.05967954,
+        "price_hight": 0.0597318,
+        "price_low": 0.05904317,
+        "price_vwap": 0.0595,
+        "timestamp": 1690848000,
+        "date": "2023-08-01 00:00:00"
+    },
+    {
+        "price_open": 0.0592462,
+        "price_hight": 0.059393,
+        "price_low": 0.05847953,
+        "price_vwap": 0.059,
+        "timestamp": 1690934400,
+        "date": "2023-08-02 00:00:00"
+    },
+    {
+        "price_open": 0.05875962,
+        "price_hight": 0.05883748,
+        "price_low": 0.05734109,
+        "price_vwap": 0.058,
+        "timestamp": 1691020800,
+        "date": "2023-08-03 00:00:00"
+    },
+    {
+        "price_open": 0.05767285,
+        "price_hight": 0.058783,
+        "price_low": 0.05733156,
+        "price_vwap": 0.0581,
+        "timestamp": 1691107200,
+        "date": "2023-08-04 00:00:00"
+    },
+    {
+        "price_open": 0.058428,
+        "price_hight": 0.058572,
+        "price_low": 0.05833084,
+        "price_vwap": 0.0585,
+        "timestamp": 1691280000,
+        "date": "2023-08-06 00:00:00"
+    },
+    {
+        "price_open": 0.058525,
+        "price_hight": 0.05873543,
+        "price_low": 0.05826216,
+        "price_vwap": 0.0586,
+        "timestamp": 1691366400,
+        "date": "2023-08-07 00:00:00"
+    },
+    {
+        "price_open": 0.05854386,
+        "price_hight": 0.05858931,
+        "price_low": 0.05782219,
+        "price_vwap": 0.0583,
+        "timestamp": 1691452800,
+        "date": "2023-08-08 00:00:00"
+    },
+    {
+        "price_open": 0.0583594,
+        "price_hight": 0.05864415,
+        "price_low": 0.05812602,
+        "price_vwap": 0.0585,
+        "timestamp": 1691539200,
+        "date": "2023-08-09 00:00:00"
+    },
+    {
+        "price_open": 0.05860067,
+        "price_hight": 0.05912437,
+        "price_low": 0.05827241,
+        "price_vwap": 0.0588,
+        "timestamp": 1691625600,
+        "date": "2023-08-10 00:00:00"
+    },
+    {
+        "price_open": 0.058531,
+        "price_hight": 0.058983,
+        "price_low": 0.05837746,
+        "price_vwap": 0.0587,
+        "timestamp": 1691712000,
+        "date": "2023-08-11 00:00:00"
+    },
+    {
+        "price_open": 0.05864999,
+        "price_hight": 0.05883814,
+        "price_low": 0.05859673,
+        "price_vwap": 0.0588,
+        "timestamp": 1691884800,
+        "date": "2023-08-13 00:00:00"
+    },
+    {
+        "price_open": 0.058826,
+        "price_hight": 0.05893426,
+        "price_low": 0.0583087,
+        "price_vwap": 0.0587,
+        "timestamp": 1691971200,
+        "date": "2023-08-14 00:00:00"
+    },
+    {
+        "price_open": 0.05860813,
+        "price_hight": 0.05868028,
+        "price_low": 0.05812602,
+        "price_vwap": 0.0584,
+        "timestamp": 1692057600,
+        "date": "2023-08-15 00:00:00"
+    },
+    {
+        "price_open": 0.05836492,
+        "price_hight": 0.05870095,
+        "price_low": 0.05819502,
+        "price_vwap": 0.0585,
+        "timestamp": 1692144000,
+        "date": "2023-08-16 00:00:00"
+    },
+    {
+        "price_open": 0.05831234,
+        "price_hight": 0.05866135,
+        "price_low": 0.05806459,
+        "price_vwap": 0.0584,
+        "timestamp": 1692230400,
+        "date": "2023-08-17 00:00:00"
+    },
+    {
+        "price_open": 0.05847174,
+        "price_hight": 0.05875786,
+        "price_low": 0.05830394,
+        "price_vwap": 0.0586,
+        "timestamp": 1692316800,
+        "date": "2023-08-18 00:00:00"
+    },
+    {
+        "price_open": 0.058549,
+        "price_hight": 0.058672,
+        "price_low": 0.05853793,
+        "price_vwap": 0.0586,
+        "timestamp": 1692489600,
+        "date": "2023-08-20 00:00:00"
+    },
+    {
+        "price_open": 0.05866513,
+        "price_hight": 0.05882007,
+        "price_low": 0.05849595,
+        "price_vwap": 0.0587,
+        "timestamp": 1692576000,
+        "date": "2023-08-21 00:00:00"
+    },
+    {
+        "price_open": 0.0587196,
+        "price_hight": 0.05918228,
+        "price_low": 0.05867408,
+        "price_vwap": 0.059,
+        "timestamp": 1692662400,
+        "date": "2023-08-22 00:00:00"
+    },
+    {
+        "price_open": 0.059129,
+        "price_hight": 0.05958219,
+        "price_low": 0.0590162,
+        "price_vwap": 0.0593,
+        "timestamp": 1692748800,
+        "date": "2023-08-23 00:00:00"
+    },
+    {
+        "price_open": 0.05954,
+        "price_hight": 0.05964573,
+        "price_low": 0.0590162,
+        "price_vwap": 0.0595,
+        "timestamp": 1692835200,
+        "date": "2023-08-24 00:00:00"
+    },
+    {
+        "price_open": 0.05939784,
+        "price_hight": 0.05974115,
+        "price_low": 0.05931022,
+        "price_vwap": 0.0595,
+        "timestamp": 1692921600,
+        "date": "2023-08-25 00:00:00"
+    },
+    {
+        "price_open": 0.05956884,
+        "price_hight": 0.05975983,
+        "price_low": 0.05955696,
+        "price_vwap": 0.0597,
+        "timestamp": 1693094400,
+        "date": "2023-08-27 00:00:00"
+    },
+    {
+        "price_open": 0.05975,
+        "price_hight": 0.05989236,
+        "price_low": 0.05946859,
+        "price_vwap": 0.0598,
+        "timestamp": 1693180800,
+        "date": "2023-08-28 00:00:00"
+    },
+    {
+        "price_open": 0.05956387,
+        "price_hight": 0.05967392,
+        "price_low": 0.05915935,
+        "price_vwap": 0.0595,
+        "timestamp": 1693267200,
+        "date": "2023-08-29 00:00:00"
+    },
+    {
+        "price_open": 0.05950911,
+        "price_hight": 0.05977429,
+        "price_low": 0.05945409,
+        "price_vwap": 0.0597,
+        "timestamp": 1693353600,
+        "date": "2023-08-30 00:00:00"
+    },
+    {
+        "price_open": 0.05966057,
+        "price_hight": 0.05983857,
+        "price_low": 0.058425,
+        "price_vwap": 0.0594,
+        "timestamp": 1693440000,
+        "date": "2023-08-31 00:00:00"
+    },
+    {
+        "price_open": 0.05881488,
+        "price_hight": 0.05890929,
+        "price_low": 0.0580929254435395,
+        "price_vwap": 0.0586,
+        "timestamp": 1693526400,
+        "date": "2023-09-01 00:00:00"
+    },
+    {
+        "price_open": 0.0584566281047777,
+        "price_hight": 0.0584566281047777,
+        "price_low": 0.0584566281047777,
+        "price_vwap": 0.0585,
+        "timestamp": 1693699200,
+        "date": "2023-09-03 00:00:00"
+    },
+    {
+        "price_open": 0.0586350006391215,
+        "price_hight": 0.0586600060185166,
+        "price_low": 0.0581057524694945,
+        "price_vwap": 0.0584,
+        "timestamp": 1693785600,
+        "date": "2023-09-04 00:00:00"
+    },
+    {
+        "price_open": 0.058202068268698,
+        "price_hight": 0.058223,
+        "price_low": 0.057233777085885,
+        "price_vwap": 0.0578,
+        "timestamp": 1693872000,
+        "date": "2023-09-05 00:00:00"
+    },
+    {
+        "price_open": 0.0574737747165968,
+        "price_hight": 0.0574763513552349,
+        "price_low": 0.0565694050029982,
+        "price_vwap": 0.057,
+        "timestamp": 1693958400,
+        "date": "2023-09-06 00:00:00"
+    },
+    {
+        "price_open": 0.0568289018155698,
+        "price_hight": 0.0573892044019815,
+        "price_low": 0.0565716451600129,
+        "price_vwap": 0.057,
+        "timestamp": 1694044800,
+        "date": "2023-09-07 00:00:00"
+    },
+    {
+        "price_open": 0.056833488109866,
+        "price_hight": 0.057331691353693,
+        "price_low": 0.0566251415628539,
+        "price_vwap": 0.057,
+        "timestamp": 1694131200,
+        "date": "2023-09-08 00:00:00"
+    },
+    {
+        "price_open": 0.0567826926352848,
+        "price_hight": 0.056960356161715,
+        "price_low": 0.0566028978419579,
+        "price_vwap": 0.0569,
+        "timestamp": 1694304000,
+        "date": "2023-09-10 00:00:00"
+    },
+    {
+        "price_open": 0.05693,
+        "price_hight": 0.057885,
+        "price_low": 0.0567904319480254,
+        "price_vwap": 0.0572,
+        "timestamp": 1694390400,
+        "date": "2023-09-11 00:00:00"
+    },
+    {
+        "price_open": 0.057835,
+        "price_hight": 0.0580922504937841,
+        "price_low": 0.0574818357399062,
+        "price_vwap": 0.0578,
+        "timestamp": 1694476800,
+        "date": "2023-09-12 00:00:00"
+    },
+    {
+        "price_open": 0.058029,
+        "price_hight": 0.0585142643147833,
+        "price_low": 0.057793112216886,
+        "price_vwap": 0.0581,
+        "timestamp": 1694563200,
+        "date": "2023-09-13 00:00:00"
+    },
+    {
+        "price_open": 0.0583040404116965,
+        "price_hight": 0.0585628901020517,
+        "price_low": 0.0580484123759215,
+        "price_vwap": 0.0584,
+        "timestamp": 1694649600,
+        "date": "2023-09-14 00:00:00"
+    },
+    {
+        "price_open": 0.0584349370801815,
+        "price_hight": 0.0586404332824334,
+        "price_low": 0.0583369307773979,
+        "price_vwap": 0.0585,
+        "timestamp": 1694736000,
+        "date": "2023-09-15 00:00:00"
+    },
+    {
+        "price_open": 0.0585031386933909,
+        "price_hight": 0.05860713119851,
+        "price_low": 0.058404,
+        "price_vwap": 0.0586,
+        "timestamp": 1694908800,
+        "date": "2023-09-17 00:00:00"
+    },
+    {
+        "price_open": 0.058605,
+        "price_hight": 0.0587087020973684,
+        "price_low": 0.0581540734020715,
+        "price_vwap": 0.0585,
+        "timestamp": 1694995200,
+        "date": "2023-09-18 00:00:00"
+    },
+    {
+        "price_open": 0.058320259875078,
+        "price_hight": 0.0586255474893316,
+        "price_low": 0.0582828700816543,
+        "price_vwap": 0.0585,
+        "timestamp": 1695081600,
+        "date": "2023-09-19 00:00:00"
+    },
+    {
+        "price_open": 0.0585828572499801,
+        "price_hight": 0.0588205191851947,
+        "price_low": 0.058433400531744,
+        "price_vwap": 0.0586,
+        "timestamp": 1695168000,
+        "date": "2023-09-20 00:00:00"
+    },
+    {
+        "price_open": 0.0584429625906596,
+        "price_hight": 0.0585853970039428,
+        "price_low": 0.0579213196793476,
+        "price_vwap": 0.0583,
+        "timestamp": 1695254400,
+        "date": "2023-09-21 00:00:00"
+    },
+    {
+        "price_open": 0.0580006032062734,
+        "price_hight": 0.058467,
+        "price_low": 0.0579703423728421,
+        "price_vwap": 0.0582,
+        "timestamp": 1695340800,
+        "date": "2023-09-22 00:00:00"
+    },
+    {
+        "price_open": 0.0579364205720642,
+        "price_hight": 0.0581797871783385,
+        "price_low": 0.0578419180380021,
+        "price_vwap": 0.0581,
+        "timestamp": 1695513600,
+        "date": "2023-09-24 00:00:00"
+    },
+    {
+        "price_open": 0.0581705479025737,
+        "price_hight": 0.058227,
+        "price_low": 0.0572734405873964,
+        "price_vwap": 0.0578,
+        "timestamp": 1695600000,
+        "date": "2023-09-25 00:00:00"
+    },
+    {
+        "price_open": 0.0574634044308882,
+        "price_hight": 0.0575904169546188,
+        "price_low": 0.0568776448104837,
+        "price_vwap": 0.0573,
+        "timestamp": 1695686400,
+        "date": "2023-09-26 00:00:00"
+    },
+    {
+        "price_open": 0.0569811933571325,
+        "price_hight": 0.057212034665916,
+        "price_low": 0.0560846204753732,
+        "price_vwap": 0.0568,
+        "timestamp": 1695772800,
+        "date": "2023-09-27 00:00:00"
+    },
+    {
+        "price_open": 0.0565257254228972,
+        "price_hight": 0.0570255474452555,
+        "price_low": 0.056337393381483,
+        "price_vwap": 0.0566,
+        "timestamp": 1695859200,
+        "date": "2023-09-28 00:00:00"
+    },
+    {
+        "price_open": 0.056997,
+        "price_hight": 0.057631406811456,
+        "price_low": 0.0568925300108096,
+        "price_vwap": 0.0573,
+        "timestamp": 1695945600,
+        "date": "2023-09-29 00:00:00"
+    },
+    {
+        "price_open": 0.0572563883815337,
+        "price_hight": 0.0574306668274725,
+        "price_low": 0.057106,
+        "price_vwap": 0.0573,
+        "timestamp": 1696118400,
+        "date": "2023-10-01 00:00:00"
+    },
+    {
+        "price_open": 0.057428,
+        "price_hight": 0.0575334269210411,
+        "price_low": 0.0563920374443129,
+        "price_vwap": 0.0571,
+        "timestamp": 1696204800,
+        "date": "2023-10-02 00:00:00"
+    },
+    {
+        "price_open": 0.056563037525616,
+        "price_hight": 0.0568011092120607,
+        "price_low": 0.055171,
+        "price_vwap": 0.0562,
+        "timestamp": 1696291200,
+        "date": "2023-10-03 00:00:00"
+    },
+    {
+        "price_open": 0.0554744088230938,
+        "price_hight": 0.056072,
+        "price_low": 0.0548504228967605,
+        "price_vwap": 0.0555,
+        "timestamp": 1696377600,
+        "date": "2023-10-04 00:00:00"
+    },
+    {
+        "price_open": 0.0555690156060023,
+        "price_hight": 0.0557618744911729,
+        "price_low": 0.0543847722637661,
+        "price_vwap": 0.0552,
+        "timestamp": 1696464000,
+        "date": "2023-10-05 00:00:00"
+    },
+    {
+        "price_open": 0.0546880511530155,
+        "price_hight": 0.055229,
+        "price_low": 0.0540371126889948,
+        "price_vwap": 0.0547,
+        "timestamp": 1696550400,
+        "date": "2023-10-06 00:00:00"
+    },
+    {
+        "price_open": 0.0549138566330997,
+        "price_hight": 0.0549711209216238,
+        "price_low": 0.0544297665507313,
+        "price_vwap": 0.0547,
+        "timestamp": 1696723200,
+        "date": "2023-10-08 00:00:00"
+    },
+    {
+        "price_open": 0.054803,
+        "price_hight": 0.0550625014453907,
+        "price_low": 0.0542452318441209,
+        "price_vwap": 0.0547,
+        "timestamp": 1696809600,
+        "date": "2023-10-09 00:00:00"
+    },
+    {
+        "price_open": 0.054902641146455,
+        "price_hight": 0.0557999905140016,
+        "price_low": 0.0545911125668741,
+        "price_vwap": 0.0552,
+        "timestamp": 1696896000,
+        "date": "2023-10-10 00:00:00"
+    },
+    {
+        "price_open": 0.0557442187670717,
+        "price_hight": 0.0562171691732028,
+        "price_low": 0.0556331328686112,
+        "price_vwap": 0.0559,
+        "timestamp": 1696982400,
+        "date": "2023-10-11 00:00:00"
+    },
+    {
+        "price_open": 0.0559969985608771,
+        "price_hight": 0.0563160728324507,
+        "price_low": 0.055260525748642,
+        "price_vwap": 0.0559,
+        "timestamp": 1697068800,
+        "date": "2023-10-12 00:00:00"
+    },
+    {
+        "price_open": 0.055627,
+        "price_hight": 0.0560365986232929,
+        "price_low": 0.0551687612406351,
+        "price_vwap": 0.0557,
+        "timestamp": 1697155200,
+        "date": "2023-10-13 00:00:00"
+    },
+    {
+        "price_open": 0.055232,
+        "price_hight": 0.0554078014184397,
+        "price_low": 0.054763,
+        "price_vwap": 0.0553,
+        "timestamp": 1697328000,
+        "date": "2023-10-15 00:00:00"
+    },
+    {
+        "price_open": 0.0553958615967636,
+        "price_hight": 0.055944869687615,
+        "price_low": 0.0553544344437433,
+        "price_vwap": 0.0556,
+        "timestamp": 1697414400,
+        "date": "2023-10-16 00:00:00"
+    },
+    {
+        "price_open": 0.0558160615182304,
+        "price_hight": 0.0559500343812961,
+        "price_low": 0.0552648012954069,
+        "price_vwap": 0.0557,
+        "timestamp": 1697500800,
+        "date": "2023-10-17 00:00:00"
+    },
+    {
+        "price_open": 0.0554976530042545,
+        "price_hight": 0.0556634808601121,
+        "price_low": 0.0545753221308389,
+        "price_vwap": 0.0553,
+        "timestamp": 1697587200,
+        "date": "2023-10-18 00:00:00"
+    },
+    {
+        "price_open": 0.0547862350680116,
+        "price_hight": 0.0550591059502376,
+        "price_low": 0.0543112250439921,
+        "price_vwap": 0.0547,
+        "timestamp": 1697673600,
+        "date": "2023-10-19 00:00:00"
+    },
+    {
+        "price_open": 0.054568,
+        "price_hight": 0.055,
+        "price_low": 0.0541105044722332,
+        "price_vwap": 0.0546,
+        "timestamp": 1697760000,
+        "date": "2023-10-20 00:00:00"
+    },
+    {
+        "price_open": 0.054814,
+        "price_hight": 0.0548931778758536,
+        "price_low": 0.054782,
+        "price_vwap": 0.0549,
+        "timestamp": 1697932800,
+        "date": "2023-10-22 00:00:00"
+    },
+    {
+        "price_open": 0.054851927222463,
+        "price_hight": 0.0553137117159973,
+        "price_low": 0.0543812232512358,
+        "price_vwap": 0.0549,
+        "timestamp": 1698019200,
+        "date": "2023-10-23 00:00:00"
+    },
+    {
+        "price_open": 0.0551,
+        "price_hight": 0.055296,
+        "price_low": 0.0544620780550503,
+        "price_vwap": 0.055,
+        "timestamp": 1698105600,
+        "date": "2023-10-24 00:00:00"
+    },
+    {
+        "price_open": 0.054752,
+        "price_hight": 0.0548967940272288,
+        "price_low": 0.0543159449888109,
+        "price_vwap": 0.0546,
+        "timestamp": 1698192000,
+        "date": "2023-10-25 00:00:00"
+    },
+    {
+        "price_open": 0.0545035165668889,
+        "price_hight": 0.055168,
+        "price_low": 0.0542337583452196,
+        "price_vwap": 0.0547,
+        "timestamp": 1698278400,
+        "date": "2023-10-26 00:00:00"
+    },
+    {
+        "price_open": 0.055084,
+        "price_hight": 0.0555461435701173,
+        "price_low": 0.0549643830797643,
+        "price_vwap": 0.0552,
+        "timestamp": 1698364800,
+        "date": "2023-10-27 00:00:00"
+    },
+    {
+        "price_open": 0.055065169628255,
+        "price_hight": 0.055222,
+        "price_low": 0.0550336833659041,
+        "price_vwap": 0.0552,
+        "timestamp": 1698537600,
+        "date": "2023-10-29 00:00:00"
+    },
+    {
+        "price_open": 0.055205,
+        "price_hight": 0.055655,
+        "price_low": 0.0551641962300788,
+        "price_vwap": 0.0554,
+        "timestamp": 1698624000,
+        "date": "2023-10-30 00:00:00"
+    },
+    {
+        "price_open": 0.0553506352038896,
+        "price_hight": 0.0557807859735867,
+        "price_low": 0.0551651091717511,
+        "price_vwap": 0.0554,
+        "timestamp": 1698710400,
+        "date": "2023-10-31 00:00:00"
+    },
+    {
+        "price_open": 0.055348,
+        "price_hight": 0.0563255572146561,
+        "price_low": 0.0552489240272046,
+        "price_vwap": 0.0557,
+        "timestamp": 1698796800,
+        "date": "2023-11-01 00:00:00"
+    },
+    {
+        "price_open": 0.056288,
+        "price_hight": 0.0570953864073014,
+        "price_low": 0.0561684153766654,
+        "price_vwap": 0.0566,
+        "timestamp": 1698883200,
+        "date": "2023-11-02 00:00:00"
+    },
+    {
+        "price_open": 0.056956690132823,
+        "price_hight": 0.057853,
+        "price_low": 0.0568951195366462,
+        "price_vwap": 0.0573,
+        "timestamp": 1698969600,
+        "date": "2023-11-03 00:00:00"
+    },
+    {
+        "price_open": 0.0571680110677269,
+        "price_hight": 0.057275,
+        "price_low": 0.057163,
+        "price_vwap": 0.0572,
+        "timestamp": 1699142400,
+        "date": "2023-11-05 00:00:00"
+    },
+    {
+        "price_open": 0.0572196622781093,
+        "price_hight": 0.057444,
+        "price_low": 0.0568220560492761,
+        "price_vwap": 0.0572,
+        "timestamp": 1699228800,
+        "date": "2023-11-06 00:00:00"
+    },
+    {
+        "price_open": 0.056971,
+        "price_hight": 0.0572961160681801,
+        "price_low": 0.0567891419160656,
+        "price_vwap": 0.057,
+        "timestamp": 1699315200,
+        "date": "2023-11-07 00:00:00"
+    },
+    {
+        "price_open": 0.0571412245364418,
+        "price_hight": 0.0572483576877388,
+        "price_low": 0.0568411120395159,
+        "price_vwap": 0.0571,
+        "timestamp": 1699401600,
+        "date": "2023-11-08 00:00:00"
+    },
+    {
+        "price_open": 0.056999544003648,
+        "price_hight": 0.0572253270141312,
+        "price_low": 0.0558344174516055,
+        "price_vwap": 0.0568,
+        "timestamp": 1699488000,
+        "date": "2023-11-09 00:00:00"
+    },
+    {
+        "price_open": 0.056152330040935,
+        "price_hight": 0.056749,
+        "price_low": 0.0556969639584946,
+        "price_vwap": 0.0563,
+        "timestamp": 1699574400,
+        "date": "2023-11-10 00:00:00"
+    },
+    {
+        "price_open": 0.0564962175782331,
+        "price_hight": 0.056679,
+        "price_low": 0.0564579097813893,
+        "price_vwap": 0.0566,
+        "timestamp": 1699747200,
+        "date": "2023-11-12 00:00:00"
+    },
+    {
+        "price_open": 0.056597,
+        "price_hight": 0.056896899972405,
+        "price_low": 0.0563662907035077,
+        "price_vwap": 0.0567,
+        "timestamp": 1699833600,
+        "date": "2023-11-13 00:00:00"
+    },
+    {
+        "price_open": 0.0567202105454215,
+        "price_hight": 0.05766,
+        "price_low": 0.0566710303360025,
+        "price_vwap": 0.0572,
+        "timestamp": 1699920000,
+        "date": "2023-11-14 00:00:00"
+    },
+    {
+        "price_open": 0.0575950606475989,
+        "price_hight": 0.057823,
+        "price_low": 0.0573667513782362,
+        "price_vwap": 0.0577,
+        "timestamp": 1700006400,
+        "date": "2023-11-15 00:00:00"
+    },
+    {
+        "price_open": 0.0577563950768449,
+        "price_hight": 0.0580651979268402,
+        "price_low": 0.0576425355798551,
+        "price_vwap": 0.0579,
+        "timestamp": 1700092800,
+        "date": "2023-11-16 00:00:00"
+    },
+    {
+        "price_open": 0.0579522010245949,
+        "price_hight": 0.0581679424835385,
+        "price_low": 0.0578794140288124,
+        "price_vwap": 0.058,
+        "timestamp": 1700179200,
+        "date": "2023-11-17 00:00:00"
+    },
+    {
+        "price_open": 0.0579498501996372,
+        "price_hight": 0.05805,
+        "price_low": 0.0578795815306255,
+        "price_vwap": 0.058,
+        "timestamp": 1700352000,
+        "date": "2023-11-19 00:00:00"
+    },
+    {
+        "price_open": 0.058016,
+        "price_hight": 0.058535,
+        "price_low": 0.057938770307539,
+        "price_vwap": 0.0582,
+        "timestamp": 1700438400,
+        "date": "2023-11-20 00:00:00"
+    },
+    {
+        "price_open": 0.058424,
+        "price_hight": 0.058589,
+        "price_low": 0.0578566428104443,
+        "price_vwap": 0.0583,
+        "timestamp": 1700524800,
+        "date": "2023-11-21 00:00:00"
+    },
+    {
+        "price_open": 0.0581129786039635,
+        "price_hight": 0.058282,
+        "price_low": 0.0579172941040195,
+        "price_vwap": 0.0581,
+        "timestamp": 1700611200,
+        "date": "2023-11-22 00:00:00"
+    },
+    {
+        "price_open": 0.0581300718487688,
+        "price_hight": 0.058314,
+        "price_low": 0.0580713348277024,
+        "price_vwap": 0.0582,
+        "timestamp": 1700697600,
+        "date": "2023-11-23 00:00:00"
+    },
+    {
+        "price_open": 0.05816,
+        "price_hight": 0.058524,
+        "price_low": 0.0580383052814858,
+        "price_vwap": 0.0583,
+        "timestamp": 1700784000,
+        "date": "2023-11-24 00:00:00"
+    },
+    {
+        "price_open": 0.058342036020373,
+        "price_hight": 0.058434,
+        "price_low": 0.058192,
+        "price_vwap": 0.0584,
+        "timestamp": 1700956800,
+        "date": "2023-11-26 00:00:00"
+    },
+    {
+        "price_open": 0.058401,
+        "price_hight": 0.058697226790823,
+        "price_low": 0.0580568376440535,
+        "price_vwap": 0.0584,
+        "timestamp": 1701043200,
+        "date": "2023-11-27 00:00:00"
+    },
+    {
+        "price_open": 0.05822,
+        "price_hight": 0.058451,
+        "price_low": 0.0580366211079191,
+        "price_vwap": 0.0583,
+        "timestamp": 1701129600,
+        "date": "2023-11-28 00:00:00"
+    },
+    {
+        "price_open": 0.058349,
+        "price_hight": 0.0584174593429087,
+        "price_low": 0.0576804388327786,
+        "price_vwap": 0.0582,
+        "timestamp": 1701216000,
+        "date": "2023-11-29 00:00:00"
+    },
+    {
+        "price_open": 0.057801,
+        "price_hight": 0.0579390052915694,
+        "price_low": 0.0570988094898221,
+        "price_vwap": 0.0576,
+        "timestamp": 1701302400,
+        "date": "2023-11-30 00:00:00"
+    },
+    {
+        "price_open": 0.0574951545958464,
+        "price_hight": 0.0582666374556591,
+        "price_low": 0.0574544242779415,
+        "price_vwap": 0.0579,
+        "timestamp": 1701388800,
+        "date": "2023-12-01 00:00:00"
+    },
+    {
+        "price_open": 0.058114869851749,
+        "price_hight": 0.058165,
+        "price_low": 0.057979,
+        "price_vwap": 0.0581,
+        "timestamp": 1701561600,
+        "date": "2023-12-03 00:00:00"
+    },
+    {
+        "price_open": 0.058147,
+        "price_hight": 0.0581885892176544,
+        "price_low": 0.0569693447955655,
+        "price_vwap": 0.0577,
+        "timestamp": 1701648000,
+        "date": "2023-12-04 00:00:00"
+    },
+    {
+        "price_open": 0.0572362012104312,
+        "price_hight": 0.0576060426434491,
+        "price_low": 0.0568802329814343,
+        "price_vwap": 0.0573,
+        "timestamp": 1701734400,
+        "date": "2023-12-05 00:00:00"
+    },
+    {
+        "price_open": 0.057553,
+        "price_hight": 0.0579962638806808,
+        "price_low": 0.0574729158883876,
+        "price_vwap": 0.0577,
+        "timestamp": 1701820800,
+        "date": "2023-12-06 00:00:00"
+    },
+    {
+        "price_open": 0.0577860989760303,
+        "price_hight": 0.057875,
+        "price_low": 0.0569557169300869,
+        "price_vwap": 0.0576,
+        "timestamp": 1701907200,
+        "date": "2023-12-07 00:00:00"
+    },
+    {
+        "price_open": 0.0571742212871061,
+        "price_hight": 0.0577713099586762,
+        "price_low": 0.0570327025516431,
+        "price_vwap": 0.0574,
+        "timestamp": 1701993600,
+        "date": "2023-12-08 00:00:00"
+    },
+    {
+        "price_open": 0.0574702735010316,
+        "price_hight": 0.057660250810559,
+        "price_low": 0.057432,
+        "price_vwap": 0.0576,
+        "timestamp": 1702166400,
+        "date": "2023-12-10 00:00:00"
+    },
+    {
+        "price_open": 0.057622,
+        "price_hight": 0.057646,
+        "price_low": 0.0572020203753597,
+        "price_vwap": 0.0575,
+        "timestamp": 1702252800,
+        "date": "2023-12-11 00:00:00"
+    },
+    {
+        "price_open": 0.057509,
+        "price_hight": 0.0578051722912063,
+        "price_low": 0.0572967398155045,
+        "price_vwap": 0.0576,
+        "timestamp": 1702339200,
+        "date": "2023-12-12 00:00:00"
+    },
+    {
+        "price_open": 0.057775,
+        "price_hight": 0.0581584701995999,
+        "price_low": 0.0572128202487613,
+        "price_vwap": 0.0577,
+        "timestamp": 1702425600,
+        "date": "2023-12-13 00:00:00"
+    },
+    {
+        "price_open": 0.0579121287687766,
+        "price_hight": 0.058326,
+        "price_low": 0.0574244007763779,
+        "price_vwap": 0.0579,
+        "timestamp": 1702512000,
+        "date": "2023-12-14 00:00:00"
+    },
+    {
+        "price_open": 0.0581561364319698,
+        "price_hight": 0.058228,
+        "price_low": 0.0576056776155858,
+        "price_vwap": 0.0581,
+        "timestamp": 1702598400,
+        "date": "2023-12-15 00:00:00"
+    },
+    {
+        "price_open": 0.0578024658531933,
+        "price_hight": 0.058055,
+        "price_low": 0.057702,
+        "price_vwap": 0.058,
+        "timestamp": 1702771200,
+        "date": "2023-12-17 00:00:00"
+    },
+    {
+        "price_open": 0.0580315691736305,
+        "price_hight": 0.0582901063619571,
+        "price_low": 0.0577550607872015,
+        "price_vwap": 0.058,
+        "timestamp": 1702857600,
+        "date": "2023-12-18 00:00:00"
+    },
+    {
+        "price_open": 0.05825,
+        "price_hight": 0.058716,
+        "price_low": 0.0581753871572015,
+        "price_vwap": 0.0584,
+        "timestamp": 1702944000,
+        "date": "2023-12-19 00:00:00"
+    },
+    {
+        "price_open": 0.0585130659676306,
+        "price_hight": 0.058716,
+        "price_low": 0.05824111822947,
+        "price_vwap": 0.0585,
+        "timestamp": 1703030400,
+        "date": "2023-12-20 00:00:00"
+    },
+    {
+        "price_open": 0.058352,
+        "price_hight": 0.058738,
+        "price_low": 0.058303938431041,
+        "price_vwap": 0.0585,
+        "timestamp": 1703116800,
+        "date": "2023-12-21 00:00:00"
+    },
+    {
+        "price_open": 0.058695,
+        "price_hight": 0.0590539440062314,
+        "price_low": 0.0585874564255793,
+        "price_vwap": 0.0588,
+        "timestamp": 1703203200,
+        "date": "2023-12-22 00:00:00"
+    },
+    {
+        "price_open": 0.058883,
+        "price_hight": 0.0588893469171427,
+        "price_low": 0.058666,
+        "price_vwap": 0.0587,
+        "timestamp": 1703376000,
+        "date": "2023-12-24 00:00:00"
+    },
+    {
+        "price_open": 0.0586671641642188,
+        "price_hight": 0.0588893469171427,
+        "price_low": 0.0585522259506979,
+        "price_vwap": 0.0588,
+        "timestamp": 1703462400,
+        "date": "2023-12-25 00:00:00"
+    },
+    {
+        "price_open": 0.058833,
+        "price_hight": 0.0590120903970806,
+        "price_low": 0.0587302519527809,
+        "price_vwap": 0.0589,
+        "timestamp": 1703548800,
+        "date": "2023-12-26 00:00:00"
+    },
+    {
+        "price_open": 0.058857251154485,
+        "price_hight": 0.059139,
+        "price_low": 0.0587740900301511,
+        "price_vwap": 0.059,
+        "timestamp": 1703635200,
+        "date": "2023-12-27 00:00:00"
+    },
+    {
+        "price_open": 0.059078,
+        "price_hight": 0.0593017456654872,
+        "price_low": 0.0587854917406384,
+        "price_vwap": 0.0591,
+        "timestamp": 1703721600,
+        "date": "2023-12-28 00:00:00"
+    },
+    {
+        "price_open": 0.0589287692608682,
+        "price_hight": 0.0591814028359728,
+        "price_low": 0.0587965521701807,
+        "price_vwap": 0.059,
+        "timestamp": 1703808000,
+        "date": "2023-12-29 00:00:00"
+    },
+    {
+        "price_open": 0.058875,
+        "price_hight": 0.058875,
+        "price_low": 0.058875,
+        "price_vwap": 0.0589,
+        "timestamp": 1703980800,
+        "date": "2023-12-31 00:00:00"
+    },
+    {
+        "price_open": 0.0588609234101665,
+        "price_hight": 0.0589829220847396,
+        "price_low": 0.0585943565431439,
+        "price_vwap": 0.0589,
+        "timestamp": 1704067200,
+        "date": "2024-01-01 00:00:00"
+    },
+    {
+        "price_open": 0.0589252274219152,
+        "price_hight": 0.059134,
+        "price_low": 0.0585219691472179,
+        "price_vwap": 0.0588,
+        "timestamp": 1704153600,
+        "date": "2024-01-02 00:00:00"
+    },
+    {
+        "price_open": 0.0586534344518543,
+        "price_hight": 0.058769,
+        "price_low": 0.0584153094843097,
+        "price_vwap": 0.0587,
+        "timestamp": 1704240000,
+        "date": "2024-01-03 00:00:00"
+    },
+    {
+        "price_open": 0.058761,
+        "price_hight": 0.058898,
+        "price_low": 0.0584638050582884,
+        "price_vwap": 0.0587,
+        "timestamp": 1704326400,
+        "date": "2024-01-04 00:00:00"
+    },
+    {
+        "price_open": 0.0587312867437613,
+        "price_hight": 0.059279,
+        "price_low": 0.0585443417771838,
+        "price_vwap": 0.0589,
+        "timestamp": 1704412800,
+        "date": "2024-01-05 00:00:00"
+    },
+    {
+        "price_open": 0.059155,
+        "price_hight": 0.059235,
+        "price_low": 0.059103,
+        "price_vwap": 0.0592,
+        "timestamp": 1704585600,
+        "date": "2024-01-07 00:00:00"
+    },
+    {
+        "price_open": 0.059212,
+        "price_hight": 0.0595697278556983,
+        "price_low": 0.0590859405004579,
+        "price_vwap": 0.0593,
+        "timestamp": 1704672000,
+        "date": "2024-01-08 00:00:00"
+    },
+    {
+        "price_open": 0.0593415462033279,
+        "price_hight": 0.059454,
+        "price_low": 0.0587844550387096,
+        "price_vwap": 0.0592,
+        "timestamp": 1704758400,
+        "date": "2024-01-09 00:00:00"
+    },
+    {
+        "price_open": 0.058920783363599,
+        "price_hight": 0.058982782925664,
+        "price_low": 0.0586902679797636,
+        "price_vwap": 0.0589,
+        "timestamp": 1704844800,
+        "date": "2024-01-10 00:00:00"
+    },
+    {
+        "price_open": 0.058867,
+        "price_hight": 0.059161,
+        "price_low": 0.0585646735546531,
+        "price_vwap": 0.0589,
+        "timestamp": 1704931200,
+        "date": "2024-01-11 00:00:00"
+    },
+    {
+        "price_open": 0.059145,
+        "price_hight": 0.059401,
+        "price_low": 0.058896283644502,
+        "price_vwap": 0.0592,
+        "timestamp": 1705017600,
+        "date": "2024-01-12 00:00:00"
+    },
+    {
+        "price_open": 0.05921,
+        "price_hight": 0.059286,
+        "price_low": 0.059041,
+        "price_vwap": 0.0592,
+        "timestamp": 1705190400,
+        "date": "2024-01-14 00:00:00"
+    },
+    {
+        "price_open": 0.059263,
+        "price_hight": 0.059337,
+        "price_low": 0.0590698855816316,
+        "price_vwap": 0.0592,
+        "timestamp": 1705276800,
+        "date": "2024-01-15 00:00:00"
+    },
+    {
+        "price_open": 0.059162,
+        "price_hight": 0.0591641408508869,
+        "price_low": 0.057980761983174,
+        "price_vwap": 0.0586,
+        "timestamp": 1705363200,
+        "date": "2024-01-16 00:00:00"
+    },
+    {
+        "price_open": 0.058086,
+        "price_hight": 0.0581632059559123,
+        "price_low": 0.0574673011056709,
+        "price_vwap": 0.0578,
+        "timestamp": 1705449600,
+        "date": "2024-01-17 00:00:00"
+    },
+    {
+        "price_open": 0.058106,
+        "price_hight": 0.058291,
+        "price_low": 0.057963286054613,
+        "price_vwap": 0.0581,
+        "timestamp": 1705536000,
+        "date": "2024-01-18 00:00:00"
+    },
+    {
+        "price_open": 0.0582328428575089,
+        "price_hight": 0.058543,
+        "price_low": 0.057987822557263,
+        "price_vwap": 0.0583,
+        "timestamp": 1705622400,
+        "date": "2024-01-19 00:00:00"
+    },
+    {
+        "price_open": 0.058043,
+        "price_hight": 0.058541,
+        "price_low": 0.058043,
+        "price_vwap": 0.0584,
+        "timestamp": 1705795200,
+        "date": "2024-01-21 00:00:00"
+    },
+    {
+        "price_open": 0.058479,
+        "price_hight": 0.0586194647104961,
+        "price_low": 0.0580258447112344,
+        "price_vwap": 0.0584,
+        "timestamp": 1705881600,
+        "date": "2024-01-22 00:00:00"
+    },
+    {
+        "price_open": 0.058167,
+        "price_hight": 0.058283,
+        "price_low": 0.0574626779906451,
+        "price_vwap": 0.0579,
+        "timestamp": 1705968000,
+        "date": "2024-01-23 00:00:00"
+    },
+    {
+        "price_open": 0.057761,
+        "price_hight": 0.0583379517545139,
+        "price_low": 0.0576907544796871,
+        "price_vwap": 0.058,
+        "timestamp": 1706054400,
+        "date": "2024-01-24 00:00:00"
+    },
+    {
+        "price_open": 0.058003,
+        "price_hight": 0.058235,
+        "price_low": 0.0578593208472919,
+        "price_vwap": 0.058,
+        "timestamp": 1706140800,
+        "date": "2024-01-25 00:00:00"
+    },
+    {
+        "price_open": 0.0581059550469089,
+        "price_hight": 0.058371,
+        "price_low": 0.0580194481190095,
+        "price_vwap": 0.0582,
+        "timestamp": 1706227200,
+        "date": "2024-01-26 00:00:00"
+    },
+    {
+        "price_open": 0.058191,
+        "price_hight": 0.05829,
+        "price_low": 0.058187,
+        "price_vwap": 0.0582,
+        "timestamp": 1706400000,
+        "date": "2024-01-28 00:00:00"
+    },
+    {
+        "price_open": 0.058212,
+        "price_hight": 0.0583286281573286,
+        "price_low": 0.0578352274370319,
+        "price_vwap": 0.0582,
+        "timestamp": 1706486400,
+        "date": "2024-01-29 00:00:00"
+    },
+    {
+        "price_open": 0.0580130529369108,
+        "price_hight": 0.0583487763094632,
+        "price_low": 0.0578686959289373,
+        "price_vwap": 0.0581,
+        "timestamp": 1706572800,
+        "date": "2024-01-30 00:00:00"
+    },
+    {
+        "price_open": 0.0582803225233049,
+        "price_hight": 0.0584774119300938,
+        "price_low": 0.0579810981619992,
+        "price_vwap": 0.0583,
+        "timestamp": 1706659200,
+        "date": "2024-01-31 00:00:00"
+    },
+    {
+        "price_open": 0.0580197847465986,
+        "price_hight": 0.0585706077461972,
+        "price_low": 0.0579911853398284,
+        "price_vwap": 0.0585,
+        "timestamp": 1706745600,
+        "date": "2024-02-01 00:00:00"
+    },
+    {
+        "price_open": 0.0584959520801161,
+        "price_hight": 0.0586855493290188,
+        "price_low": 0.0581293960355752,
+        "price_vwap": 0.0584,
+        "timestamp": 1706832000,
+        "date": "2024-02-02 00:00:00"
+    },
+    {
+        "price_open": 0.0582910237652504,
+        "price_hight": 0.058346,
+        "price_low": 0.058126,
+        "price_vwap": 0.0582,
+        "timestamp": 1707004800,
+        "date": "2024-02-04 00:00:00"
+    },
+    {
+        "price_open": 0.058287,
+        "price_hight": 0.058514,
+        "price_low": 0.057817170543308,
+        "price_vwap": 0.0582,
+        "timestamp": 1707091200,
+        "date": "2024-02-05 00:00:00"
+    },
+    {
+        "price_open": 0.058386,
+        "price_hight": 0.058786,
+        "price_low": 0.0582852480037303,
+        "price_vwap": 0.0585,
+        "timestamp": 1707177600,
+        "date": "2024-02-06 00:00:00"
+    },
+    {
+        "price_open": 0.0586650647192994,
+        "price_hight": 0.0587894315414707,
+        "price_low": 0.0584976630183624,
+        "price_vwap": 0.0587,
+        "timestamp": 1707264000,
+        "date": "2024-02-07 00:00:00"
+    },
+    {
+        "price_open": 0.0586057573123869,
+        "price_hight": 0.058683035321319,
+        "price_low": 0.0581751840953701,
+        "price_vwap": 0.0585,
+        "timestamp": 1707350400,
+        "date": "2024-02-08 00:00:00"
+    },
+    {
+        "price_open": 0.058313,
+        "price_hight": 0.0585560316811554,
+        "price_low": 0.0581730181907028,
+        "price_vwap": 0.0584,
+        "timestamp": 1707436800,
+        "date": "2024-02-09 00:00:00"
+    },
+    {
+        "price_open": 0.05838,
+        "price_hight": 0.0585445131496831,
+        "price_low": 0.058367,
+        "price_vwap": 0.0585,
+        "timestamp": 1707609600,
+        "date": "2024-02-11 00:00:00"
+    },
+    {
+        "price_open": 0.05854,
+        "price_hight": 0.0586597651497643,
+        "price_low": 0.0583720047865044,
+        "price_vwap": 0.0586,
+        "timestamp": 1707696000,
+        "date": "2024-02-12 00:00:00"
+    },
+    {
+        "price_open": 0.058572,
+        "price_hight": 0.0586197052483981,
+        "price_low": 0.0579871500475495,
+        "price_vwap": 0.0583,
+        "timestamp": 1707782400,
+        "date": "2024-02-13 00:00:00"
+    },
+    {
+        "price_open": 0.0581126746649078,
+        "price_hight": 0.0585445816989638,
+        "price_low": 0.0580399895528019,
+        "price_vwap": 0.0583,
+        "timestamp": 1707868800,
+        "date": "2024-02-14 00:00:00"
+    },
+    {
+        "price_open": 0.0585,
+        "price_hight": 0.0586751847388192,
+        "price_low": 0.0583856371332652,
+        "price_vwap": 0.0586,
+        "timestamp": 1707955200,
+        "date": "2024-02-15 00:00:00"
+    },
+    {
+        "price_open": 0.0586648238090014,
+        "price_hight": 0.0587148378853969,
+        "price_low": 0.0584026865235801,
+        "price_vwap": 0.0586,
+        "timestamp": 1708041600,
+        "date": "2024-02-16 00:00:00"
+    },
+    {
+        "price_open": 0.058515,
+        "price_hight": 0.05865,
+        "price_low": 0.058485,
+        "price_vwap": 0.0586,
+        "timestamp": 1708214400,
+        "date": "2024-02-18 00:00:00"
+    },
+    {
+        "price_open": 0.058654,
+        "price_hight": 0.058706,
+        "price_low": 0.058531,
+        "price_vwap": 0.0586,
+        "timestamp": 1708300800,
+        "date": "2024-02-19 00:00:00"
+    },
+    {
+        "price_open": 0.058652,
+        "price_hight": 0.058831,
+        "price_low": 0.0584894514274351,
+        "price_vwap": 0.0587,
+        "timestamp": 1708387200,
+        "date": "2024-02-20 00:00:00"
+    },
+    {
+        "price_open": 0.0585541801829233,
+        "price_hight": 0.058681,
+        "price_low": 0.0584556029695446,
+        "price_vwap": 0.0586,
+        "timestamp": 1708473600,
+        "date": "2024-02-21 00:00:00"
+    },
+    {
+        "price_open": 0.058653,
+        "price_hight": 0.0587746081937681,
+        "price_low": 0.0582089117843942,
+        "price_vwap": 0.0585,
+        "timestamp": 1708560000,
+        "date": "2024-02-22 00:00:00"
+    },
+    {
+        "price_open": 0.058437,
+        "price_hight": 0.058575,
+        "price_low": 0.0582407790286603,
+        "price_vwap": 0.0584,
+        "timestamp": 1708646400,
+        "date": "2024-02-23 00:00:00"
+    },
+    {
+        "price_open": 0.058368,
+        "price_hight": 0.058428,
+        "price_low": 0.0583137982109327,
+        "price_vwap": 0.0584,
+        "timestamp": 1708819200,
+        "date": "2024-02-25 00:00:00"
+    },
+    {
+        "price_open": 0.058424,
+        "price_hight": 0.0585328278438321,
+        "price_low": 0.0582787940951926,
+        "price_vwap": 0.0584,
+        "timestamp": 1708905600,
+        "date": "2024-02-26 00:00:00"
+    },
+    {
+        "price_open": 0.058484901830168,
+        "price_hight": 0.0586731191451561,
+        "price_low": 0.0583975706610605,
+        "price_vwap": 0.0586,
+        "timestamp": 1708992000,
+        "date": "2024-02-27 00:00:00"
+    },
+    {
+        "price_open": 0.058575,
+        "price_hight": 0.0585851224253303,
+        "price_low": 0.0583801834305363,
+        "price_vwap": 0.0585,
+        "timestamp": 1709078400,
+        "date": "2024-02-28 00:00:00"
+    },
+    {
+        "price_open": 0.0584643177652599,
+        "price_hight": 0.058677,
+        "price_low": 0.0583890462149301,
+        "price_vwap": 0.0586,
+        "timestamp": 1709164800,
+        "date": "2024-02-29 00:00:00"
+    },
+    {
+        "price_open": 0.0586416024638856,
+        "price_hight": 0.0588202769964484,
+        "price_low": 0.0585428680151041,
+        "price_vwap": 0.0587,
+        "timestamp": 1709251200,
+        "date": "2024-03-01 00:00:00"
+    },
+    {
+        "price_open": 0.058679,
+        "price_hight": 0.058782,
+        "price_low": 0.058634,
+        "price_vwap": 0.0587,
+        "timestamp": 1709424000,
+        "date": "2024-03-03 00:00:00"
+    },
+    {
+        "price_open": 0.058773,
+        "price_hight": 0.0589898112797958,
+        "price_low": 0.0586596275113653,
+        "price_vwap": 0.0588,
+        "timestamp": 1709510400,
+        "date": "2024-03-04 00:00:00"
+    },
+    {
+        "price_open": 0.058962,
+        "price_hight": 0.059164,
+        "price_low": 0.0588359887976277,
+        "price_vwap": 0.059,
+        "timestamp": 1709596800,
+        "date": "2024-03-05 00:00:00"
+    },
+    {
+        "price_open": 0.058997,
+        "price_hight": 0.0593462652801797,
+        "price_low": 0.0589334229121362,
+        "price_vwap": 0.0592,
+        "timestamp": 1709683200,
+        "date": "2024-03-06 00:00:00"
+    },
+    {
+        "price_open": 0.0591828038445149,
+        "price_hight": 0.0593428491570052,
+        "price_low": 0.0590343166482676,
+        "price_vwap": 0.0592,
+        "timestamp": 1709769600,
+        "date": "2024-03-07 00:00:00"
+    },
+    {
+        "price_open": 0.059248,
+        "price_hight": 0.0596449099928486,
+        "price_low": 0.0591463991672187,
+        "price_vwap": 0.0594,
+        "timestamp": 1709856000,
+        "date": "2024-03-08 00:00:00"
+    },
+    {
+        "price_open": 0.05945,
+        "price_hight": 0.0594954075494913,
+        "price_low": 0.0594385788473552,
+        "price_vwap": 0.0595,
+        "timestamp": 1710028800,
+        "date": "2024-03-10 00:00:00"
+    },
+    {
+        "price_open": 0.059495,
+        "price_hight": 0.0595752286199398,
+        "price_low": 0.0593278158464596,
+        "price_vwap": 0.0595,
+        "timestamp": 1710115200,
+        "date": "2024-03-11 00:00:00"
+    },
+    {
+        "price_open": 0.059507,
+        "price_hight": 0.059607,
+        "price_low": 0.05927225525004,
+        "price_vwap": 0.0595,
+        "timestamp": 1710201600,
+        "date": "2024-03-12 00:00:00"
+    },
+    {
+        "price_open": 0.0595172909633707,
+        "price_hight": 0.060020406938359,
+        "price_low": 0.0594000594000594,
+        "price_vwap": 0.0597,
+        "timestamp": 1710288000,
+        "date": "2024-03-13 00:00:00"
+    },
+    {
+        "price_open": 0.059971,
+        "price_hight": 0.060064,
+        "price_low": 0.059694364851958,
+        "price_vwap": 0.0599,
+        "timestamp": 1710374400,
+        "date": "2024-03-14 00:00:00"
+    },
+    {
+        "price_open": 0.059854,
+        "price_hight": 0.06,
+        "price_low": 0.0596861701175221,
+        "price_vwap": 0.0598,
+        "timestamp": 1710460800,
+        "date": "2024-03-15 00:00:00"
+    },
+    {
+        "price_open": 0.059842,
+        "price_hight": 0.059842,
+        "price_low": 0.0597676830161164,
+        "price_vwap": 0.0598,
+        "timestamp": 1710633600,
+        "date": "2024-03-17 00:00:00"
+    },
+    {
+        "price_open": 0.059788,
+        "price_hight": 0.059931,
+        "price_low": 0.0592283727596868,
+        "price_vwap": 0.0596,
+        "timestamp": 1710720000,
+        "date": "2024-03-18 00:00:00"
+    },
+    {
+        "price_open": 0.059396,
+        "price_hight": 0.059514,
+        "price_low": 0.0589546167360366,
+        "price_vwap": 0.0593,
+        "timestamp": 1710806400,
+        "date": "2024-03-19 00:00:00"
+    },
+    {
+        "price_open": 0.059456,
+        "price_hight": 0.059973,
+        "price_low": 0.0592645272172341,
+        "price_vwap": 0.0596,
+        "timestamp": 1710892800,
+        "date": "2024-03-20 00:00:00"
+    },
+    {
+        "price_open": 0.059932,
+        "price_hight": 0.059986,
+        "price_low": 0.0595121196431653,
+        "price_vwap": 0.0598,
+        "timestamp": 1710979200,
+        "date": "2024-03-21 00:00:00"
+    },
+    {
+        "price_open": 0.059721,
+        "price_hight": 0.059893,
+        "price_low": 0.0593778390029273,
+        "price_vwap": 0.0596,
+        "timestamp": 1711065600,
+        "date": "2024-03-22 00:00:00"
+    },
+    {
+        "price_open": 0.0596278032521004,
+        "price_hight": 0.059668,
+        "price_low": 0.059626,
+        "price_vwap": 0.0596,
+        "timestamp": 1711238400,
+        "date": "2024-03-24 00:00:00"
+    },
+    {
+        "price_open": 0.059653,
+        "price_hight": 0.0599881103565273,
+        "price_low": 0.0595787780392624,
+        "price_vwap": 0.0598,
+        "timestamp": 1711324800,
+        "date": "2024-03-25 00:00:00"
+    },
+    {
+        "price_open": 0.0599206411029233,
+        "price_hight": 0.060089,
+        "price_low": 0.0597621466563079,
+        "price_vwap": 0.06,
+        "timestamp": 1711411200,
+        "date": "2024-03-26 00:00:00"
+    },
+    {
+        "price_open": 0.060063,
+        "price_hight": 0.0605524808351398,
+        "price_low": 0.0599096562383925,
+        "price_vwap": 0.0602,
+        "timestamp": 1711497600,
+        "date": "2024-03-27 00:00:00"
+    },
+    {
+        "price_open": 0.0603096296385644,
+        "price_hight": 0.0604395405144372,
+        "price_low": 0.060043,
+        "price_vwap": 0.0603,
+        "timestamp": 1711584000,
+        "date": "2024-03-28 00:00:00"
+    },
+    {
+        "price_open": 0.0601496523350095,
+        "price_hight": 0.0604106960762045,
+        "price_low": 0.0600878484344111,
+        "price_vwap": 0.0602,
+        "timestamp": 1711670400,
+        "date": "2024-03-29 00:00:00"
+    },
+    {
+        "price_open": 0.060252,
+        "price_hight": 0.060388,
+        "price_low": 0.0602116922676747,
+        "price_vwap": 0.0603,
+        "timestamp": 1711843200,
+        "date": "2024-03-31 00:00:00"
+    },
+    {
+        "price_open": 0.060386,
+        "price_hight": 0.0604739342225018,
+        "price_low": 0.0599017611117767,
+        "price_vwap": 0.0603,
+        "timestamp": 1711929600,
+        "date": "2024-04-01 00:00:00"
+    },
+    {
+        "price_open": 0.0600997656109141,
+        "price_hight": 0.060416,
+        "price_low": 0.0599736116108912,
+        "price_vwap": 0.0602,
+        "timestamp": 1712016000,
+        "date": "2024-04-02 00:00:00"
+    },
+    {
+        "price_open": 0.0603592097289389,
+        "price_hight": 0.0605213307430204,
+        "price_low": 0.0600618637196312,
+        "price_vwap": 0.0604,
+        "timestamp": 1712102400,
+        "date": "2024-04-03 00:00:00"
+    },
+    {
+        "price_open": 0.060442,
+        "price_hight": 0.060617,
+        "price_low": 0.060083,
+        "price_vwap": 0.0604,
+        "timestamp": 1712188800,
+        "date": "2024-04-04 00:00:00"
+    },
+    {
+        "price_open": 0.0603301507167825,
+        "price_hight": 0.060816,
+        "price_low": 0.060146758089739,
+        "price_vwap": 0.0605,
+        "timestamp": 1712275200,
+        "date": "2024-04-05 00:00:00"
+    },
+    {
+        "price_open": 0.060718,
+        "price_hight": 0.060755,
+        "price_low": 0.0606678314890313,
+        "price_vwap": 0.0607,
+        "timestamp": 1712448000,
+        "date": "2024-04-07 00:00:00"
+    },
+    {
+        "price_open": 0.060715,
+        "price_hight": 0.0612935513667543,
+        "price_low": 0.060572653869684,
+        "price_vwap": 0.0609,
+        "timestamp": 1712534400,
+        "date": "2024-04-08 00:00:00"
+    },
+    {
+        "price_open": 0.0612355996832895,
+        "price_hight": 0.0614869260349172,
+        "price_low": 0.0608279906081583,
+        "price_vwap": 0.0612,
+        "timestamp": 1712620800,
+        "date": "2024-04-09 00:00:00"
+    },
+    {
+        "price_open": 0.061019,
+        "price_hight": 0.061319,
+        "price_low": 0.0604741170778907,
+        "price_vwap": 0.0609,
+        "timestamp": 1712707200,
+        "date": "2024-04-10 00:00:00"
+    },
+    {
+        "price_open": 0.0607148321477751,
+        "price_hight": 0.061058,
+        "price_low": 0.0605847641435132,
+        "price_vwap": 0.0608,
+        "timestamp": 1712793600,
+        "date": "2024-04-11 00:00:00"
+    },
+    {
+        "price_open": 0.060812,
+        "price_hight": 0.0608669770476716,
+        "price_low": 0.0596665831334503,
+        "price_vwap": 0.0604,
+        "timestamp": 1712880000,
+        "date": "2024-04-12 00:00:00"
+    },
+    {
+        "price_open": 0.059869,
+        "price_hight": 0.060183,
+        "price_low": 0.059867,
+        "price_vwap": 0.0601,
+        "timestamp": 1713052800,
+        "date": "2024-04-14 00:00:00"
+    },
+    {
+        "price_open": 0.0601326526317056,
+        "price_hight": 0.0604457511472604,
+        "price_low": 0.059671211623952,
+        "price_vwap": 0.0601,
+        "timestamp": 1713139200,
+        "date": "2024-04-15 00:00:00"
+    },
+    {
+        "price_open": 0.0598388897731747,
+        "price_hight": 0.059849,
+        "price_low": 0.0584754286248918,
+        "price_vwap": 0.0591,
+        "timestamp": 1713225600,
+        "date": "2024-04-16 00:00:00"
+    },
+    {
+        "price_open": 0.058691,
+        "price_hight": 0.0592984401545317,
+        "price_low": 0.0584744028301611,
+        "price_vwap": 0.0589,
+        "timestamp": 1713312000,
+        "date": "2024-04-17 00:00:00"
+    },
+    {
+        "price_open": 0.0588678534425921,
+        "price_hight": 0.05909,
+        "price_low": 0.0581909594525395,
+        "price_vwap": 0.0587,
+        "timestamp": 1713398400,
+        "date": "2024-04-18 00:00:00"
+    },
+    {
+        "price_open": 0.058544,
+        "price_hight": 0.0585607981134053,
+        "price_low": 0.054959,
+        "price_vwap": 0.0579,
+        "timestamp": 1713484800,
+        "date": "2024-04-19 00:00:00"
+    },
+    {
+        "price_open": 0.058461,
+        "price_hight": 0.05849,
+        "price_low": 0.0583958655727175,
+        "price_vwap": 0.0585,
+        "timestamp": 1713657600,
+        "date": "2024-04-21 00:00:00"
+    },
+    {
+        "price_open": 0.058447,
+        "price_hight": 0.058773,
+        "price_low": 0.0579240037071362,
+        "price_vwap": 0.0585,
+        "timestamp": 1713744000,
+        "date": "2024-04-22 00:00:00"
+    },
+    {
+        "price_open": 0.058341,
+        "price_hight": 0.0590458195559754,
+        "price_low": 0.0582557076029524,
+        "price_vwap": 0.0586,
+        "timestamp": 1713830400,
+        "date": "2024-04-23 00:00:00"
+    },
+    {
+        "price_open": 0.058923,
+        "price_hight": 0.0591291226302526,
+        "price_low": 0.0582818510315888,
+        "price_vwap": 0.0588,
+        "timestamp": 1713916800,
+        "date": "2024-04-24 00:00:00"
+    },
+    {
+        "price_open": 0.05852,
+        "price_hight": 0.058745,
+        "price_low": 0.0574201142660274,
+        "price_vwap": 0.0583,
+        "timestamp": 1714003200,
+        "date": "2024-04-25 00:00:00"
+    },
+    {
+        "price_open": 0.058116,
+        "price_hight": 0.0584173569651015,
+        "price_low": 0.0577884365338496,
+        "price_vwap": 0.0582,
+        "timestamp": 1714089600,
+        "date": "2024-04-26 00:00:00"
+    },
+    {
+        "price_open": 0.058062,
+        "price_hight": 0.058252,
+        "price_low": 0.0580541412921691,
+        "price_vwap": 0.0582,
+        "timestamp": 1714262400,
+        "date": "2024-04-28 00:00:00"
+    },
+    {
+        "price_open": 0.058243,
+        "price_hight": 0.0588488344105613,
+        "price_low": 0.057965,
+        "price_vwap": 0.0585,
+        "timestamp": 1714348800,
+        "date": "2024-04-29 00:00:00"
+    },
+    {
+        "price_open": 0.058762,
+        "price_hight": 0.058955,
+        "price_low": 0.0581207470143372,
+        "price_vwap": 0.0586,
+        "timestamp": 1714435200,
+        "date": "2024-04-30 00:00:00"
+    },
+    {
+        "price_open": 0.058291,
+        "price_hight": 0.059118635731067,
+        "price_low": 0.0582170447863726,
+        "price_vwap": 0.0586,
+        "timestamp": 1714521600,
+        "date": "2024-05-01 00:00:00"
+    },
+    {
+        "price_open": 0.058971,
+        "price_hight": 0.059158,
+        "price_low": 0.0587219749374611,
+        "price_vwap": 0.059,
+        "timestamp": 1714608000,
+        "date": "2024-05-02 00:00:00"
+    },
+    {
+        "price_open": 0.0588782515514419,
+        "price_hight": 0.059421,
+        "price_low": 0.0586558427084922,
+        "price_vwap": 0.059,
+        "timestamp": 1714694400,
+        "date": "2024-05-03 00:00:00"
+    },
+    {
+        "price_open": 0.0589101620029455,
+        "price_hight": 0.0589344648750589,
+        "price_low": 0.0585051923358198,
+        "price_vwap": 0.0588,
+        "timestamp": 1714867200,
+        "date": "2024-05-05 00:00:00"
+    },
+    {
+        "price_open": 0.058866,
+        "price_hight": 0.0593287310059068,
+        "price_low": 0.0588211073661673,
+        "price_vwap": 0.0591,
+        "timestamp": 1714953600,
+        "date": "2024-05-06 00:00:00"
+    },
+    {
+        "price_open": 0.0592542380112382,
+        "price_hight": 0.059397,
+        "price_low": 0.0589831308245842,
+        "price_vwap": 0.0592,
+        "timestamp": 1715040000,
+        "date": "2024-05-07 00:00:00"
+    },
+    {
+        "price_open": 0.059138,
+        "price_hight": 0.0592450404495514,
+        "price_low": 0.0588422204700317,
+        "price_vwap": 0.0591,
+        "timestamp": 1715126400,
+        "date": "2024-05-08 00:00:00"
+    },
+    {
+        "price_open": 0.059094,
+        "price_hight": 0.0596076860534705,
+        "price_low": 0.0588955898982284,
+        "price_vwap": 0.0592,
+        "timestamp": 1715212800,
+        "date": "2024-05-09 00:00:00"
+    },
+    {
+        "price_open": 0.0594972482522683,
+        "price_hight": 0.0597970249784133,
+        "price_low": 0.0594141762224467,
+        "price_vwap": 0.0596,
+        "timestamp": 1715299200,
+        "date": "2024-05-10 00:00:00"
+    },
+    {
+        "price_open": 0.0593796019191487,
+        "price_hight": 0.059586,
+        "price_low": 0.0593056142845875,
+        "price_vwap": 0.0595,
+        "timestamp": 1715472000,
+        "date": "2024-05-12 00:00:00"
+    },
+    {
+        "price_open": 0.059577,
+        "price_hight": 0.0597578968566749,
+        "price_low": 0.0591715976331361,
+        "price_vwap": 0.0596,
+        "timestamp": 1715558400,
+        "date": "2024-05-13 00:00:00"
+    },
+    {
+        "price_open": 0.059523,
+        "price_hight": 0.059617707412985,
+        "price_low": 0.059171,
+        "price_vwap": 0.0594,
+        "timestamp": 1715644800,
+        "date": "2024-05-14 00:00:00"
+    },
+    {
+        "price_open": 0.059344,
+        "price_hight": 0.0600503221699785,
+        "price_low": 0.0590859405004579,
+        "price_vwap": 0.0596,
+        "timestamp": 1715731200,
+        "date": "2024-05-15 00:00:00"
+    },
+    {
+        "price_open": 0.059929,
+        "price_hight": 0.0600102857629798,
+        "price_low": 0.0596761969553204,
+        "price_vwap": 0.0599,
+        "timestamp": 1715817600,
+        "date": "2024-05-16 00:00:00"
+    },
+    {
+        "price_open": 0.059943,
+        "price_hight": 0.0602342147205193,
+        "price_low": 0.0597614323620109,
+        "price_vwap": 0.06,
+        "timestamp": 1715904000,
+        "date": "2024-05-17 00:00:00"
+    },
+    {
+        "price_open": 0.0600285856124687,
+        "price_hight": 0.0602386414017773,
+        "price_low": 0.060024369894177,
+        "price_vwap": 0.0602,
+        "timestamp": 1716076800,
+        "date": "2024-05-19 00:00:00"
+    },
+    {
+        "price_open": 0.060228,
+        "price_hight": 0.0604272691345969,
+        "price_low": 0.0600319369904789,
+        "price_vwap": 0.0603,
+        "timestamp": 1716163200,
+        "date": "2024-05-20 00:00:00"
+    },
+    {
+        "price_open": 0.060393,
+        "price_hight": 0.0604955919886897,
+        "price_low": 0.0599387426050576,
+        "price_vwap": 0.0603,
+        "timestamp": 1716249600,
+        "date": "2024-05-21 00:00:00"
+    },
+    {
+        "price_open": 0.060145,
+        "price_hight": 0.0602588963221585,
+        "price_low": 0.0598497770595805,
+        "price_vwap": 0.0601,
+        "timestamp": 1716336000,
+        "date": "2024-05-22 00:00:00"
+    },
+    {
+        "price_open": 0.059983,
+        "price_hight": 0.0601537771158189,
+        "price_low": 0.0596071886269484,
+        "price_vwap": 0.0599,
+        "timestamp": 1716422400,
+        "date": "2024-05-23 00:00:00"
+    },
+    {
+        "price_open": 0.059746,
+        "price_hight": 0.059965,
+        "price_low": 0.0596324257278138,
+        "price_vwap": 0.0598,
+        "timestamp": 1716508800,
+        "date": "2024-05-24 00:00:00"
+    },
+    {
+        "price_open": 0.059708,
+        "price_hight": 0.059922,
+        "price_low": 0.0596968593482297,
+        "price_vwap": 0.0599,
+        "timestamp": 1716681600,
+        "date": "2024-05-26 00:00:00"
+    },
+    {
+        "price_open": 0.059913,
+        "price_hight": 0.060081,
+        "price_low": 0.059572,
+        "price_vwap": 0.06,
+        "timestamp": 1716768000,
+        "date": "2024-05-27 00:00:00"
+    },
+    {
+        "price_open": 0.0599972161291716,
+        "price_hight": 0.060111,
+        "price_low": 0.0589960059703958,
+        "price_vwap": 0.0598,
+        "timestamp": 1716854400,
+        "date": "2024-05-28 00:00:00"
+    },
+    {
+        "price_open": 0.059528,
+        "price_hight": 0.059718,
+        "price_low": 0.0586475866518093,
+        "price_vwap": 0.0593,
+        "timestamp": 1716940800,
+        "date": "2024-05-29 00:00:00"
+    },
+    {
+        "price_open": 0.058729,
+        "price_hight": 0.0591470988348022,
+        "price_low": 0.0582903442044825,
+        "price_vwap": 0.0588,
+        "timestamp": 1717027200,
+        "date": "2024-05-30 00:00:00"
+    },
+    {
+        "price_open": 0.058769,
+        "price_hight": 0.0591470988348022,
+        "price_low": 0.0584949255652072,
+        "price_vwap": 0.0588,
+        "timestamp": 1717113600,
+        "date": "2024-05-31 00:00:00"
+    },
+    {
+        "price_open": 0.058811,
+        "price_hight": 0.0589264079875925,
+        "price_low": 0.0587965521701807,
+        "price_vwap": 0.0589,
+        "timestamp": 1717286400,
+        "date": "2024-06-02 00:00:00"
+    },
+    {
+        "price_open": 0.0589,
+        "price_hight": 0.0591086416834141,
+        "price_low": 0.056301551107733,
+        "price_vwap": 0.0574,
+        "timestamp": 1717372800,
+        "date": "2024-06-03 00:00:00"
+    },
+    {
+        "price_open": 0.056547,
+        "price_hight": 0.056985,
+        "price_low": 0.054945,
+        "price_vwap": 0.0561,
+        "timestamp": 1717459200,
+        "date": "2024-06-04 00:00:00"
+    },
+    {
+        "price_open": 0.056118,
+        "price_hight": 0.05719,
+        "price_low": 0.0560302563384228,
+        "price_vwap": 0.0567,
+        "timestamp": 1717545600,
+        "date": "2024-06-05 00:00:00"
+    },
+    {
+        "price_open": 0.057076,
+        "price_hight": 0.057314,
+        "price_low": 0.055457,
+        "price_vwap": 0.0568,
+        "timestamp": 1717632000,
+        "date": "2024-06-06 00:00:00"
+    },
+    {
+        "price_open": 0.055881,
+        "price_hight": 0.056156,
+        "price_low": 0.0541491809936375,
+        "price_vwap": 0.0553,
+        "timestamp": 1717718400,
+        "date": "2024-06-07 00:00:00"
+    },
+    {
+        "price_open": 0.054271,
+        "price_hight": 0.054865,
+        "price_low": 0.054163,
+        "price_vwap": 0.0546,
+        "timestamp": 1717891200,
+        "date": "2024-06-09 00:00:00"
+    },
+    {
+        "price_open": 0.054534,
+        "price_hight": 0.054903,
+        "price_low": 0.053583,
+        "price_vwap": 0.0544,
+        "timestamp": 1717977600,
+        "date": "2024-06-10 00:00:00"
+    },
+    {
+        "price_open": 0.0538461207100796,
+        "price_hight": 0.054609,
+        "price_low": 0.053679,
+        "price_vwap": 0.0542,
+        "timestamp": 1718064000,
+        "date": "2024-06-11 00:00:00"
+    },
+    {
+        "price_open": 0.053789,
+        "price_hight": 0.053895,
+        "price_low": 0.0526295014670474,
+        "price_vwap": 0.0534,
+        "timestamp": 1718150400,
+        "date": "2024-06-12 00:00:00"
+    },
+    {
+        "price_open": 0.053283,
+        "price_hight": 0.054441,
+        "price_low": 0.0530388615738752,
+        "price_vwap": 0.0536,
+        "timestamp": 1718236800,
+        "date": "2024-06-13 00:00:00"
+    },
+    {
+        "price_open": 0.0542753802533141,
+        "price_hight": 0.054365,
+        "price_low": 0.0534890935738203,
+        "price_vwap": 0.054,
+        "timestamp": 1718323200,
+        "date": "2024-06-14 00:00:00"
+    },
+    {
+        "price_open": 0.0538479473970171,
+        "price_hight": 0.054141,
+        "price_low": 0.0538378586745442,
+        "price_vwap": 0.0541,
+        "timestamp": 1718496000,
+        "date": "2024-06-16 00:00:00"
+    },
+    {
+        "price_open": 0.054123,
+        "price_hight": 0.054247,
+        "price_low": 0.0536049316537121,
+        "price_vwap": 0.054,
+        "timestamp": 1718582400,
+        "date": "2024-06-17 00:00:00"
+    },
+    {
+        "price_open": 0.053933,
+        "price_hight": 0.054662,
+        "price_low": 0.0538401485988101,
+        "price_vwap": 0.0542,
+        "timestamp": 1718668800,
+        "date": "2024-06-18 00:00:00"
+    },
+    {
+        "price_open": 0.05429,
+        "price_hight": 0.0544453839297916,
+        "price_low": 0.0540578527139745,
+        "price_vwap": 0.0543,
+        "timestamp": 1718755200,
+        "date": "2024-06-19 00:00:00"
+    },
+    {
+        "price_open": 0.054229,
+        "price_hight": 0.0547691616758268,
+        "price_low": 0.0541239763802967,
+        "price_vwap": 0.0543,
+        "timestamp": 1718841600,
+        "date": "2024-06-20 00:00:00"
+    },
+    {
+        "price_open": 0.0544371740574203,
+        "price_hight": 0.055254,
+        "price_low": 0.0543986770241748,
+        "price_vwap": 0.0547,
+        "timestamp": 1718928000,
+        "date": "2024-06-21 00:00:00"
+    },
+    {
+        "price_open": 0.0549788578802022,
+        "price_hight": 0.055326,
+        "price_low": 0.0549788578802022,
+        "price_vwap": 0.0552,
+        "timestamp": 1719100800,
+        "date": "2024-06-23 00:00:00"
+    },
+    {
+        "price_open": 0.0551620661503497,
+        "price_hight": 0.055937,
+        "price_low": 0.055041831792162,
+        "price_vwap": 0.0554,
+        "timestamp": 1719187200,
+        "date": "2024-06-24 00:00:00"
+    },
+    {
+        "price_open": 0.055693,
+        "price_hight": 0.055882,
+        "price_low": 0.0548546352166758,
+        "price_vwap": 0.0554,
+        "timestamp": 1719273600,
+        "date": "2024-06-25 00:00:00"
+    },
+    {
+        "price_open": 0.055144,
+        "price_hight": 0.055341,
+        "price_low": 0.0543124049532913,
+        "price_vwap": 0.0549,
+        "timestamp": 1719360000,
+        "date": "2024-06-26 00:00:00"
+    },
+    {
+        "price_open": 0.054573,
+        "price_hight": 0.0546954693008005,
+        "price_low": 0.05404,
+        "price_vwap": 0.0544,
+        "timestamp": 1719446400,
+        "date": "2024-06-27 00:00:00"
+    },
+    {
+        "price_open": 0.054237,
+        "price_hight": 0.054913,
+        "price_low": 0.0537264678071005,
+        "price_vwap": 0.0545,
+        "timestamp": 1719532800,
+        "date": "2024-06-28 00:00:00"
+    },
+    {
+        "price_open": 0.054423,
+        "price_hight": 0.054718,
+        "price_low": 0.0544149575835406,
+        "price_vwap": 0.0546,
+        "timestamp": 1719705600,
+        "date": "2024-06-30 00:00:00"
+    },
+    {
+        "price_open": 0.054676,
+        "price_hight": 0.05474,
+        "price_low": 0.0541565123206066,
+        "price_vwap": 0.0545,
+        "timestamp": 1719792000,
+        "date": "2024-07-01 00:00:00"
+    },
+    {
+        "price_open": 0.054393,
+        "price_hight": 0.054896,
+        "price_low": 0.0540231002776787,
+        "price_vwap": 0.0545,
+        "timestamp": 1719878400,
+        "date": "2024-07-02 00:00:00"
+    },
+    {
+        "price_open": 0.054734,
+        "price_hight": 0.055215,
+        "price_low": 0.0545836631096313,
+        "price_vwap": 0.0549,
+        "timestamp": 1719964800,
+        "date": "2024-07-03 00:00:00"
+    },
+    {
+        "price_open": 0.055018,
+        "price_hight": 0.05537,
+        "price_low": 0.0549586436206754,
+        "price_vwap": 0.0552,
+        "timestamp": 1720051200,
+        "date": "2024-07-04 00:00:00"
+    },
+    {
+        "price_open": 0.055252,
+        "price_hight": 0.055542,
+        "price_low": 0.0549251370382169,
+        "price_vwap": 0.0553,
+        "timestamp": 1720137600,
+        "date": "2024-07-05 00:00:00"
+    },
+    {
+        "price_open": 0.0550388023556607,
+        "price_hight": 0.055273,
+        "price_low": 0.0550377421316668,
+        "price_vwap": 0.0552,
+        "timestamp": 1720310400,
+        "date": "2024-07-07 00:00:00"
+    },
+    {
+        "price_open": 0.055267,
+        "price_hight": 0.055661,
+        "price_low": 0.0551919022441027,
+        "price_vwap": 0.0554,
+        "timestamp": 1720396800,
+        "date": "2024-07-08 00:00:00"
+    },
+    {
+        "price_open": 0.0555816789446595,
+        "price_hight": 0.055863,
+        "price_low": 0.0553280956069492,
+        "price_vwap": 0.0556,
+        "timestamp": 1720483200,
+        "date": "2024-07-09 00:00:00"
+    },
+    {
+        "price_open": 0.05585,
+        "price_hight": 0.056280511072065,
+        "price_low": 0.0558038828341676,
+        "price_vwap": 0.0561,
+        "timestamp": 1720569600,
+        "date": "2024-07-10 00:00:00"
+    },
+    {
+        "price_open": 0.056041,
+        "price_hight": 0.056486,
+        "price_low": 0.055847202055177,
+        "price_vwap": 0.0561,
+        "timestamp": 1720656000,
+        "date": "2024-07-11 00:00:00"
+    },
+    {
+        "price_open": 0.0562896666244494,
+        "price_hight": 0.056791,
+        "price_low": 0.0561126292694697,
+        "price_vwap": 0.0564,
+        "timestamp": 1720742400,
+        "date": "2024-07-12 00:00:00"
+    },
+    {
+        "price_open": 0.0565201663953699,
+        "price_hight": 0.0565644452866262,
+        "price_low": 0.0564012611321989,
+        "price_vwap": 0.0565,
+        "timestamp": 1720915200,
+        "date": "2024-07-14 00:00:00"
+    },
+    {
+        "price_open": 0.056504,
+        "price_hight": 0.0567665758401453,
+        "price_low": 0.0559474988670632,
+        "price_vwap": 0.0562,
+        "timestamp": 1721001600,
+        "date": "2024-07-15 00:00:00"
+    },
+    {
+        "price_open": 0.056397,
+        "price_hight": 0.056683686888383,
+        "price_low": 0.0561044440330119,
+        "price_vwap": 0.0564,
+        "timestamp": 1721088000,
+        "date": "2024-07-16 00:00:00"
+    },
+    {
+        "price_open": 0.056613,
+        "price_hight": 0.056626,
+        "price_low": 0.0561003523102125,
+        "price_vwap": 0.0564,
+        "timestamp": 1721174400,
+        "date": "2024-07-17 00:00:00"
+    },
+    {
+        "price_open": 0.056336,
+        "price_hight": 0.056494,
+        "price_low": 0.0552791597567717,
+        "price_vwap": 0.0561,
+        "timestamp": 1721260800,
+        "date": "2024-07-18 00:00:00"
+    },
+    {
+        "price_open": 0.055645,
+        "price_hight": 0.0561014853429259,
+        "price_low": 0.055175457956301,
+        "price_vwap": 0.0556,
+        "timestamp": 1721347200,
+        "date": "2024-07-19 00:00:00"
+    },
+    {
+        "price_open": 0.0551919022441027,
+        "price_hight": 0.055694,
+        "price_low": 0.055177,
+        "price_vwap": 0.0556,
+        "timestamp": 1721520000,
+        "date": "2024-07-21 00:00:00"
+    },
+    {
+        "price_open": 0.055624,
+        "price_hight": 0.0558963681334805,
+        "price_low": 0.0551648048545028,
+        "price_vwap": 0.0556,
+        "timestamp": 1721606400,
+        "date": "2024-07-22 00:00:00"
+    },
+    {
+        "price_open": 0.05571,
+        "price_hight": 0.055763,
+        "price_low": 0.054916,
+        "price_vwap": 0.0554,
+        "timestamp": 1721692800,
+        "date": "2024-07-23 00:00:00"
+    },
+    {
+        "price_open": 0.055043,
+        "price_hight": 0.055061,
+        "price_low": 0.0542005420054201,
+        "price_vwap": 0.0547,
+        "timestamp": 1721779200,
+        "date": "2024-07-24 00:00:00"
+    },
+    {
+        "price_open": 0.054437,
+        "price_hight": 0.0545797901952865,
+        "price_low": 0.0537417707913476,
+        "price_vwap": 0.0542,
+        "timestamp": 1721865600,
+        "date": "2024-07-25 00:00:00"
+    },
+    {
+        "price_open": 0.054184,
+        "price_hight": 0.054628,
+        "price_low": 0.0540018036602423,
+        "price_vwap": 0.0543,
+        "timestamp": 1721952000,
+        "date": "2024-07-26 00:00:00"
+    },
+    {
+        "price_open": 0.05401,
+        "price_hight": 0.054261,
+        "price_low": 0.05401,
+        "price_vwap": 0.0542,
+        "timestamp": 1722124800,
+        "date": "2024-07-28 00:00:00"
+    },
+    {
+        "price_open": 0.054209,
+        "price_hight": 0.054291,
+        "price_low": 0.0533492669810717,
+        "price_vwap": 0.0539,
+        "timestamp": 1722211200,
+        "date": "2024-07-29 00:00:00"
+    },
+    {
+        "price_open": 0.0535592820913828,
+        "price_hight": 0.0538297440557159,
+        "price_low": 0.0530870096087487,
+        "price_vwap": 0.0535,
+        "timestamp": 1722297600,
+        "date": "2024-07-30 00:00:00"
+    },
+    {
+        "price_open": 0.0532583455827528,
+        "price_hight": 0.054008,
+        "price_low": 0.052777,
+        "price_vwap": 0.0534,
+        "timestamp": 1722384000,
+        "date": "2024-07-31 00:00:00"
+    },
+    {
+        "price_open": 0.053625,
+        "price_hight": 0.05425,
+        "price_low": 0.052734272003375,
+        "price_vwap": 0.0535,
+        "timestamp": 1722470400,
+        "date": "2024-08-01 00:00:00"
+    },
+    {
+        "price_open": 0.052806,
+        "price_hight": 0.052968,
+        "price_low": 0.052001,
+        "price_vwap": 0.0526,
+        "timestamp": 1722556800,
+        "date": "2024-08-02 00:00:00"
+    },
+    {
+        "price_open": 0.0522157764747041,
+        "price_hight": 0.05225,
+        "price_low": 0.0510825934019679,
+        "price_vwap": 0.0517,
+        "timestamp": 1722729600,
+        "date": "2024-08-04 00:00:00"
+    },
+    {
+        "price_open": 0.051202,
+        "price_hight": 0.052092,
+        "price_low": 0.049266,
+        "price_vwap": 0.0511,
+        "timestamp": 1722816000,
+        "date": "2024-08-05 00:00:00"
+    },
+    {
+        "price_open": 0.052067,
+        "price_hight": 0.052238,
+        "price_low": 0.05095,
+        "price_vwap": 0.0516,
+        "timestamp": 1722902400,
+        "date": "2024-08-06 00:00:00"
+    },
+    {
+        "price_open": 0.051038,
+        "price_hight": 0.0523,
+        "price_low": 0.0509938705367615,
+        "price_vwap": 0.0518,
+        "timestamp": 1722988800,
+        "date": "2024-08-07 00:00:00"
+    },
+    {
+        "price_open": 0.0518114044154715,
+        "price_hight": 0.053014,
+        "price_low": 0.0516142352060698,
+        "price_vwap": 0.0521,
+        "timestamp": 1723075200,
+        "date": "2024-08-08 00:00:00"
+    },
+    {
+        "price_open": 0.0529791500554957,
+        "price_hight": 0.0532591114356366,
+        "price_low": 0.0528024922776355,
+        "price_vwap": 0.0531,
+        "timestamp": 1723161600,
+        "date": "2024-08-09 00:00:00"
+    },
+    {
+        "price_open": 0.0529933281399872,
+        "price_hight": 0.053166,
+        "price_low": 0.052927387329501,
+        "price_vwap": 0.0531,
+        "timestamp": 1723334400,
+        "date": "2024-08-11 00:00:00"
+    },
+    {
+        "price_open": 0.053079,
+        "price_hight": 0.053215,
+        "price_low": 0.052261,
+        "price_vwap": 0.0529,
+        "timestamp": 1723420800,
+        "date": "2024-08-12 00:00:00"
+    },
+    {
+        "price_open": 0.052458,
+        "price_hight": 0.052876,
+        "price_low": 0.05228,
+        "price_vwap": 0.0526,
+        "timestamp": 1723507200,
+        "date": "2024-08-13 00:00:00"
+    },
+    {
+        "price_open": 0.052609,
+        "price_hight": 0.053253,
+        "price_low": 0.0525154920701607,
+        "price_vwap": 0.0529,
+        "timestamp": 1723593600,
+        "date": "2024-08-14 00:00:00"
+    },
+    {
+        "price_open": 0.053103,
+        "price_hight": 0.053661,
+        "price_low": 0.0530335171828596,
+        "price_vwap": 0.0534,
+        "timestamp": 1723680000,
+        "date": "2024-08-15 00:00:00"
+    },
+    {
+        "price_open": 0.053604,
+        "price_hight": 0.053757,
+        "price_low": 0.0532907007727152,
+        "price_vwap": 0.0536,
+        "timestamp": 1723766400,
+        "date": "2024-08-16 00:00:00"
+    },
+    {
+        "price_open": 0.0534540682554998,
+        "price_hight": 0.053716,
+        "price_low": 0.053321,
+        "price_vwap": 0.0536,
+        "timestamp": 1723939200,
+        "date": "2024-08-18 00:00:00"
+    },
+    {
+        "price_open": 0.053688,
+        "price_hight": 0.05372,
+        "price_low": 0.0530408308315742,
+        "price_vwap": 0.0535,
+        "timestamp": 1724025600,
+        "date": "2024-08-19 00:00:00"
+    },
+    {
+        "price_open": 0.053554,
+        "price_hight": 0.05359,
+        "price_low": 0.0524920605758379,
+        "price_vwap": 0.0531,
+        "timestamp": 1724112000,
+        "date": "2024-08-20 00:00:00"
+    },
+    {
+        "price_open": 0.0525718407346599,
+        "price_hight": 0.0528198957757817,
+        "price_low": 0.0514827018121911,
+        "price_vwap": 0.0523,
+        "timestamp": 1724198400,
+        "date": "2024-08-21 00:00:00"
+    },
+    {
+        "price_open": 0.051853,
+        "price_hight": 0.0518641263617575,
+        "price_low": 0.05113,
+        "price_vwap": 0.0516,
+        "timestamp": 1724284800,
+        "date": "2024-08-22 00:00:00"
+    },
+    {
+        "price_open": 0.0512581833689749,
+        "price_hight": 0.052566,
+        "price_low": 0.051150895140665,
+        "price_vwap": 0.0518,
+        "timestamp": 1724371200,
+        "date": "2024-08-23 00:00:00"
+    },
+    {
+        "price_open": 0.052121,
+        "price_hight": 0.0523131843872348,
+        "price_low": 0.0517535392951686,
+        "price_vwap": 0.0521,
+        "timestamp": 1724544000,
+        "date": "2024-08-25 00:00:00"
+    },
+    {
+        "price_open": 0.052029,
+        "price_hight": 0.0523395791897833,
+        "price_low": 0.0513848209238991,
+        "price_vwap": 0.0519,
+        "timestamp": 1724630400,
+        "date": "2024-08-26 00:00:00"
+    },
+    {
+        "price_open": 0.051563,
+        "price_hight": 0.051669,
+        "price_low": 0.050444,
+        "price_vwap": 0.0512,
+        "timestamp": 1724716800,
+        "date": "2024-08-27 00:00:00"
+    },
+    {
+        "price_open": 0.050529,
+        "price_hight": 0.051482,
+        "price_low": 0.0504991844381713,
+        "price_vwap": 0.0509,
+        "timestamp": 1724803200,
+        "date": "2024-08-28 00:00:00"
+    },
+    {
+        "price_open": 0.0507758550653993,
+        "price_hight": 0.051097,
+        "price_low": 0.0500698474371749,
+        "price_vwap": 0.0507,
+        "timestamp": 1724889600,
+        "date": "2024-08-29 00:00:00"
+    },
+    {
+        "price_open": 0.050375,
+        "price_hight": 0.050957,
+        "price_low": 0.0502813240078238,
+        "price_vwap": 0.0507,
+        "timestamp": 1724976000,
+        "date": "2024-08-30 00:00:00"
+    },
+    {
+        "price_open": 0.0507519149966326,
+        "price_hight": 0.050766,
+        "price_low": 0.050482,
+        "price_vwap": 0.0507,
+        "timestamp": 1725148800,
+        "date": "2024-09-01 00:00:00"
+    },
+    {
+        "price_open": 0.050696,
+        "price_hight": 0.0509572315955219,
+        "price_low": 0.050252,
+        "price_vwap": 0.0506,
+        "timestamp": 1725235200,
+        "date": "2024-09-02 00:00:00"
+    },
+    {
+        "price_open": 0.050363,
+        "price_hight": 0.050684,
+        "price_low": 0.049987503124219,
+        "price_vwap": 0.0504,
+        "timestamp": 1725321600,
+        "date": "2024-09-03 00:00:00"
+    },
+    {
+        "price_open": 0.050481,
+        "price_hight": 0.0508183017031754,
+        "price_low": 0.0500525551829421,
+        "price_vwap": 0.0504,
+        "timestamp": 1725408000,
+        "date": "2024-09-04 00:00:00"
+    },
+    {
+        "price_open": 0.050101,
+        "price_hight": 0.050345,
+        "price_low": 0.049583498611662,
+        "price_vwap": 0.05,
+        "timestamp": 1725494400,
+        "date": "2024-09-05 00:00:00"
+    },
+    {
+        "price_open": 0.0502391382982999,
+        "price_hight": 0.0506022425901871,
+        "price_low": 0.0497104367061865,
+        "price_vwap": 0.0502,
+        "timestamp": 1725580800,
+        "date": "2024-09-06 00:00:00"
+    },
+    {
+        "price_open": 0.0499592831842049,
+        "price_hight": 0.050136,
+        "price_low": 0.0499592831842049,
+        "price_vwap": 0.0501,
+        "timestamp": 1725753600,
+        "date": "2024-09-08 00:00:00"
+    },
+    {
+        "price_open": 0.0500645833124731,
+        "price_hight": 0.0504803712124578,
+        "price_low": 0.0499286020989984,
+        "price_vwap": 0.0502,
+        "timestamp": 1725840000,
+        "date": "2024-09-09 00:00:00"
+    },
+    {
+        "price_open": 0.0502204678538785,
+        "price_hight": 0.0502918941536679,
+        "price_low": 0.049646,
+        "price_vwap": 0.05,
+        "timestamp": 1725926400,
+        "date": "2024-09-10 00:00:00"
+    },
+    {
+        "price_open": 0.049752,
+        "price_hight": 0.0506399625264277,
+        "price_low": 0.0495957942766453,
+        "price_vwap": 0.0502,
+        "timestamp": 1726012800,
+        "date": "2024-09-11 00:00:00"
+    },
+    {
+        "price_open": 0.050464,
+        "price_hight": 0.051376,
+        "price_low": 0.0503410606861487,
+        "price_vwap": 0.0508,
+        "timestamp": 1726099200,
+        "date": "2024-09-12 00:00:00"
+    },
+    {
+        "price_open": 0.051173,
+        "price_hight": 0.0520871042226495,
+        "price_low": 0.0510633952051472,
+        "price_vwap": 0.0516,
+        "timestamp": 1726185600,
+        "date": "2024-09-13 00:00:00"
+    },
+    {
+        "price_open": 0.051848,
+        "price_hight": 0.052187,
+        "price_low": 0.051794,
+        "price_vwap": 0.0521,
+        "timestamp": 1726358400,
+        "date": "2024-09-15 00:00:00"
+    },
+    {
+        "price_open": 0.052187,
+        "price_hight": 0.052187,
+        "price_low": 0.0515392187685219,
+        "price_vwap": 0.052,
+        "timestamp": 1726444800,
+        "date": "2024-09-16 00:00:00"
+    },
+    {
+        "price_open": 0.052015,
+        "price_hight": 0.0523949468217487,
+        "price_low": 0.0514813766120106,
+        "price_vwap": 0.0519,
+        "timestamp": 1726531200,
+        "date": "2024-09-17 00:00:00"
+    },
+    {
+        "price_open": 0.052274,
+        "price_hight": 0.0524400898193858,
+        "price_low": 0.0515397500322123,
+        "price_vwap": 0.0521,
+        "timestamp": 1726617600,
+        "date": "2024-09-18 00:00:00"
+    },
+    {
+        "price_open": 0.051985,
+        "price_hight": 0.052234,
+        "price_low": 0.0514972835182944,
+        "price_vwap": 0.0519,
+        "timestamp": 1726704000,
+        "date": "2024-09-19 00:00:00"
+    },
+    {
+        "price_open": 0.051766,
+        "price_hight": 0.0519082511279663,
+        "price_low": 0.051273374249486,
+        "price_vwap": 0.0516,
+        "timestamp": 1726790400,
+        "date": "2024-09-20 00:00:00"
+    },
+    {
+        "price_open": 0.0515065670873036,
+        "price_hight": 0.051582,
+        "price_low": 0.051313,
+        "price_vwap": 0.0515,
+        "timestamp": 1726963200,
+        "date": "2024-09-22 00:00:00"
+    },
+    {
+        "price_open": 0.0515662740066789,
+        "price_hight": 0.0518457071754459,
+        "price_low": 0.0512363327082501,
+        "price_vwap": 0.0515,
+        "timestamp": 1727049600,
+        "date": "2024-09-23 00:00:00"
+    },
+    {
+        "price_open": 0.051457,
+        "price_hight": 0.051981,
+        "price_low": 0.0513906304602545,
+        "price_vwap": 0.0516,
+        "timestamp": 1727136000,
+        "date": "2024-09-24 00:00:00"
+    },
+    {
+        "price_open": 0.05174,
+        "price_hight": 0.051767,
+        "price_low": 0.0507499317413418,
+        "price_vwap": 0.0514,
+        "timestamp": 1727222400,
+        "date": "2024-09-25 00:00:00"
+    },
+    {
+        "price_open": 0.050873,
+        "price_hight": 0.051364,
+        "price_low": 0.0505937172721891,
+        "price_vwap": 0.051,
+        "timestamp": 1727308800,
+        "date": "2024-09-26 00:00:00"
+    },
+    {
+        "price_open": 0.050939,
+        "price_hight": 0.051195,
+        "price_low": 0.0505827128520557,
+        "price_vwap": 0.051,
+        "timestamp": 1727395200,
+        "date": "2024-09-27 00:00:00"
+    },
+    {
+        "price_open": 0.0505681329739625,
+        "price_hight": 0.0509294626941686,
+        "price_low": 0.0505681329739625,
+        "price_vwap": 0.0508,
+        "timestamp": 1727568000,
+        "date": "2024-09-29 00:00:00"
+    },
+    {
+        "price_open": 0.050902,
+        "price_hight": 0.051139,
+        "price_low": 0.0506177901285186,
+        "price_vwap": 0.0508,
+        "timestamp": 1727654400,
+        "date": "2024-09-30 00:00:00"
+    },
+    {
+        "price_open": 0.050806,
+        "price_hight": 0.051035,
+        "price_low": 0.0503854486824205,
+        "price_vwap": 0.0508,
+        "timestamp": 1727740800,
+        "date": "2024-10-01 00:00:00"
+    },
+    {
+        "price_open": 0.0509202044751731,
+        "price_hight": 0.051703,
+        "price_low": 0.0508127499352137,
+        "price_vwap": 0.0512,
+        "timestamp": 1727827200,
+        "date": "2024-10-02 00:00:00"
+    },
+    {
+        "price_open": 0.051473,
+        "price_hight": 0.051828,
+        "price_low": 0.0510152025303541,
+        "price_vwap": 0.0514,
+        "timestamp": 1727913600,
+        "date": "2024-10-03 00:00:00"
+    },
+    {
+        "price_open": 0.051666,
+        "price_hight": 0.052318,
+        "price_low": 0.0514853524172373,
+        "price_vwap": 0.0518,
+        "timestamp": 1728000000,
+        "date": "2024-10-04 00:00:00"
+    },
+    {
+        "price_open": 0.051759,
+        "price_hight": 0.051891,
+        "price_low": 0.051708,
+        "price_vwap": 0.0519,
+        "timestamp": 1728172800,
+        "date": "2024-10-06 00:00:00"
+    },
+    {
+        "price_open": 0.0518217952106297,
+        "price_hight": 0.052093,
+        "price_low": 0.0514276310376039,
+        "price_vwap": 0.0518,
+        "timestamp": 1728259200,
+        "date": "2024-10-07 00:00:00"
+    },
+    {
+        "price_open": 0.0518220369066182,
+        "price_hight": 0.0520118170848417,
+        "price_low": 0.0513808606294156,
+        "price_vwap": 0.0517,
+        "timestamp": 1728345600,
+        "date": "2024-10-08 00:00:00"
+    },
+    {
+        "price_open": 0.051623,
+        "price_hight": 0.0517569946990486,
+        "price_low": 0.051228,
+        "price_vwap": 0.0516,
+        "timestamp": 1728432000,
+        "date": "2024-10-09 00:00:00"
+    },
+    {
+        "price_open": 0.051322319563555,
+        "price_hight": 0.05149,
+        "price_low": 0.0509338725532641,
+        "price_vwap": 0.0513,
+        "timestamp": 1728518400,
+        "date": "2024-10-10 00:00:00"
+    },
+    {
+        "price_open": 0.051396,
+        "price_hight": 0.051911,
+        "price_low": 0.0511417393305546,
+        "price_vwap": 0.0515,
+        "timestamp": 1728604800,
+        "date": "2024-10-11 00:00:00"
+    },
+    {
+        "price_open": 0.0518333454277806,
+        "price_hight": 0.0518333454277806,
+        "price_low": 0.0518333454277806,
+        "price_vwap": 0.0518,
+        "timestamp": 1728777600,
+        "date": "2024-10-13 00:00:00"
+    },
+    {
+        "price_open": 0.0517891064721882,
+        "price_hight": 0.0519610084592522,
+        "price_low": 0.0514120314435984,
+        "price_vwap": 0.0518,
+        "timestamp": 1728864000,
+        "date": "2024-10-14 00:00:00"
+    },
+    {
+        "price_open": 0.051465,
+        "price_hight": 0.051604,
+        "price_low": 0.05057375929925,
+        "price_vwap": 0.0512,
+        "timestamp": 1728950400,
+        "date": "2024-10-15 00:00:00"
+    },
+    {
+        "price_open": 0.050715,
+        "price_hight": 0.050815,
+        "price_low": 0.0500638313850159,
+        "price_vwap": 0.0505,
+        "timestamp": 1729036800,
+        "date": "2024-10-16 00:00:00"
+    },
+    {
+        "price_open": 0.050214,
+        "price_hight": 0.050458,
+        "price_low": 0.0498815313630129,
+        "price_vwap": 0.0502,
+        "timestamp": 1729123200,
+        "date": "2024-10-17 00:00:00"
+    },
+    {
+        "price_open": 0.050437,
+        "price_hight": 0.050881,
+        "price_low": 0.0501887851152109,
+        "price_vwap": 0.0505,
+        "timestamp": 1729209600,
+        "date": "2024-10-18 00:00:00"
+    },
+    {
+        "price_open": 0.0502537815970652,
+        "price_hight": 0.050347,
+        "price_low": 0.0502537815970652,
+        "price_vwap": 0.0503,
+        "timestamp": 1729382400,
+        "date": "2024-10-20 00:00:00"
+    },
+    {
+        "price_open": 0.0503178832272884,
+        "price_hight": 0.050323,
+        "price_low": 0.0497983168168916,
+        "price_vwap": 0.0501,
+        "timestamp": 1729468800,
+        "date": "2024-10-21 00:00:00"
+    },
+    {
+        "price_open": 0.050067,
+        "price_hight": 0.0505784914964911,
+        "price_low": 0.0499251123315027,
+        "price_vwap": 0.0502,
+        "timestamp": 1729555200,
+        "date": "2024-10-22 00:00:00"
+    },
+    {
+        "price_open": 0.050115,
+        "price_hight": 0.0504591785245736,
+        "price_low": 0.0497272460553862,
+        "price_vwap": 0.0501,
+        "timestamp": 1729641600,
+        "date": "2024-10-23 00:00:00"
+    },
+    {
+        "price_open": 0.0503937769732691,
+        "price_hight": 0.0506188150135405,
+        "price_low": 0.0501579976927321,
+        "price_vwap": 0.0504,
+        "timestamp": 1729728000,
+        "date": "2024-10-24 00:00:00"
+    },
+    {
+        "price_open": 0.050423,
+        "price_hight": 0.05057081810941,
+        "price_low": 0.0499126528574994,
+        "price_vwap": 0.0503,
+        "timestamp": 1729814400,
+        "date": "2024-10-25 00:00:00"
+    },
+    {
+        "price_open": 0.0499418177822836,
+        "price_hight": 0.050137,
+        "price_low": 0.049927,
+        "price_vwap": 0.0501,
+        "timestamp": 1729987200,
+        "date": "2024-10-27 00:00:00"
+    },
+    {
+        "price_open": 0.050107,
+        "price_hight": 0.050123,
+        "price_low": 0.0497166152928309,
+        "price_vwap": 0.0499,
+        "timestamp": 1730073600,
+        "date": "2024-10-28 00:00:00"
+    },
+    {
+        "price_open": 0.0498780481722189,
+        "price_hight": 0.0500904131958185,
+        "price_low": 0.0497282351946612,
+        "price_vwap": 0.0499,
+        "timestamp": 1730160000,
+        "date": "2024-10-29 00:00:00"
+    },
+    {
+        "price_open": 0.049849,
+        "price_hight": 0.0499810821604023,
+        "price_low": 0.0493993044577932,
+        "price_vwap": 0.0497,
+        "timestamp": 1730246400,
+        "date": "2024-10-30 00:00:00"
+    },
+    {
+        "price_open": 0.049577,
+        "price_hight": 0.050028,
+        "price_low": 0.0494902504206671,
+        "price_vwap": 0.0498,
+        "timestamp": 1730332800,
+        "date": "2024-10-31 00:00:00"
+    },
+    {
+        "price_open": 0.049858,
+        "price_hight": 0.050193,
+        "price_low": 0.049181,
+        "price_vwap": 0.0498,
+        "timestamp": 1730419200,
+        "date": "2024-11-01 00:00:00"
+    },
+    {
+        "price_open": 0.049542,
+        "price_hight": 0.04978,
+        "price_low": 0.049527,
+        "price_vwap": 0.0497,
+        "timestamp": 1730592000,
+        "date": "2024-11-03 00:00:00"
+    },
+    {
+        "price_open": 0.0497726881332952,
+        "price_hight": 0.050103,
+        "price_low": 0.0495640838822556,
+        "price_vwap": 0.0498,
+        "timestamp": 1730678400,
+        "date": "2024-11-04 00:00:00"
+    },
+    {
+        "price_open": 0.04971,
+        "price_hight": 0.049909,
+        "price_low": 0.049098550610786,
+        "price_vwap": 0.0496,
+        "timestamp": 1730764800,
+        "date": "2024-11-05 00:00:00"
+    },
+    {
+        "price_open": 0.049613,
+        "price_hight": 0.049986,
+        "price_low": 0.0480212830326401,
+        "price_vwap": 0.0488,
+        "timestamp": 1730851200,
+        "date": "2024-11-06 00:00:00"
+    },
+    {
+        "price_open": 0.049557,
+        "price_hight": 0.050597,
+        "price_low": 0.0494496256663337,
+        "price_vwap": 0.0501,
+        "timestamp": 1730937600,
+        "date": "2024-11-07 00:00:00"
+    },
+    {
+        "price_open": 0.0504528140057012,
+        "price_hight": 0.050561,
+        "price_low": 0.0492814760787715,
+        "price_vwap": 0.05,
+        "timestamp": 1731024000,
+        "date": "2024-11-08 00:00:00"
+    },
+    {
+        "price_open": 0.049456,
+        "price_hight": 0.0496495979623805,
+        "price_low": 0.0494159528532277,
+        "price_vwap": 0.0496,
+        "timestamp": 1731196800,
+        "date": "2024-11-10 00:00:00"
+    },
+    {
+        "price_open": 0.049627,
+        "price_hight": 0.0496736194831857,
+        "price_low": 0.0485837827333236,
+        "price_vwap": 0.0491,
+        "timestamp": 1731283200,
+        "date": "2024-11-11 00:00:00"
+    },
+    {
+        "price_open": 0.0490975863626544,
+        "price_hight": 0.049126,
+        "price_low": 0.04829,
+        "price_vwap": 0.0488,
+        "timestamp": 1731369600,
+        "date": "2024-11-12 00:00:00"
+    },
+    {
+        "price_open": 0.048528,
+        "price_hight": 0.048935,
+        "price_low": 0.0483874869958629,
+        "price_vwap": 0.0486,
+        "timestamp": 1731456000,
+        "date": "2024-11-13 00:00:00"
+    },
+    {
+        "price_open": 0.048687,
+        "price_hight": 0.049053,
+        "price_low": 0.0483220179274686,
+        "price_vwap": 0.0487,
+        "timestamp": 1731542400,
+        "date": "2024-11-14 00:00:00"
+    },
+    {
+        "price_open": 0.0488553198557791,
+        "price_hight": 0.049208,
+        "price_low": 0.0485955875206531,
+        "price_vwap": 0.049,
+        "timestamp": 1731628800,
+        "date": "2024-11-15 00:00:00"
+    },
+    {
+        "price_open": 0.048947,
+        "price_hight": 0.049097,
+        "price_low": 0.0489375654539938,
+        "price_vwap": 0.0491,
+        "timestamp": 1731801600,
+        "date": "2024-11-17 00:00:00"
+    },
+    {
+        "price_open": 0.049076,
+        "price_hight": 0.0494929447807215,
+        "price_low": 0.0488691674648631,
+        "price_vwap": 0.0492,
+        "timestamp": 1731888000,
+        "date": "2024-11-18 00:00:00"
+    },
+    {
+        "price_open": 0.049457,
+        "price_hight": 0.049833,
+        "price_low": 0.049119773656083,
+        "price_vwap": 0.0495,
+        "timestamp": 1731974400,
+        "date": "2024-11-19 00:00:00"
+    },
+    {
+        "price_open": 0.0497129573840644,
+        "price_hight": 0.04975,
+        "price_low": 0.0491376345142745,
+        "price_vwap": 0.0494,
+        "timestamp": 1732060800,
+        "date": "2024-11-20 00:00:00"
+    },
+    {
+        "price_open": 0.049286,
+        "price_hight": 0.049345,
+        "price_low": 0.0488312246382827,
+        "price_vwap": 0.0491,
+        "timestamp": 1732147200,
+        "date": "2024-11-21 00:00:00"
+    },
+    {
+        "price_open": 0.048947,
+        "price_hight": 0.049067,
+        "price_low": 0.0486168506004181,
+        "price_vwap": 0.0489,
+        "timestamp": 1732233600,
+        "date": "2024-11-22 00:00:00"
+    },
+    {
+        "price_open": 0.049331,
+        "price_hight": 0.049423,
+        "price_low": 0.048382,
+        "price_vwap": 0.0492,
+        "timestamp": 1732492800,
+        "date": "2024-11-25 00:00:00"
+    },
+    {
+        "price_open": 0.048537,
+        "price_hight": 0.048923,
+        "price_low": 0.0479733651876478,
+        "price_vwap": 0.0485,
+        "timestamp": 1732579200,
+        "date": "2024-11-26 00:00:00"
+    },
+    {
+        "price_open": 0.048374,
+        "price_hight": 0.048697,
+        "price_low": 0.0480827022478663,
+        "price_vwap": 0.0484,
+        "timestamp": 1732665600,
+        "date": "2024-11-27 00:00:00"
+    },
+    {
+        "price_open": 0.0485188881605665,
+        "price_hight": 0.04949,
+        "price_low": 0.0484970756263397,
+        "price_vwap": 0.0491,
+        "timestamp": 1732752000,
+        "date": "2024-11-28 00:00:00"
+    },
+    {
+        "price_open": 0.0488610489489988,
+        "price_hight": 0.049377,
+        "price_low": 0.0488081060502528,
+        "price_vwap": 0.049,
+        "timestamp": 1732838400,
+        "date": "2024-11-29 00:00:00"
+    },
+    {
+        "price_open": 0.0490047142535112,
+        "price_hight": 0.0490930549037089,
+        "price_low": 0.048908,
+        "price_vwap": 0.049,
+        "timestamp": 1733011200,
+        "date": "2024-12-01 00:00:00"
+    },
+    {
+        "price_open": 0.049047,
+        "price_hight": 0.0492853622474125,
+        "price_low": 0.048504367818322,
+        "price_vwap": 0.0489,
+        "timestamp": 1733097600,
+        "date": "2024-12-02 00:00:00"
+    },
+    {
+        "price_open": 0.0489711887805048,
+        "price_hight": 0.049287,
+        "price_low": 0.0489009511234994,
+        "price_vwap": 0.0491,
+        "timestamp": 1733184000,
+        "date": "2024-12-03 00:00:00"
+    },
+    {
+        "price_open": 0.0491796828894047,
+        "price_hight": 0.04936,
+        "price_low": 0.0490099980396001,
+        "price_vwap": 0.0492,
+        "timestamp": 1733270400,
+        "date": "2024-12-04 00:00:00"
+    },
+    {
+        "price_open": 0.049211,
+        "price_hight": 0.04959,
+        "price_low": 0.0491869398837221,
+        "price_vwap": 0.0494,
+        "timestamp": 1733356800,
+        "date": "2024-12-05 00:00:00"
+    },
+    {
+        "price_open": 0.0494518265032119,
+        "price_hight": 0.0497383761414957,
+        "price_low": 0.049250166219311,
+        "price_vwap": 0.0495,
+        "timestamp": 1733443200,
+        "date": "2024-12-06 00:00:00"
+    },
+    {
+        "price_open": 0.049473,
+        "price_hight": 0.049553,
+        "price_low": 0.049281,
+        "price_vwap": 0.0495,
+        "timestamp": 1733616000,
+        "date": "2024-12-08 00:00:00"
+    },
+    {
+        "price_open": 0.049546,
+        "price_hight": 0.049717,
+        "price_low": 0.0493152576475636,
+        "price_vwap": 0.0496,
+        "timestamp": 1733702400,
+        "date": "2024-12-09 00:00:00"
+    },
+    {
+        "price_open": 0.0493605099138116,
+        "price_hight": 0.0496269295570548,
+        "price_low": 0.0491509178933917,
+        "price_vwap": 0.0495,
+        "timestamp": 1733788800,
+        "date": "2024-12-10 00:00:00"
+    },
+    {
+        "price_open": 0.04957,
+        "price_hight": 0.049747,
+        "price_low": 0.0493242576699221,
+        "price_vwap": 0.0496,
+        "timestamp": 1733875200,
+        "date": "2024-12-11 00:00:00"
+    },
+    {
+        "price_open": 0.049661,
+        "price_hight": 0.04974,
+        "price_low": 0.049348,
+        "price_vwap": 0.0496,
+        "timestamp": 1733961600,
+        "date": "2024-12-12 00:00:00"
+    },
+    {
+        "price_open": 0.049482,
+        "price_hight": 0.0497172579540155,
+        "price_low": 0.0492987256279425,
+        "price_vwap": 0.0495,
+        "timestamp": 1734048000,
+        "date": "2024-12-13 00:00:00"
+    },
+    {
+        "price_open": 0.0495778200731669,
+        "price_hight": 0.049696,
+        "price_low": 0.0495410026108108,
+        "price_vwap": 0.0497,
+        "timestamp": 1734220800,
+        "date": "2024-12-15 00:00:00"
+    },
+    {
+        "price_open": 0.049683812219038,
+        "price_hight": 0.0497432997018884,
+        "price_low": 0.0494471805217666,
+        "price_vwap": 0.0497,
+        "timestamp": 1734307200,
+        "date": "2024-12-16 00:00:00"
+    },
+    {
+        "price_open": 0.049639,
+        "price_hight": 0.049749931966968,
+        "price_low": 0.0492491960068752,
+        "price_vwap": 0.0496,
+        "timestamp": 1734393600,
+        "date": "2024-12-17 00:00:00"
+    },
+    {
+        "price_open": 0.049551,
+        "price_hight": 0.0498144412065058,
+        "price_low": 0.048892,
+        "price_vwap": 0.0495,
+        "timestamp": 1734480000,
+        "date": "2024-12-18 00:00:00"
+    },
+    {
+        "price_open": 0.049034,
+        "price_hight": 0.049272,
+        "price_low": 0.0487175115095121,
+        "price_vwap": 0.0491,
+        "timestamp": 1734566400,
+        "date": "2024-12-19 00:00:00"
+    },
+    {
+        "price_open": 0.0491050602764615,
+        "price_hight": 0.0499400719137036,
+        "price_low": 0.0490436488474743,
+        "price_vwap": 0.0495,
+        "timestamp": 1734652800,
+        "date": "2024-12-20 00:00:00"
+    },
+    {
+        "price_open": 0.049685,
+        "price_hight": 0.0498238726103225,
+        "price_low": 0.049671,
+        "price_vwap": 0.0498,
+        "timestamp": 1734825600,
+        "date": "2024-12-22 00:00:00"
+    },
+    {
+        "price_open": 0.049815,
+        "price_hight": 0.049856,
+        "price_low": 0.0493103941379804,
+        "price_vwap": 0.0496,
+        "timestamp": 1734912000,
+        "date": "2024-12-23 00:00:00"
+    },
+    {
+        "price_open": 0.0495069111647986,
+        "price_hight": 0.049685,
+        "price_low": 0.0494298269461759,
+        "price_vwap": 0.0496,
+        "timestamp": 1734998400,
+        "date": "2024-12-24 00:00:00"
+    },
+    {
+        "price_open": 0.0495471391481856,
+        "price_hight": 0.049598,
+        "price_low": 0.0494794759133911,
+        "price_vwap": 0.0496,
+        "timestamp": 1735084800,
+        "date": "2024-12-25 00:00:00"
+    },
+    {
+        "price_open": 0.049569,
+        "price_hight": 0.0496648368485277,
+        "price_low": 0.049381,
+        "price_vwap": 0.0495,
+        "timestamp": 1735171200,
+        "date": "2024-12-26 00:00:00"
+    },
+    {
+        "price_open": 0.049444,
+        "price_hight": 0.0495785820525533,
+        "price_low": 0.0489708770194365,
+        "price_vwap": 0.0493,
+        "timestamp": 1735257600,
+        "date": "2024-12-27 00:00:00"
+    },
+    {
+        "price_open": 0.049163,
+        "price_hight": 0.049193,
+        "price_low": 0.049117,
+        "price_vwap": 0.0492,
+        "timestamp": 1735430400,
+        "date": "2024-12-29 00:00:00"
+    },
+    {
+        "price_open": 0.049173,
+        "price_hight": 0.0492111695575768,
+        "price_low": 0.0482928478292365,
+        "price_vwap": 0.0489,
+        "timestamp": 1735516800,
+        "date": "2024-12-30 00:00:00"
+    },
+    {
+        "price_open": 0.048415,
+        "price_hight": 0.048422,
+        "price_low": 0.0478468899521531,
+        "price_vwap": 0.0482,
+        "timestamp": 1735603200,
+        "date": "2024-12-31 00:00:00"
+    },
+    {
+        "price_open": 0.0479666919291244,
+        "price_hight": 0.0480686035109308,
+        "price_low": 0.0479379491186608,
+        "price_vwap": 0.048,
+        "timestamp": 1735689600,
+        "date": "2025-01-01 00:00:00"
+    },
+    {
+        "price_open": 0.047972,
+        "price_hight": 0.0485917621413807,
+        "price_low": 0.0479002907547649,
+        "price_vwap": 0.0483,
+        "timestamp": 1735776000,
+        "date": "2025-01-02 00:00:00"
+    },
+    {
+        "price_open": 0.0485081323883949,
+        "price_hight": 0.048723,
+        "price_low": 0.048257890165042,
+        "price_vwap": 0.0485,
+        "timestamp": 1735862400,
+        "date": "2025-01-03 00:00:00"
+    },
+    {
+        "price_open": 0.0484137008836953,
+        "price_hight": 0.048494,
+        "price_low": 0.0483947462663453,
+        "price_vwap": 0.0485,
+        "timestamp": 1736035200,
+        "date": "2025-01-05 00:00:00"
+    },
+    {
+        "price_open": 0.04846,
+        "price_hight": 0.0493998169242785,
+        "price_low": 0.0483514570711588,
+        "price_vwap": 0.0489,
+        "timestamp": 1736121600,
+        "date": "2025-01-06 00:00:00"
+    },
+    {
+        "price_open": 0.049153,
+        "price_hight": 0.049345,
+        "price_low": 0.0489811912225705,
+        "price_vwap": 0.0492,
+        "timestamp": 1736208000,
+        "date": "2025-01-07 00:00:00"
+    },
+    {
+        "price_open": 0.049168,
+        "price_hight": 0.049224710804824,
+        "price_low": 0.0486748278127966,
+        "price_vwap": 0.049,
+        "timestamp": 1736294400,
+        "date": "2025-01-08 00:00:00"
+    },
+    {
+        "price_open": 0.048963,
+        "price_hight": 0.049009,
+        "price_low": 0.0486795667518559,
+        "price_vwap": 0.0489,
+        "timestamp": 1736380800,
+        "date": "2025-01-09 00:00:00"
+    },
+    {
+        "price_open": 0.04873,
+        "price_hight": 0.048819,
+        "price_low": 0.0481486831335163,
+        "price_vwap": 0.0485,
+        "timestamp": 1736467200,
+        "date": "2025-01-10 00:00:00"
+    },
+    {
+        "price_open": 0.0481688607582742,
+        "price_hight": 0.048286,
+        "price_low": 0.048145,
+        "price_vwap": 0.0482,
+        "timestamp": 1736640000,
+        "date": "2025-01-12 00:00:00"
+    },
+    {
+        "price_open": 0.048257,
+        "price_hight": 0.0485790624240952,
+        "price_low": 0.0478833179308661,
+        "price_vwap": 0.0482,
+        "timestamp": 1736726400,
+        "date": "2025-01-13 00:00:00"
+    },
+    {
+        "price_open": 0.0483858481071456,
+        "price_hight": 0.048892,
+        "price_low": 0.0483220179274686,
+        "price_vwap": 0.0486,
+        "timestamp": 1736812800,
+        "date": "2025-01-14 00:00:00"
+    },
+    {
+        "price_open": 0.0487179387245254,
+        "price_hight": 0.049079,
+        "price_low": 0.048344210780759,
+        "price_vwap": 0.0488,
+        "timestamp": 1736899200,
+        "date": "2025-01-15 00:00:00"
+    },
+    {
+        "price_open": 0.048867,
+        "price_hight": 0.048874,
+        "price_low": 0.0478759820560819,
+        "price_vwap": 0.0484,
+        "timestamp": 1736985600,
+        "date": "2025-01-16 00:00:00"
+    },
+    {
+        "price_open": 0.047984,
+        "price_hight": 0.048356,
+        "price_low": 0.0477251793273613,
+        "price_vwap": 0.0481,
+        "timestamp": 1737072000,
+        "date": "2025-01-17 00:00:00"
+    },
+    {
+        "price_open": 0.048040200039393,
+        "price_hight": 0.048092,
+        "price_low": 0.0479646673074746,
+        "price_vwap": 0.0481,
+        "timestamp": 1737244800,
+        "date": "2025-01-19 00:00:00"
+    },
+    {
+        "price_open": 0.048073,
+        "price_hight": 0.0489163320381919,
+        "price_low": 0.0478343019779484,
+        "price_vwap": 0.0484,
+        "timestamp": 1737331200,
+        "date": "2025-01-20 00:00:00"
+    },
+    {
+        "price_open": 0.048755,
+        "price_hight": 0.048818,
+        "price_low": 0.0480524348168722,
+        "price_vwap": 0.0483,
+        "timestamp": 1737417600,
+        "date": "2025-01-21 00:00:00"
+    },
+    {
+        "price_open": 0.048376,
+        "price_hight": 0.048869,
+        "price_low": 0.048334863937358,
+        "price_vwap": 0.0486,
+        "timestamp": 1737504000,
+        "date": "2025-01-22 00:00:00"
+    },
+    {
+        "price_open": 0.0487422073396016,
+        "price_hight": 0.049312,
+        "price_low": 0.0486168506004181,
+        "price_vwap": 0.0489,
+        "timestamp": 1737590400,
+        "date": "2025-01-23 00:00:00"
+    },
+    {
+        "price_open": 0.049051,
+        "price_hight": 0.049663,
+        "price_low": 0.0489979910823656,
+        "price_vwap": 0.0493,
+        "timestamp": 1737676800,
+        "date": "2025-01-24 00:00:00"
+    },
+    {
+        "price_open": 0.049002,
+        "price_hight": 0.049118,
+        "price_low": 0.048704,
+        "price_vwap": 0.0489,
+        "timestamp": 1737849600,
+        "date": "2025-01-26 00:00:00"
+    },
+    {
+        "price_open": 0.048896,
+        "price_hight": 0.0493169601025793,
+        "price_low": 0.0481426563192051,
+        "price_vwap": 0.0486,
+        "timestamp": 1737936000,
+        "date": "2025-01-27 00:00:00"
+    },
+    {
+        "price_open": 0.048171,
+        "price_hight": 0.048752,
+        "price_low": 0.0480822398630618,
+        "price_vwap": 0.0484,
+        "timestamp": 1738022400,
+        "date": "2025-01-28 00:00:00"
+    },
+    {
+        "price_open": 0.048618,
+        "price_hight": 0.048847,
+        "price_low": 0.0483488855581879,
+        "price_vwap": 0.0487,
+        "timestamp": 1738108800,
+        "date": "2025-01-29 00:00:00"
+    },
+    {
+        "price_open": 0.0487092060399416,
+        "price_hight": 0.04901,
+        "price_low": 0.0481368627281086,
+        "price_vwap": 0.0488,
+        "timestamp": 1738195200,
+        "date": "2025-01-30 00:00:00"
+    },
+    {
+        "price_open": 0.048349,
+        "price_hight": 0.048873,
+        "price_low": 0.0481396434778004,
+        "price_vwap": 0.0484,
+        "timestamp": 1738281600,
+        "date": "2025-01-31 00:00:00"
+    },
+    {
+        "price_open": 0.0471447712205687,
+        "price_hight": 0.047278,
+        "price_low": 0.046935,
+        "price_vwap": 0.0472,
+        "timestamp": 1738454400,
+        "date": "2025-02-02 00:00:00"
+    },
+    {
+        "price_open": 0.047207,
+        "price_hight": 0.049238,
+        "price_low": 0.0469313909994978,
+        "price_vwap": 0.0478,
+        "timestamp": 1738540800,
+        "date": "2025-02-03 00:00:00"
+    },
+    {
+        "price_open": 0.049031,
+        "price_hight": 0.0492171519805966,
+        "price_low": 0.048501,
+        "price_vwap": 0.0489,
+        "timestamp": 1738627200,
+        "date": "2025-02-04 00:00:00"
+    },
+    {
+        "price_open": 0.048731,
+        "price_hight": 0.048852,
+        "price_low": 0.0482346131584025,
+        "price_vwap": 0.0486,
+        "timestamp": 1738713600,
+        "date": "2025-02-05 00:00:00"
+    },
+    {
+        "price_open": 0.048572,
+        "price_hight": 0.048974,
+        "price_low": 0.0483699332494921,
+        "price_vwap": 0.0487,
+        "timestamp": 1738800000,
+        "date": "2025-02-06 00:00:00"
+    },
+    {
+        "price_open": 0.0488441042723938,
+        "price_hight": 0.0489411101409896,
+        "price_low": 0.0484425713316863,
+        "price_vwap": 0.0487,
+        "timestamp": 1738886400,
+        "date": "2025-02-07 00:00:00"
+    },
+    {
+        "price_open": 0.048411,
+        "price_hight": 0.048529,
+        "price_low": 0.0484046083123298,
+        "price_vwap": 0.0485,
+        "timestamp": 1739059200,
+        "date": "2025-02-09 00:00:00"
+    },
+    {
+        "price_open": 0.0485100384248014,
+        "price_hight": 0.0486481174637985,
+        "price_low": 0.0482690711099956,
+        "price_vwap": 0.0485,
+        "timestamp": 1739145600,
+        "date": "2025-02-10 00:00:00"
+    },
+    {
+        "price_open": 0.048464,
+        "price_hight": 0.04877,
+        "price_low": 0.0483558994197292,
+        "price_vwap": 0.0485,
+        "timestamp": 1739232000,
+        "date": "2025-02-11 00:00:00"
+    },
+    {
+        "price_open": 0.048652,
+        "price_hight": 0.0489264317708677,
+        "price_low": 0.0484331864193345,
+        "price_vwap": 0.0487,
+        "timestamp": 1739318400,
+        "date": "2025-02-12 00:00:00"
+    },
+    {
+        "price_open": 0.048662,
+        "price_hight": 0.049031625398382,
+        "price_low": 0.048395683105067,
+        "price_vwap": 0.0487,
+        "timestamp": 1739404800,
+        "date": "2025-02-13 00:00:00"
+    },
+    {
+        "price_open": 0.04895,
+        "price_hight": 0.049347,
+        "price_low": 0.048881828180374,
+        "price_vwap": 0.0491,
+        "timestamp": 1739491200,
+        "date": "2025-02-14 00:00:00"
+    },
+    {
+        "price_open": 0.04909,
+        "price_hight": 0.049208,
+        "price_low": 0.049052,
+        "price_vwap": 0.0492,
+        "timestamp": 1739664000,
+        "date": "2025-02-16 00:00:00"
+    },
+    {
+        "price_open": 0.0491968854435763,
+        "price_hight": 0.0493410502735961,
+        "price_low": 0.0489164995352933,
+        "price_vwap": 0.0492,
+        "timestamp": 1739750400,
+        "date": "2025-02-17 00:00:00"
+    },
+    {
+        "price_open": 0.049254532648367,
+        "price_hight": 0.049479,
+        "price_low": 0.0491291851924636,
+        "price_vwap": 0.0493,
+        "timestamp": 1739836800,
+        "date": "2025-02-18 00:00:00"
+    },
+    {
+        "price_open": 0.049335938270874,
+        "price_hight": 0.049494757515284,
+        "price_low": 0.048792,
+        "price_vwap": 0.0492,
+        "timestamp": 1739923200,
+        "date": "2025-02-19 00:00:00"
+    },
+    {
+        "price_open": 0.0488224036245752,
+        "price_hight": 0.0492716905067741,
+        "price_low": 0.0488031038774066,
+        "price_vwap": 0.049,
+        "timestamp": 1740009600,
+        "date": "2025-02-20 00:00:00"
+    },
+    {
+        "price_open": 0.049223,
+        "price_hight": 0.049274,
+        "price_low": 0.0488854125928823,
+        "price_vwap": 0.0491,
+        "timestamp": 1740096000,
+        "date": "2025-02-21 00:00:00"
+    },
+    {
+        "price_open": 0.048985,
+        "price_hight": 0.049057,
+        "price_low": 0.0487531384832899,
+        "price_vwap": 0.049,
+        "timestamp": 1740268800,
+        "date": "2025-02-23 00:00:00"
+    },
+    {
+        "price_open": 0.0490434083207047,
+        "price_hight": 0.049139,
+        "price_low": 0.0487028008980797,
+        "price_vwap": 0.0489,
+        "timestamp": 1740355200,
+        "date": "2025-02-24 00:00:00"
+    },
+    {
+        "price_open": 0.048808,
+        "price_hight": 0.049033,
+        "price_low": 0.048622760314103,
+        "price_vwap": 0.0488,
+        "timestamp": 1740441600,
+        "date": "2025-02-25 00:00:00"
+    },
+    {
+        "price_open": 0.048862,
+        "price_hight": 0.049276,
+        "price_low": 0.0486270161976591,
+        "price_vwap": 0.0489,
+        "timestamp": 1740528000,
+        "date": "2025-02-26 00:00:00"
+    },
+    {
+        "price_open": 0.048983374552843,
+        "price_hight": 0.049111,
+        "price_low": 0.0486286714646956,
+        "price_vwap": 0.0489,
+        "timestamp": 1740614400,
+        "date": "2025-02-27 00:00:00"
+    },
+    {
+        "price_open": 0.048833,
+        "price_hight": 0.049073,
+        "price_low": 0.0483843966127052,
+        "price_vwap": 0.0488,
+        "timestamp": 1740700800,
+        "date": "2025-02-28 00:00:00"
+    },
+    {
+        "price_open": 0.048506,
+        "price_hight": 0.048716,
+        "price_low": 0.0484437447014654,
+        "price_vwap": 0.0487,
+        "timestamp": 1740873600,
+        "date": "2025-03-02 00:00:00"
+    },
+    {
+        "price_open": 0.0486949983906303,
+        "price_hight": 0.049079,
+        "price_low": 0.0481700209057891,
+        "price_vwap": 0.0488,
+        "timestamp": 1740960000,
+        "date": "2025-03-03 00:00:00"
+    },
+    {
+        "price_open": 0.048198,
+        "price_hight": 0.048838,
+        "price_low": 0.0475793981206138,
+        "price_vwap": 0.0481,
+        "timestamp": 1741046400,
+        "date": "2025-03-04 00:00:00"
+    },
+    {
+        "price_open": 0.048669,
+        "price_hight": 0.049139,
+        "price_low": 0.0483498206221655,
+        "price_vwap": 0.0488,
+        "timestamp": 1741132800,
+        "date": "2025-03-05 00:00:00"
+    },
+    {
+        "price_open": 0.0489934299810395,
+        "price_hight": 0.049465,
+        "price_low": 0.0487353184853063,
+        "price_vwap": 0.0491,
+        "timestamp": 1741219200,
+        "date": "2025-03-06 00:00:00"
+    },
+    {
+        "price_open": 0.049293,
+        "price_hight": 0.049423,
+        "price_low": 0.0490124001372347,
+        "price_vwap": 0.0493,
+        "timestamp": 1741305600,
+        "date": "2025-03-07 00:00:00"
+    },
+    {
+        "price_open": 0.0491574172889586,
+        "price_hight": 0.04937,
+        "price_low": 0.0491574172889586,
+        "price_vwap": 0.0493,
+        "timestamp": 1741478400,
+        "date": "2025-03-09 00:00:00"
+    },
+    {
+        "price_open": 0.0493362303567799,
+        "price_hight": 0.0495451752908302,
+        "price_low": 0.048952,
+        "price_vwap": 0.0493,
+        "timestamp": 1741564800,
+        "date": "2025-03-10 00:00:00"
+    },
+    {
+        "price_open": 0.049134,
+        "price_hight": 0.049384,
+        "price_low": 0.0489620054837446,
+        "price_vwap": 0.0492,
+        "timestamp": 1741651200,
+        "date": "2025-03-11 00:00:00"
+    },
+    {
+        "price_open": 0.0492885202107577,
+        "price_hight": 0.0496029531614194,
+        "price_low": 0.0490628986360514,
+        "price_vwap": 0.0494,
+        "timestamp": 1741737600,
+        "date": "2025-03-12 00:00:00"
+    },
+    {
+        "price_open": 0.049552,
+        "price_hight": 0.0498441622267979,
+        "price_low": 0.0494608764467306,
+        "price_vwap": 0.0496,
+        "timestamp": 1741824000,
+        "date": "2025-03-13 00:00:00"
+    },
+    {
+        "price_open": 0.049779,
+        "price_hight": 0.050381,
+        "price_low": 0.0496450379784541,
+        "price_vwap": 0.05,
+        "timestamp": 1741910400,
+        "date": "2025-03-14 00:00:00"
+    },
+    {
+        "price_open": 0.05007360820406,
+        "price_hight": 0.05019,
+        "price_low": 0.050022,
+        "price_vwap": 0.0502,
+        "timestamp": 1742083200,
+        "date": "2025-03-16 00:00:00"
+    },
+    {
+        "price_open": 0.050165,
+        "price_hight": 0.0503291526583859,
+        "price_low": 0.05003,
+        "price_vwap": 0.0502,
+        "timestamp": 1742169600,
+        "date": "2025-03-17 00:00:00"
+    },
+    {
+        "price_open": 0.0500850694905297,
+        "price_hight": 0.050227,
+        "price_low": 0.0497141436738752,
+        "price_vwap": 0.05,
+        "timestamp": 1742256000,
+        "date": "2025-03-18 00:00:00"
+    },
+    {
+        "price_open": 0.0502212244938956,
+        "price_hight": 0.0502392644971678,
+        "price_low": 0.049694,
+        "price_vwap": 0.05,
+        "timestamp": 1742342400,
+        "date": "2025-03-19 00:00:00"
+    },
+    {
+        "price_open": 0.049896,
+        "price_hight": 0.04992,
+        "price_low": 0.0492996977928525,
+        "price_vwap": 0.0497,
+        "timestamp": 1742428800,
+        "date": "2025-03-20 00:00:00"
+    },
+    {
+        "price_open": 0.049634,
+        "price_hight": 0.049657,
+        "price_low": 0.0492720061097288,
+        "price_vwap": 0.0495,
+        "timestamp": 1742515200,
+        "date": "2025-03-21 00:00:00"
+    },
+    {
+        "price_open": 0.049353,
+        "price_hight": 0.049462,
+        "price_low": 0.0492010971844672,
+        "price_vwap": 0.0494,
+        "timestamp": 1742688000,
+        "date": "2025-03-23 00:00:00"
+    },
+    {
+        "price_open": 0.0494565711957016,
+        "price_hight": 0.0499102862604469,
+        "price_low": 0.0493683321896336,
+        "price_vwap": 0.0496,
+        "timestamp": 1742774400,
+        "date": "2025-03-24 00:00:00"
+    },
+    {
+        "price_open": 0.04989,
+        "price_hight": 0.050099,
+        "price_low": 0.0496576107737152,
+        "price_vwap": 0.0499,
+        "timestamp": 1742860800,
+        "date": "2025-03-25 00:00:00"
+    },
+    {
+        "price_open": 0.049876,
+        "price_hight": 0.04988,
+        "price_low": 0.0493106129752988,
+        "price_vwap": 0.0497,
+        "timestamp": 1742947200,
+        "date": "2025-03-26 00:00:00"
+    },
+    {
+        "price_open": 0.049352,
+        "price_hight": 0.0497883993029624,
+        "price_low": 0.0490484598783598,
+        "price_vwap": 0.0494,
+        "timestamp": 1743033600,
+        "date": "2025-03-27 00:00:00"
+    },
+    {
+        "price_open": 0.049263,
+        "price_hight": 0.049334,
+        "price_low": 0.0488464901354513,
+        "price_vwap": 0.0491,
+        "timestamp": 1743120000,
+        "date": "2025-03-28 00:00:00"
+    },
+    {
+        "price_open": 0.048756,
+        "price_hight": 0.049069,
+        "price_low": 0.048756,
+        "price_vwap": 0.049,
+        "timestamp": 1743292800,
+        "date": "2025-03-30 00:00:00"
+    },
+    {
+        "price_open": 0.049048026846928,
+        "price_hight": 0.049178,
+        "price_low": 0.0487543269465165,
+        "price_vwap": 0.049,
+        "timestamp": 1743379200,
+        "date": "2025-03-31 00:00:00"
+    },
+    {
+        "price_open": 0.048828,
+        "price_hight": 0.049208,
+        "price_low": 0.0486334014200953,
+        "price_vwap": 0.0489,
+        "timestamp": 1743465600,
+        "date": "2025-04-01 00:00:00"
+    },
+    {
+        "price_open": 0.0491373930647484,
+        "price_hight": 0.049604,
+        "price_low": 0.0487139516757599,
+        "price_vwap": 0.0491,
+        "timestamp": 1743552000,
+        "date": "2025-04-02 00:00:00"
+    },
+    {
+        "price_open": 0.0492894919732062,
+        "price_hight": 0.050406,
+        "price_low": 0.0492627824604789,
+        "price_vwap": 0.0499,
+        "timestamp": 1743638400,
+        "date": "2025-04-03 00:00:00"
+    },
+    {
+        "price_open": 0.05011,
+        "price_hight": 0.05023,
+        "price_low": 0.0486099971320102,
+        "price_vwap": 0.0493,
+        "timestamp": 1743724800,
+        "date": "2025-04-04 00:00:00"
+    },
+    {
+        "price_open": 0.0486322188449848,
+        "price_hight": 0.048772,
+        "price_low": 0.04836,
+        "price_vwap": 0.0485,
+        "timestamp": 1743897600,
+        "date": "2025-04-06 00:00:00"
+    },
+    {
+        "price_open": 0.048448,
+        "price_hight": 0.0488215932048154,
+        "price_low": 0.048022897317441,
+        "price_vwap": 0.0483,
+        "timestamp": 1743984000,
+        "date": "2025-04-07 00:00:00"
+    },
+    {
+        "price_open": 0.048298,
+        "price_hight": 0.048845,
+        "price_low": 0.0477862996678852,
+        "price_vwap": 0.0484,
+        "timestamp": 1744070400,
+        "date": "2025-04-08 00:00:00"
+    },
+    {
+        "price_open": 0.04794,
+        "price_hight": 0.0495733961395214,
+        "price_low": 0.0473866274937213,
+        "price_vwap": 0.0482,
+        "timestamp": 1744156800,
+        "date": "2025-04-09 00:00:00"
+    },
+    {
+        "price_open": 0.049162,
+        "price_hight": 0.0493851548224604,
+        "price_low": 0.0484343593345119,
+        "price_vwap": 0.049,
+        "timestamp": 1744243200,
+        "date": "2025-04-10 00:00:00"
+    },
+    {
+        "price_open": 0.0485236203279032,
+        "price_hight": 0.049373,
+        "price_low": 0.04845712513568,
+        "price_vwap": 0.0489,
+        "timestamp": 1744329600,
+        "date": "2025-04-11 00:00:00"
+    },
+    {
+        "price_open": 0.049148,
+        "price_hight": 0.0497388709276299,
+        "price_low": 0.0490618395049857,
+        "price_vwap": 0.0493,
+        "timestamp": 1744502400,
+        "date": "2025-04-13 00:00:00"
+    },
+    {
+        "price_open": 0.049309,
+        "price_hight": 0.049936,
+        "price_low": 0.0492295574262787,
+        "price_vwap": 0.0495,
+        "timestamp": 1744588800,
+        "date": "2025-04-14 00:00:00"
+    },
+    {
+        "price_open": 0.0497760079641613,
+        "price_hight": 0.050174,
+        "price_low": 0.049519,
+        "price_vwap": 0.0499,
+        "timestamp": 1744675200,
+        "date": "2025-04-15 00:00:00"
+    },
+    {
+        "price_open": 0.0496435592446236,
+        "price_hight": 0.050222,
+        "price_low": 0.0496238512078445,
+        "price_vwap": 0.0499,
+        "timestamp": 1744761600,
+        "date": "2025-04-16 00:00:00"
+    },
+    {
+        "price_open": 0.050163,
+        "price_hight": 0.050806,
+        "price_low": 0.0500806298140005,
+        "price_vwap": 0.0503,
+        "timestamp": 1744848000,
+        "date": "2025-04-17 00:00:00"
+    },
+    {
+        "price_open": 0.0507279460254654,
+        "price_hight": 0.0507430301910881,
+        "price_low": 0.050541,
+        "price_vwap": 0.0507,
+        "timestamp": 1745107200,
+        "date": "2025-04-20 00:00:00"
+    },
+    {
+        "price_open": 0.050722722714599,
+        "price_hight": 0.051053,
+        "price_low": 0.050507,
+        "price_vwap": 0.0508,
+        "timestamp": 1745193600,
+        "date": "2025-04-21 00:00:00"
+    },
+    {
+        "price_open": 0.050717,
+        "price_hight": 0.051214,
+        "price_low": 0.0506670314692933,
+        "price_vwap": 0.0509,
+        "timestamp": 1745280000,
+        "date": "2025-04-22 00:00:00"
+    },
+    {
+        "price_open": 0.05096,
+        "price_hight": 0.051354,
+        "price_low": 0.0507941667978849,
+        "price_vwap": 0.051,
+        "timestamp": 1745366400,
+        "date": "2025-04-23 00:00:00"
+    },
+    {
+        "price_open": 0.050937,
+        "price_hight": 0.0511151537518267,
+        "price_low": 0.0508763450433721,
+        "price_vwap": 0.051,
+        "timestamp": 1745452800,
+        "date": "2025-04-24 00:00:00"
+    },
+    {
+        "price_open": 0.051005,
+        "price_hight": 0.051275,
+        "price_low": 0.0507495711661237,
+        "price_vwap": 0.051,
+        "timestamp": 1745539200,
+        "date": "2025-04-25 00:00:00"
+    },
+    {
+        "price_open": 0.050949,
+        "price_hight": 0.051255,
+        "price_low": 0.0507454506703474,
+        "price_vwap": 0.0512,
+        "timestamp": 1745712000,
+        "date": "2025-04-27 00:00:00"
+    },
+    {
+        "price_open": 0.051173,
+        "price_hight": 0.0516129032258065,
+        "price_low": 0.0508778463611147,
+        "price_vwap": 0.0511,
+        "timestamp": 1745798400,
+        "date": "2025-04-28 00:00:00"
+    },
+    {
+        "price_open": 0.051041,
+        "price_hight": 0.051154,
+        "price_low": 0.0508375486134059,
+        "price_vwap": 0.051,
+        "timestamp": 1745884800,
+        "date": "2025-04-29 00:00:00"
+    },
+    {
+        "price_open": 0.051131,
+        "price_hight": 0.051222,
+        "price_low": 0.050777,
+        "price_vwap": 0.0511,
+        "timestamp": 1745971200,
+        "date": "2025-04-30 00:00:00"
+    },
+    {
+        "price_open": 0.050979,
+        "price_hight": 0.051037,
+        "price_low": 0.0507730192175878,
+        "price_vwap": 0.0509,
+        "timestamp": 1746057600,
+        "date": "2025-05-01 00:00:00"
+    },
+    {
+        "price_open": 0.051001,
+        "price_hight": 0.051149,
+        "price_low": 0.0507125107764085,
+        "price_vwap": 0.051,
+        "timestamp": 1746144000,
+        "date": "2025-05-02 00:00:00"
+    },
+    {
+        "price_open": 0.050686,
+        "price_hight": 0.051018,
+        "price_low": 0.050686,
+        "price_vwap": 0.051,
+        "timestamp": 1746316800,
+        "date": "2025-05-04 00:00:00"
+    },
+    {
+        "price_open": 0.050974,
+        "price_hight": 0.051146,
+        "price_low": 0.0507040253925759,
+        "price_vwap": 0.051,
+        "timestamp": 1746403200,
+        "date": "2025-05-05 00:00:00"
+    },
+    {
+        "price_open": 0.050783,
+        "price_hight": 0.050958,
+        "price_low": 0.0505104076695003,
+        "price_vwap": 0.0507,
+        "timestamp": 1746489600,
+        "date": "2025-05-06 00:00:00"
+    },
+    {
+        "price_open": 0.05089,
+        "price_hight": 0.051127,
+        "price_low": 0.0507763707081273,
+        "price_vwap": 0.0509,
+        "timestamp": 1746576000,
+        "date": "2025-05-07 00:00:00"
+    },
+    {
+        "price_open": 0.051,
+        "price_hight": 0.0512413210012554,
+        "price_low": 0.0509323160452075,
+        "price_vwap": 0.0511,
+        "timestamp": 1746662400,
+        "date": "2025-05-08 00:00:00"
+    },
+    {
+        "price_open": 0.051195,
+        "price_hight": 0.0514473158906354,
+        "price_low": 0.0508491813281806,
+        "price_vwap": 0.0513,
+        "timestamp": 1746748800,
+        "date": "2025-05-09 00:00:00"
+    },
+    {
+        "price_open": 0.0511357244398081,
+        "price_hight": 0.051445,
+        "price_low": 0.051123,
+        "price_vwap": 0.0514,
+        "timestamp": 1746921600,
+        "date": "2025-05-11 00:00:00"
+    },
+    {
+        "price_open": 0.051422,
+        "price_hight": 0.051481,
+        "price_low": 0.050806,
+        "price_vwap": 0.0511,
+        "timestamp": 1747008000,
+        "date": "2025-05-12 00:00:00"
+    },
+    {
+        "price_open": 0.050954,
+        "price_hight": 0.0516025427668974,
+        "price_low": 0.0508773804254367,
+        "price_vwap": 0.0512,
+        "timestamp": 1747094400,
+        "date": "2025-05-13 00:00:00"
+    },
+    {
+        "price_open": 0.051515,
+        "price_hight": 0.0517990590182939,
+        "price_low": 0.0514310695090904,
+        "price_vwap": 0.0516,
+        "timestamp": 1747180800,
+        "date": "2025-05-14 00:00:00"
+    },
+    {
+        "price_open": 0.051578,
+        "price_hight": 0.051735,
+        "price_low": 0.0511810016122016,
+        "price_vwap": 0.0515,
+        "timestamp": 1747267200,
+        "date": "2025-05-15 00:00:00"
+    },
+    {
+        "price_open": 0.0512786327065375,
+        "price_hight": 0.0514472629541636,
+        "price_low": 0.0510646989735996,
+        "price_vwap": 0.0513,
+        "timestamp": 1747353600,
+        "date": "2025-05-16 00:00:00"
+    },
+    {
+        "price_open": 0.051394,
+        "price_hight": 0.051395,
+        "price_low": 0.0513526282275127,
+        "price_vwap": 0.0514,
+        "timestamp": 1747526400,
+        "date": "2025-05-18 00:00:00"
+    },
+    {
+        "price_open": 0.051383,
+        "price_hight": 0.051809,
+        "price_low": 0.0512628605701455,
+        "price_vwap": 0.0515,
+        "timestamp": 1747612800,
+        "date": "2025-05-19 00:00:00"
+    },
+    {
+        "price_open": 0.0517721610735475,
+        "price_hight": 0.05194,
+        "price_low": 0.051649,
+        "price_vwap": 0.0518,
+        "timestamp": 1747699200,
+        "date": "2025-05-20 00:00:00"
+    },
+    {
+        "price_open": 0.051882,
+        "price_hight": 0.051914,
+        "price_low": 0.0514845572070657,
+        "price_vwap": 0.0518,
+        "timestamp": 1747785600,
+        "date": "2025-05-21 00:00:00"
+    },
+    {
+        "price_open": 0.051622,
+        "price_hight": 0.0518368383675543,
+        "price_low": 0.051346563631229,
+        "price_vwap": 0.0517,
+        "timestamp": 1747872000,
+        "date": "2025-05-22 00:00:00"
+    },
+    {
+        "price_open": 0.0517349041429829,
+        "price_hight": 0.052008,
+        "price_low": 0.0515570220664054,
+        "price_vwap": 0.0518,
+        "timestamp": 1747958400,
+        "date": "2025-05-23 00:00:00"
+    },
+    {
+        "price_open": 0.0517983614106351,
+        "price_hight": 0.052032,
+        "price_low": 0.0516414226179103,
+        "price_vwap": 0.052,
+        "timestamp": 1748131200,
+        "date": "2025-05-25 00:00:00"
+    },
+    {
+        "price_open": 0.052025,
+        "price_hight": 0.0521206593263405,
+        "price_low": 0.0518952131855358,
+        "price_vwap": 0.052,
+        "timestamp": 1748217600,
+        "date": "2025-05-26 00:00:00"
+    },
+    {
+        "price_open": 0.051946,
+        "price_hight": 0.052122017643303,
+        "price_low": 0.0517973686936704,
+        "price_vwap": 0.052,
+        "timestamp": 1748304000,
+        "date": "2025-05-27 00:00:00"
+    },
+    {
+        "price_open": 0.0518937589451867,
+        "price_hight": 0.051914,
+        "price_low": 0.0514284244902157,
+        "price_vwap": 0.0517,
+        "timestamp": 1748390400,
+        "date": "2025-05-28 00:00:00"
+    },
+    {
+        "price_open": 0.051546,
+        "price_hight": 0.0518299335488422,
+        "price_low": 0.0514564755401643,
+        "price_vwap": 0.0517,
+        "timestamp": 1748476800,
+        "date": "2025-05-29 00:00:00"
+    },
+    {
+        "price_open": 0.05177,
+        "price_hight": 0.051919,
+        "price_low": 0.0514004040071755,
+        "price_vwap": 0.0517,
+        "timestamp": 1748563200,
+        "date": "2025-05-30 00:00:00"
+    },
+    {
+        "price_open": 0.051404,
+        "price_hight": 0.0517330574236937,
+        "price_low": 0.051324,
+        "price_vwap": 0.0514,
+        "timestamp": 1748736000,
+        "date": "2025-06-01 00:00:00"
+    },
+    {
+        "price_open": 0.051442,
+        "price_hight": 0.0521032248248941,
+        "price_low": 0.0514162609066743,
+        "price_vwap": 0.0518,
+        "timestamp": 1748822400,
+        "date": "2025-06-02 00:00:00"
+    },
+    {
+        "price_open": 0.052058,
+        "price_hight": 0.05207,
+        "price_low": 0.0518174987693344,
+        "price_vwap": 0.052,
+        "timestamp": 1748908800,
+        "date": "2025-06-03 00:00:00"
+    },
+    {
+        "price_open": 0.051967,
+        "price_hight": 0.052178,
+        "price_low": 0.0519164975054123,
+        "price_vwap": 0.0521,
+        "timestamp": 1748995200,
+        "date": "2025-06-04 00:00:00"
+    },
+    {
+        "price_open": 0.0520700446240283,
+        "price_hight": 0.052237,
+        "price_low": 0.0519615484541439,
+        "price_vwap": 0.0521,
+        "timestamp": 1749081600,
+        "date": "2025-06-05 00:00:00"
+    },
+    {
+        "price_open": 0.0522012483406528,
+        "price_hight": 0.052362,
+        "price_low": 0.0519804553487889,
+        "price_vwap": 0.0522,
+        "timestamp": 1749168000,
+        "date": "2025-06-06 00:00:00"
+    },
+    {
+        "price_open": 0.052157,
+        "price_hight": 0.0523544037121366,
+        "price_low": 0.05209,
+        "price_vwap": 0.0523,
+        "timestamp": 1749340800,
+        "date": "2025-06-08 00:00:00"
+    },
+    {
+        "price_open": 0.0523113782478827,
+        "price_hight": 0.0525515898958007,
+        "price_low": 0.0522318677071255,
+        "price_vwap": 0.0524,
+        "timestamp": 1749427200,
+        "date": "2025-06-09 00:00:00"
+    },
+    {
+        "price_open": 0.05248,
+        "price_hight": 0.0525435270578147,
+        "price_low": 0.0523193152448021,
+        "price_vwap": 0.0525,
+        "timestamp": 1749513600,
+        "date": "2025-06-10 00:00:00"
+    },
+    {
+        "price_open": 0.0524624840776361,
+        "price_hight": 0.053112,
+        "price_low": 0.0523957978570119,
+        "price_vwap": 0.0527,
+        "timestamp": 1749600000,
+        "date": "2025-06-11 00:00:00"
+    },
+    {
+        "price_open": 0.052897,
+        "price_hight": 0.0530266554391562,
+        "price_low": 0.0526443244153848,
+        "price_vwap": 0.0528,
+        "timestamp": 1749686400,
+        "date": "2025-06-12 00:00:00"
+    },
+    {
+        "price_open": 0.052948,
+        "price_hight": 0.052972,
+        "price_low": 0.0523020758693913,
+        "price_vwap": 0.0526,
+        "timestamp": 1749772800,
+        "date": "2025-06-13 00:00:00"
+    },
+    {
+        "price_open": 0.0544662309368192,
+        "price_hight": 0.0544662309368192,
+        "price_low": 0.0544662309368192,
+        "price_vwap": 0.0545,
+        "timestamp": 1749945600,
+        "date": "2025-06-15 00:00:00"
+    },
+    {
+        "price_open": 0.0527448693746938,
+        "price_hight": 0.053115,
+        "price_low": 0.0526512538896114,
+        "price_vwap": 0.0529,
+        "timestamp": 1750032000,
+        "date": "2025-06-16 00:00:00"
+    },
+    {
+        "price_open": 0.052835,
+        "price_hight": 0.0528485360955502,
+        "price_low": 0.0524507618473158,
+        "price_vwap": 0.0527,
+        "timestamp": 1750118400,
+        "date": "2025-06-17 00:00:00"
+    },
+    {
+        "price_open": 0.052565,
+        "price_hight": 0.05278,
+        "price_low": 0.052445260259604,
+        "price_vwap": 0.0526,
+        "timestamp": 1750204800,
+        "date": "2025-06-18 00:00:00"
+    },
+    {
+        "price_open": 0.05256,
+        "price_hight": 0.052567,
+        "price_low": 0.052193,
+        "price_vwap": 0.0524,
+        "timestamp": 1750291200,
+        "date": "2025-06-19 00:00:00"
+    },
+    {
+        "price_open": 0.052525,
+        "price_hight": 0.0526032562467682,
+        "price_low": 0.051993,
+        "price_vwap": 0.0524,
+        "timestamp": 1750377600,
+        "date": "2025-06-20 00:00:00"
+    },
+    {
+        "price_open": 0.0518631849181858,
+        "price_hight": 0.0520081382334708,
+        "price_low": 0.0515947951170686,
+        "price_vwap": 0.0519,
+        "timestamp": 1750550400,
+        "date": "2025-06-22 00:00:00"
+    },
+    {
+        "price_open": 0.0519990515373,
+        "price_hight": 0.0524062046850099,
+        "price_low": 0.0518113238829479,
+        "price_vwap": 0.0521,
+        "timestamp": 1750636800,
+        "date": "2025-06-23 00:00:00"
+    },
+    {
+        "price_open": 0.052383,
+        "price_hight": 0.052769,
+        "price_low": 0.0523365659885592,
+        "price_vwap": 0.0525,
+        "timestamp": 1750723200,
+        "date": "2025-06-24 00:00:00"
+    },
+    {
+        "price_open": 0.05264,
+        "price_hight": 0.0529078134258867,
+        "price_low": 0.05249343832021,
+        "price_vwap": 0.0527,
+        "timestamp": 1750809600,
+        "date": "2025-06-25 00:00:00"
+    },
+    {
+        "price_open": 0.052864,
+        "price_hight": 0.053052,
+        "price_low": 0.0526509766756173,
+        "price_vwap": 0.0529,
+        "timestamp": 1750896000,
+        "date": "2025-06-26 00:00:00"
+    },
+    {
+        "price_open": 0.0529594537126431,
+        "price_hight": 0.053152,
+        "price_low": 0.0527963591630721,
+        "price_vwap": 0.053,
+        "timestamp": 1750982400,
+        "date": "2025-06-27 00:00:00"
+    }
+]

@@ -1,0 +1,54 @@
+1. custos e faixas brz, eur, hkd, mxn
+	1.1 graphs
+2. report mensal idrx
+	2.1 report posição
+	2.2 report bot
+	2.3 comparativos entre antes de dfb e pos dfb
+	2.4 graphs
+3. revisao codigos antigos
+4. documentaçao
+	4.1 doc codigos
+	4.2 doc protocolos
+5. estudo de novos protocolos - balancer, fluid, hydrex
+
+
+1.
+problema para resolver - encontrar o por que do amount0 e 1 quando a faixa esta shifted nao esta mudando. feito
+mudar nome dos arquivos salvos - proximo (nao vou mudar) no caso, quando for fazer os graficos adaptar aos novos nomes
+apos isso mudar, obter novos valores com os amounts shifteds corretos - feito
+
+olhar o que os graficos estao montando e fazer correçoes necessarias - feito
+criar graficos e resultados referentes aos valores corretos - 
+
+criar um código para ler e comparar os resultados que eu quiser de forma facil - Ideia de feature
+
+2.
+Ver novos resultados nas positions (json)
+Mudar o código dos results das positions para criar o pnl corretamente - feito
+atualizar os json para data mais atual - (esperando gabriel atualizar os dados com as informaçoes de a posição estar stackada ou nao)
+
+
+2.2
+ver as kpis do banco para o bot - 
+pensar na estrutura do resultado simulado e real para o bot
+montar os 2 resultados
+
+2.3
+ter docs separando os resultados entre as datas pre e pos dfb
+
+2.4
+criar graficos com todos os resultados
+
+
+- Sua familia e voce mesmo dependem disso, se voce quer ser alguem, faça o que precisa ser feito. Nao vacile
+O custo com os graficos de todos os resultados do brz, eur, hkd e mxn devem estar completos, assim como todo o report mensal para idrx.
+
+fluxo de rodagem dos códigos:
+main.py> simulation_historic_il_patched(python simulate_historic_il_patched.py --input caminho(ex:expected_ranges/brl))>
+
+
+brz - 7 dias - lower 0.17556980303329406, upper 0.191898655842874 - para price 0.187
+14 dias - lower 0.17083012831782327, upper 0.19392994500664718 - para price 0.187
+
+idr - 7 dias - lower 0.00005715134, upper 0.0000610856387485983 - para price 0.0000599053495477146
+					5.7151341412319316e-05  6.10856387485983e-05			  5.99053495477146e-05
