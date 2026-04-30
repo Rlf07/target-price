@@ -1,0 +1,26 @@
+services:
+  - type: web
+    name: target-price-api
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.api:app --host 0.0.0.0 --port $PORT
+    autoDeploy: true
+    envVars:
+      - key: API_KEY_POLYGON_IO
+        sync: false
+      - key: CORS_ALLOWED_ORIGINS
+        sync: false
+      - key: RATE_LIMIT_REQUESTS
+        value: "30"
+      - key: RATE_LIMIT_WINDOW_SECONDS
+        value: "60"
+
+  - type: web
+    name: target-price-ui
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: streamlit run ui/streamlit_app.py --server.port $PORT --server.address 0.0.0.0
+    autoDeploy: true
+    envVars:
+      - key: TARGET_PRICE_API_URL
+        sync: false

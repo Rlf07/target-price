@@ -30,3 +30,14 @@ Thumbs.db
 # RAR files
 *.rar
 
+# Dados locais / saídas (não versionar — regenere com main.py e scripts)
+backup/
+expected_ranges/
+simulations/
+rebalancing/
+graphs/
+test/
+
+# Dumps grandes gerados localmente
+estrutura.txt
+estrutura_filtrada.txt
