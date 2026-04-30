@@ -280,3 +280,14 @@ streamlit run ui/streamlit_app.py
 Guia pratico de deploy e runbook em:
 - `docs/deploy-and-operations.md`
 
+## Variante gratuita implementada
+
+Na branch `feat/free-streamlit-only`, a UI (`ui/streamlit_app.py`) suporta modo:
+- `Direto (gratuito, sem API separada)`
+
+Nesse modo, o Streamlit chama diretamente:
+- `app/providers/history_provider.py`
+- `app/services/expected_ranges.py`
+
+e entrega o mesmo `summary_text`, sem precisar publicar 2 servicos.
+

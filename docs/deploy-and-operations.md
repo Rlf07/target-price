@@ -8,6 +8,23 @@ Colocar no ar:
 
 com seguranca basica para uso operacional simples (1 usuario principal, baixa concorrencia).
 
+## Caminho gratuito recomendado (branch `feat/free-streamlit-only`)
+
+Para evitar custo de 2 servicos web, a UI Streamlit agora suporta modo:
+- **Direto (gratuito, sem API separada)**  
+  Nesse modo, o proprio Streamlit executa o calculo internamente e consulta Polygon sem FastAPI.
+
+### Deploy gratuito sugerido
+
+- **Streamlit Community Cloud** com 1 app:
+  - Entry point: `ui/streamlit_app.py`
+  - Secrets/vars:
+    - `API_KEY_POLYGON_IO` (obrigatoria para `source=polygon`)
+  - No app, manter:
+    - `Modo de execução` = `Direto (gratuito, sem API separada)`
+
+Esse caminho elimina a necessidade de `target-price-api` e reduz custo para zero (respeitando limites da plataforma e da Polygon).
+
 ## Opcao recomendada (simples): Render com Blueprint
 
 Arquivo pronto no repo:

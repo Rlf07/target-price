@@ -11,6 +11,8 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from app.config import DEFAULT_ALPHA, DEFAULT_HORIZONS, DEFAULT_Z_SCORE, SUPPORTED_ASSETS
+from app.providers.history_provider import load_price_history
+from app.services.expected_ranges import build_summary_payload, compute_expected_ranges
 
 
 st.set_page_config(page_title="Expected Ranges", page_icon="📈", layout="centered")
@@ -18,8 +20,16 @@ st.set_page_config(page_title="Expected Ranges", page_icon="📈", layout="cente
 st.title("Expected Ranges")
 st.caption("Gere ranges por ativo e visualize o summary no formato operacional.")
 
+mode = st.radio(
+    "Modo de execução",
+    options=["Direto (gratuito, sem API separada)", "Via API (FastAPI)"],
+    index=0,
+)
+
 default_api_url = os.getenv("TARGET_PRICE_API_URL", "http://127.0.0.1:8000")
-api_url = st.text_input("API base URL", value=default_api_url).rstrip("/")
+api_url = ""
+if mode == "Via API (FastAPI)":
+    api_url = st.text_input("API base URL", value=default_api_url).rstrip("/")
 
 col1, col2 = st.columns(2)
 with col1:
@@ -40,8 +50,8 @@ horizons = st.multiselect(
 )
 lookback_days = st.slider("Lookback (dias)", min_value=90, max_value=2000, value=730, step=30)
 
-test_health = st.button("Testar conexão com API")
-if test_health:
+test_health = st.button("Testar conexão com API", disabled=mode != "Via API (FastAPI)")
+if test_health and mode == "Via API (FastAPI)":
     try:
         health = requests.get(f"{api_url}/health", timeout=10)
         health.raise_for_status()
@@ -63,32 +73,53 @@ if run_btn:
             "source": source,
             "lookback_days": int(lookback_days),
         }
-        with st.spinner("Consultando API e calculando ranges..."):
+        with st.spinner("Calculando expected ranges..."):
             try:
-                resp = requests.post(f"{api_url}/v1/expected-ranges", json=payload, timeout=60)
-                if resp.status_code >= 400:
-                    st.error(f"Erro da API ({resp.status_code}): {resp.text}")
-                else:
+                if mode == "Via API (FastAPI)":
+                    resp = requests.post(f"{api_url}/v1/expected-ranges", json=payload, timeout=60)
+                    if resp.status_code >= 400:
+                        st.error(f"Erro da API ({resp.status_code}): {resp.text}")
+                        st.stop()
                     data = resp.json()
-                    st.success(f"Gerado para {data['asset'].upper()} | data base: {data['date']}")
-
-                    st.subheader("Summary")
-                    st.code(data["summary_text"], language="text")
-                    st.download_button(
-                        "Baixar summary (.txt)",
-                        data=data["summary_text"],
-                        file_name=f"rebalancing_summary_{data['asset']}_z{str(data['z_score']).replace('.', '')}_alpha{int(data['alpha']*100)}.txt",
-                        mime="text/plain",
+                else:
+                    df_history = load_price_history(
+                        asset=payload["asset"],
+                        source=payload["source"],
+                        lookback_days=payload["lookback_days"],
+                    )
+                    results = compute_expected_ranges(
+                        asset=payload["asset"],
+                        df_history=df_history,
+                        horizons=payload["horizons"],
+                        z_score=payload["z_score"],
+                        alpha=payload["alpha"],
+                    )
+                    data = build_summary_payload(
+                        asset=payload["asset"],
+                        results_by_days=results,
+                        z_score=payload["z_score"],
+                        alpha=payload["alpha"],
                     )
 
-                    st.subheader("Resultado estruturado")
-                    st.json(
-                        {
-                            "asset": data["asset"],
-                            "symbol": data["symbol"],
-                            "date": data["date"],
-                            "results": data["results"],
-                        }
-                    )
+                st.success(f"Gerado para {data['asset'].upper()} | data base: {data['date']}")
+
+                st.subheader("Summary")
+                st.code(data["summary_text"], language="text")
+                st.download_button(
+                    "Baixar summary (.txt)",
+                    data=data["summary_text"],
+                    file_name=f"rebalancing_summary_{data['asset']}_z{str(data['z_score']).replace('.', '')}_alpha{int(data['alpha']*100)}.txt",
+                    mime="text/plain",
+                )
+
+                st.subheader("Resultado estruturado")
+                st.json(
+                    {
+                        "asset": data["asset"],
+                        "symbol": data["symbol"],
+                        "date": data["date"],
+                        "results": data["results"],
+                    }
+                )
             except Exception as e:
-                st.error(f"Falha ao chamar API: {e}")
+                st.error(f"Falha ao gerar expected ranges: {e}")
