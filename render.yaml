@@ -2,7 +2,6 @@ services:
   - type: web
     name: target-price-api
     runtime: python
-    plan: starter
     buildCommand: pip install -r requirements.txt
     startCommand: uvicorn app.api:app --host 0.0.0.0 --port $PORT
     autoDeploy: true
@@ -19,7 +18,6 @@ services:
   - type: web
     name: target-price-ui
     runtime: python
-    plan: starter
     buildCommand: pip install -r requirements.txt
     startCommand: streamlit run ui/streamlit_app.py --server.port $PORT --server.address 0.0.0.0
     autoDeploy: true
