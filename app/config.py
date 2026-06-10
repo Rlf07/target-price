@@ -5,13 +5,14 @@ DEFAULT_Z_SCORE = 2.576
 DEFAULT_ALPHA = 0.5
 DEFAULT_HORIZONS = [2, 7, 14, 30]
 
-SUPPORTED_ASSETS = {"brl", "gbp", "idr", "krw", "sgd", "eur", "hkd", "mxn", "aud"}
+SUPPORTED_ASSETS = {"brl", "gbp", "idr", "krw", "sgd", "eur", "hkd", "mxn", "aud", "cad"}
 
 ASSET_PAIR_LABELS = {
     "brl": ("BRZ", "Brz"),
     "gbp": ("GBP", "Gbp"),
     "idr": ("IDR", "Idr"),
     "aud": ("AUDF", "Audf"),
+    "cad": ("CADD", "Cadd"),
     "krw": ("KRW", "Krw"),
     "sgd": ("SGD", "Sgd"),
     "eur": ("EUR", "Eur"),
