@@ -14,8 +14,7 @@ from app.config import (
     DEFAULT_ALPHA,
     DEFAULT_HORIZONS,
     DEFAULT_Z_SCORE,
-    ORACLE_ASSETS,
-    SUPPORTED_ASSETS,
+    FOREX_ASSETS,
 )
 from app.providers.history_provider import load_price_history
 from app.services.expected_ranges import build_summary_payload, compute_expected_ranges
@@ -25,6 +24,9 @@ st.set_page_config(page_title="Expected Ranges", page_icon="📈", layout="cente
 
 st.title("Expected Ranges")
 st.caption("Gere ranges por ativo e visualize o summary no formato operacional.")
+
+# Hub público: só forex por enquanto (bonds etherfuse ficam fora até o fluxo RPC estar estável).
+HUB_ASSETS = sorted(FOREX_ASSETS)
 
 mode = st.radio(
     "Modo de execução",
@@ -39,13 +41,13 @@ if mode == "Via API (FastAPI)":
 
 col1, col2 = st.columns(2)
 with col1:
-    asset = st.selectbox("Ativo", options=sorted(SUPPORTED_ASSETS), index=sorted(SUPPORTED_ASSETS).index("gbp"))
+    asset = st.selectbox(
+        "Ativo",
+        options=HUB_ASSETS,
+        index=HUB_ASSETS.index("gbp") if "gbp" in HUB_ASSETS else 0,
+    )
 with col2:
-    source_options = ["local"] if asset in ORACLE_ASSETS else ["auto", "polygon", "local"]
-    source = st.selectbox("Fonte de dados", options=source_options, index=0)
-    if asset in ORACLE_ASSETS:
-        st.caption("Oracle bonds: apenas JSON local (ClickHouse).")
-
+    source = st.selectbox("Fonte de dados", options=["auto", "polygon", "local"], index=0)
 col3, col4 = st.columns(2)
 with col3:
     z_score = st.number_input("Z-Score", min_value=0.1, value=float(DEFAULT_Z_SCORE), step=0.001, format="%.3f")
