@@ -10,7 +10,13 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
-from app.config import DEFAULT_ALPHA, DEFAULT_HORIZONS, DEFAULT_Z_SCORE, SUPPORTED_ASSETS
+from app.config import (
+    DEFAULT_ALPHA,
+    DEFAULT_HORIZONS,
+    DEFAULT_Z_SCORE,
+    ORACLE_ASSETS,
+    SUPPORTED_ASSETS,
+)
 from app.providers.history_provider import load_price_history
 from app.services.expected_ranges import build_summary_payload, compute_expected_ranges
 
@@ -35,7 +41,10 @@ col1, col2 = st.columns(2)
 with col1:
     asset = st.selectbox("Ativo", options=sorted(SUPPORTED_ASSETS), index=sorted(SUPPORTED_ASSETS).index("gbp"))
 with col2:
-    source = st.selectbox("Fonte de dados", options=["auto", "polygon", "local"], index=0)
+    source_options = ["local"] if asset in ORACLE_ASSETS else ["auto", "polygon", "local"]
+    source = st.selectbox("Fonte de dados", options=source_options, index=0)
+    if asset in ORACLE_ASSETS:
+        st.caption("Oracle bonds: apenas JSON local (ClickHouse).")
 
 col3, col4 = st.columns(2)
 with col3:

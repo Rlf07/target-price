@@ -8,7 +8,7 @@ from app.config import DEFAULT_ALPHA, DEFAULT_HORIZONS, DEFAULT_Z_SCORE
 
 
 class ExpectedRangesRequest(BaseModel):
-    asset: str = Field(..., description="Ativo (ex.: brl, gbp, idr, aud)")
+    asset: str = Field(..., description="Ativo (ex.: brl, gbp, idr, aud, zar)")
     z_score: float = Field(default=DEFAULT_Z_SCORE)
     alpha: float = Field(default=DEFAULT_ALPHA, ge=0.0, le=1.0)
     horizons: list[int] = Field(default_factory=lambda: DEFAULT_HORIZONS.copy())

@@ -1,0 +1,15 @@
+{
+  "asset": "ktb",
+  "pair": "KTB/USD",
+  "sources": [
+    "clickhouse_oracle",
+    "onchain KTB/USD"
+  ],
+  "record_count": 148,
+  "first": "2026-02-03 23:59:56",
+  "last": "2026-08-21 14:58:34",
+  "ch_days": 80,
+  "onchain_days": 68,
+  "gap_ticks": 10809,
+  "gap_complete": true
+}

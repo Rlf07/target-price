@@ -1,12 +1,12 @@
 from __future__ import annotations
 
-from decimal import Decimal
 from math import exp, sqrt
 
 import numpy as np
 import pandas as pd
 
-from app.config import ASSET_PAIR_LABELS
+from app.config import ASSET_PAIR_LABELS, is_oracle_asset
+from app.services.volatility import attach_annual_vol
 
 
 def _calcular_faixa(p0: float, sigma: float, z: float, t: float) -> tuple[float, float]:
@@ -30,37 +30,51 @@ def _format_date_br(d: pd.Timestamp) -> str:
 
 
 def _fmt_price(asset: str, x: float) -> str:
+    from decimal import Decimal
+
     if asset == "idr":
         return format(Decimal(str(float(x))), "f")
     return str(float(x))
 
 
 def build_ranges_for_horizon(
-    df_base: pd.DataFrame, t_dias: int, z_score: float, alpha: float
+    df_base: pd.DataFrame,
+    t_dias: int,
+    z_score: float,
+    alpha: float,
+    is_oracle: bool = False,
 ) -> pd.DataFrame:
     df = df_base.copy()
     t_ano = t_dias / 365
 
     df["log_return"] = np.log(df["price_vwap"] / df["price_vwap"].shift(1))
-    vol_hist_anual = float(df["log_return"].std() * sqrt(365))
+    df, latest_vol, vol_meta = attach_annual_vol(df, df["log_return"], is_oracle=is_oracle)
 
-    expected = df["price_vwap"].apply(
-        lambda p: pd.Series(_calcular_faixa(float(p), vol_hist_anual, z_score, t_ano))
-    )
+    def calc_expected(row: pd.Series) -> pd.Series:
+        vol = row["vol_hist_anual"]
+        if pd.isna(vol):
+            return pd.Series([np.nan, np.nan])
+        min_p, max_p = _calcular_faixa(
+            float(row["price_vwap"]), float(vol), z_score, t_ano
+        )
+        return pd.Series([min_p, max_p])
+
+    expected = df.apply(calc_expected, axis=1)
     expected.columns = ["price_min_expected", "price_max_expected"]
     df[["price_min_expected", "price_max_expected"]] = expected
 
-    shifted = df.apply(
-        lambda row: pd.Series(
-            _deslocar_faixa(
-                float(row["price_vwap"]),
-                float(row["price_min_expected"]),
-                float(row["price_max_expected"]),
-                alpha,
-            )
-        ),
-        axis=1,
-    )
+    def calc_shifted(row: pd.Series) -> pd.Series:
+        if pd.isna(row["price_min_expected"]) or pd.isna(row["price_max_expected"]):
+            return pd.Series([np.nan, np.nan])
+        min_s, max_s = _deslocar_faixa(
+            float(row["price_vwap"]),
+            float(row["price_min_expected"]),
+            float(row["price_max_expected"]),
+            alpha,
+        )
+        return pd.Series([min_s, max_s])
+
+    shifted = df.apply(calc_shifted, axis=1)
     shifted.columns = ["price_min_shifted", "price_max_shifted"]
     df[["price_min_shifted", "price_max_shifted"]] = shifted
 
@@ -70,7 +84,10 @@ def build_ranges_for_horizon(
         (df["price_max_shifted"] - df["price_min_shifted"]) / df["price_vwap"]
     ) * 100
 
-    df.attrs["vol_hist_anual"] = vol_hist_anual
+    df.attrs["vol_hist_anual"] = latest_vol
+    df.attrs["vol_method"] = vol_meta["vol_method"]
+    df.attrs["sample_days"] = vol_meta["sample_days"]
+    df.attrs["min_vol_periods"] = vol_meta["min_vol_periods"]
     return df
 
 
@@ -82,14 +99,21 @@ def compute_expected_ranges(
     alpha: float,
 ) -> dict[int, pd.DataFrame]:
     asset = asset.lower()
+    oracle = is_oracle_asset(asset)
     df_base = df_history.copy()
-    # Regra de negócio existente: IDR usa price_open por arredondamento de vwap.
-    if asset == "idr":
+
+    if oracle:
+        if "price_usd" not in df_base.columns:
+            raise ValueError(f"Oracle asset {asset} requer coluna price_usd no histórico.")
+        df_base["price_vwap"] = df_base["price_usd"]
+    elif asset == "idr":
         df_base["price_vwap"] = df_base["price_open"]
 
     results: dict[int, pd.DataFrame] = {}
     for t_dias in sorted(horizons):
-        results[t_dias] = build_ranges_for_horizon(df_base, t_dias, z_score, alpha)
+        results[t_dias] = build_ranges_for_horizon(
+            df_base, t_dias, z_score, alpha, is_oracle=oracle
+        )
     return results
 
 
@@ -100,18 +124,28 @@ def build_summary_payload(
     alpha: float,
 ) -> dict:
     asset = asset.lower()
+    oracle = is_oracle_asset(asset)
     sym_upper, sym_title = ASSET_PAIR_LABELS.get(asset, (asset.upper(), asset.title()))
     sorted_days = sorted(results_by_days.keys())
-    latest_row_sample = results_by_days[sorted_days[0]].iloc[-1]
+    latest_df = results_by_days[sorted_days[0]]
+    latest_row_sample = latest_df.iloc[-1]
     date_br = _format_date_br(pd.Timestamp(latest_row_sample["date"]))
+
+    vol_pct = float(latest_df.attrs.get("vol_hist_anual", 0)) * 100
+    sample_days = latest_df.attrs.get("sample_days")
+    vol_method = latest_df.attrs.get("vol_method")
 
     results = []
     lines = [
         f"Ativo: {asset.upper()} ({sym_upper})",
         f"Z_SCORE: {z_score} | alpha: {alpha}",
-        "",
-        date_br,
     ]
+    if oracle:
+        lines.append(
+            f"Amostra: {sample_days} dias | vol: {vol_pct:.2f}% ({vol_method}, min {latest_df.attrs.get('min_vol_periods')} obs)"
+        )
+    lines.append("")
+    lines.append(date_br)
 
     for t_dias in sorted_days:
         row = results_by_days[t_dias].iloc[-1]
@@ -146,7 +180,7 @@ def build_summary_payload(
         lines.append("")
         lines.append("")
 
-    return {
+    payload = {
         "asset": asset,
         "symbol": sym_upper,
         "date": str(pd.Timestamp(latest_row_sample["date"]).date()),
@@ -155,3 +189,9 @@ def build_summary_payload(
         "results": results,
         "summary_text": "\n".join(lines).rstrip() + "\n",
     }
+    if oracle:
+        payload["sample_days"] = sample_days
+        payload["vol_method"] = vol_method
+        payload["vol_annual_pct"] = vol_pct
+
+    return payload

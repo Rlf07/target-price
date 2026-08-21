@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 
 # === Configuração única do ativo e do modelo ===
-ASSET = "gbp"  # ex: brl, gbp, idr, krw, sgd, eur, hkd, mxn, aud, cad
+ASSET = "gbp"  # ex: brl, gbp, idr, krw, sgd, eur, hkd, mxn, aud, cad, zar
 
 Z_SCORE = 2.576  # ex: 2.576 ≈ 99%, 1.645 ≈ 90%
 alpha = 0.5  # proporção da faixa abaixo do price_vwap (0.5 = 50%)
@@ -27,6 +27,7 @@ ASSET_PAIR_LABELS = {
     "eur": ("EUR", "Eur"),
     "hkd": ("HKD", "Hkd"),
     "mxn": ("MXN", "Mxn"),
+    "zar": ("ZARP", "Zarp"),
 }
 
 

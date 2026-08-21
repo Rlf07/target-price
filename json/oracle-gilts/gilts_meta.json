@@ -1,0 +1,15 @@
+{
+  "asset": "gilts",
+  "pair": "GILTS/USD",
+  "sources": [
+    "clickhouse_oracle",
+    "onchain GILTS/GBP * forex-gbp"
+  ],
+  "record_count": 191,
+  "first": "2025-12-31 23:59:55",
+  "last": "2026-08-21 14:58:45",
+  "ch_days": 89,
+  "onchain_days": 102,
+  "gap_ticks": 15280,
+  "gap_complete": true
+}

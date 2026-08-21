@@ -6,7 +6,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from app.config import json_path_for_asset
+from app.config import is_oracle_asset, json_path_for_asset
 
 
 def _load_local_history(asset: str) -> pd.DataFrame:
@@ -19,7 +19,12 @@ def _load_local_history(asset: str) -> pd.DataFrame:
 
     df = pd.DataFrame(data)
     df["date"] = pd.to_datetime(df["date"])
-    return df.sort_values("date").reset_index(drop=True)
+    df = df.sort_values("date").reset_index(drop=True)
+
+    if is_oracle_asset(asset) and "price_usd" in df.columns:
+        df["price_vwap"] = df["price_usd"]
+
+    return df
 
 
 def _load_polygon_history(asset: str, lookback_days: int = 730) -> pd.DataFrame:
@@ -48,6 +53,13 @@ def load_price_history(
     source = source.lower()
     if source not in {"polygon", "local", "auto"}:
         raise ValueError("source inválido. Use: polygon, local, auto")
+
+    if is_oracle_asset(asset):
+        if source == "polygon":
+            raise ValueError(
+                f"Ativo oracle '{asset}' só suporta source=local (ClickHouse JSON)."
+            )
+        return _load_local_history(asset)
 
     if source == "local":
         return _load_local_history(asset)

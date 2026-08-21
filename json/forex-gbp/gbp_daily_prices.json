@@ -4998,5 +4998,789 @@
         "price_vwap": 1.3504,
         "timestamp": 1777334400,
         "date": "2026-04-28 00:00:00"
+    },
+    {
+        "price_open": 1.35238,
+        "price_hight": 1.3528,
+        "price_low": 1.3457,
+        "price_vwap": 1.3496,
+        "timestamp": 1777420800,
+        "date": "2026-04-29 00:00:00"
+    },
+    {
+        "price_open": 1.34881,
+        "price_hight": 1.36121,
+        "price_low": 1.3452,
+        "price_vwap": 1.3523,
+        "timestamp": 1777507200,
+        "date": "2026-04-30 00:00:00"
+    },
+    {
+        "price_open": 1.36028,
+        "price_hight": 1.3658,
+        "price_low": 1.35666,
+        "price_vwap": 1.3609,
+        "timestamp": 1777593600,
+        "date": "2026-05-01 00:00:00"
+    },
+    {
+        "price_open": 1.35945,
+        "price_hight": 1.36023,
+        "price_low": 1.3578,
+        "price_vwap": 1.3587,
+        "timestamp": 1777766400,
+        "date": "2026-05-03 00:00:00"
+    },
+    {
+        "price_open": 1.35804,
+        "price_hight": 1.3601,
+        "price_low": 1.3511,
+        "price_vwap": 1.3556,
+        "timestamp": 1777852800,
+        "date": "2026-05-04 00:00:00"
+    },
+    {
+        "price_open": 1.353,
+        "price_hight": 1.358,
+        "price_low": 1.3512,
+        "price_vwap": 1.3544,
+        "timestamp": 1777939200,
+        "date": "2026-05-05 00:00:00"
+    },
+    {
+        "price_open": 1.35681,
+        "price_hight": 1.36433,
+        "price_low": 1.3561,
+        "price_vwap": 1.3599,
+        "timestamp": 1778025600,
+        "date": "2026-05-06 00:00:00"
+    },
+    {
+        "price_open": 1.35558,
+        "price_hight": 1.3637,
+        "price_low": 1.3547,
+        "price_vwap": 1.36,
+        "timestamp": 1778198400,
+        "date": "2026-05-08 00:00:00"
+    },
+    {
+        "price_open": 1.35485,
+        "price_hight": 1.3597,
+        "price_low": 1.35485,
+        "price_vwap": 1.3587,
+        "timestamp": 1778371200,
+        "date": "2026-05-10 00:00:00"
+    },
+    {
+        "price_open": 1.35937,
+        "price_hight": 1.3653,
+        "price_low": 1.3578,
+        "price_vwap": 1.3612,
+        "timestamp": 1778457600,
+        "date": "2026-05-11 00:00:00"
+    },
+    {
+        "price_open": 1.36037,
+        "price_hight": 1.3605,
+        "price_low": 1.35,
+        "price_vwap": 1.3543,
+        "timestamp": 1778544000,
+        "date": "2026-05-12 00:00:00"
+    },
+    {
+        "price_open": 1.35345,
+        "price_hight": 1.35511,
+        "price_low": 1.3483,
+        "price_vwap": 1.3521,
+        "timestamp": 1778630400,
+        "date": "2026-05-13 00:00:00"
+    },
+    {
+        "price_open": 1.35263,
+        "price_hight": 1.3533,
+        "price_low": 1.33824,
+        "price_vwap": 1.3488,
+        "timestamp": 1778716800,
+        "date": "2026-05-14 00:00:00"
+    },
+    {
+        "price_open": 1.33905,
+        "price_hight": 1.3393,
+        "price_low": 1.33128,
+        "price_vwap": 1.335,
+        "timestamp": 1778803200,
+        "date": "2026-05-15 00:00:00"
+    },
+    {
+        "price_open": 1.33192,
+        "price_hight": 1.3327,
+        "price_low": 1.3306,
+        "price_vwap": 1.3314,
+        "timestamp": 1778976000,
+        "date": "2026-05-17 00:00:00"
+    },
+    {
+        "price_open": 1.3309,
+        "price_hight": 1.34493,
+        "price_low": 1.3301,
+        "price_vwap": 1.3371,
+        "timestamp": 1779062400,
+        "date": "2026-05-18 00:00:00"
+    },
+    {
+        "price_open": 1.3431,
+        "price_hight": 1.3435,
+        "price_low": 1.3377,
+        "price_vwap": 1.3404,
+        "timestamp": 1779148800,
+        "date": "2026-05-19 00:00:00"
+    },
+    {
+        "price_open": 1.33948,
+        "price_hight": 1.34623,
+        "price_low": 1.3373,
+        "price_vwap": 1.3408,
+        "timestamp": 1779235200,
+        "date": "2026-05-20 00:00:00"
+    },
+    {
+        "price_open": 1.34337,
+        "price_hight": 1.34546,
+        "price_low": 1.33896,
+        "price_vwap": 1.3427,
+        "timestamp": 1779321600,
+        "date": "2026-05-21 00:00:00"
+    },
+    {
+        "price_open": 1.34304,
+        "price_hight": 1.34629,
+        "price_low": 1.34128,
+        "price_vwap": 1.3431,
+        "timestamp": 1779408000,
+        "date": "2026-05-22 00:00:00"
+    },
+    {
+        "price_open": 1.34492,
+        "price_hight": 1.3488,
+        "price_low": 1.34492,
+        "price_vwap": 1.3482,
+        "timestamp": 1779580800,
+        "date": "2026-05-24 00:00:00"
+    },
+    {
+        "price_open": 1.348,
+        "price_hight": 1.351,
+        "price_low": 1.347,
+        "price_vwap": 1.3491,
+        "timestamp": 1779667200,
+        "date": "2026-05-25 00:00:00"
+    },
+    {
+        "price_open": 1.3493,
+        "price_hight": 1.34965,
+        "price_low": 1.3432,
+        "price_vwap": 1.3467,
+        "timestamp": 1779753600,
+        "date": "2026-05-26 00:00:00"
+    },
+    {
+        "price_open": 1.34544,
+        "price_hight": 1.34582,
+        "price_low": 1.34086,
+        "price_vwap": 1.3441,
+        "timestamp": 1779840000,
+        "date": "2026-05-27 00:00:00"
+    },
+    {
+        "price_open": 1.34152,
+        "price_hight": 1.34507,
+        "price_low": 1.3366,
+        "price_vwap": 1.3415,
+        "timestamp": 1779926400,
+        "date": "2026-05-28 00:00:00"
+    },
+    {
+        "price_open": 1.34436,
+        "price_hight": 1.34851,
+        "price_low": 1.3407,
+        "price_vwap": 1.3442,
+        "timestamp": 1780012800,
+        "date": "2026-05-29 00:00:00"
+    },
+    {
+        "price_open": 1.34467,
+        "price_hight": 1.34581,
+        "price_low": 1.34438,
+        "price_vwap": 1.3449,
+        "timestamp": 1780185600,
+        "date": "2026-05-31 00:00:00"
+    },
+    {
+        "price_open": 1.34505,
+        "price_hight": 1.3476,
+        "price_low": 1.34064,
+        "price_vwap": 1.3454,
+        "timestamp": 1780272000,
+        "date": "2026-06-01 00:00:00"
+    },
+    {
+        "price_open": 1.34576,
+        "price_hight": 1.34814,
+        "price_low": 1.34441,
+        "price_vwap": 1.3467,
+        "timestamp": 1780358400,
+        "date": "2026-06-02 00:00:00"
+    },
+    {
+        "price_open": 1.34522,
+        "price_hight": 1.3472,
+        "price_low": 1.34067,
+        "price_vwap": 1.344,
+        "timestamp": 1780444800,
+        "date": "2026-06-03 00:00:00"
+    },
+    {
+        "price_open": 1.34259,
+        "price_hight": 1.3463,
+        "price_low": 1.341,
+        "price_vwap": 1.3435,
+        "timestamp": 1780531200,
+        "date": "2026-06-04 00:00:00"
+    },
+    {
+        "price_open": 1.34218,
+        "price_hight": 1.3483,
+        "price_low": 1.33198,
+        "price_vwap": 1.3406,
+        "timestamp": 1780617600,
+        "date": "2026-06-05 00:00:00"
+    },
+    {
+        "price_open": 1.33196,
+        "price_hight": 1.3336,
+        "price_low": 1.33154,
+        "price_vwap": 1.3327,
+        "timestamp": 1780790400,
+        "date": "2026-06-07 00:00:00"
+    },
+    {
+        "price_open": 1.33339,
+        "price_hight": 1.33694,
+        "price_low": 1.3305,
+        "price_vwap": 1.3341,
+        "timestamp": 1780876800,
+        "date": "2026-06-08 00:00:00"
+    },
+    {
+        "price_open": 1.33328,
+        "price_hight": 1.34104,
+        "price_low": 1.33284,
+        "price_vwap": 1.3377,
+        "timestamp": 1780963200,
+        "date": "2026-06-09 00:00:00"
+    },
+    {
+        "price_open": 1.3371,
+        "price_hight": 1.34231,
+        "price_low": 1.33461,
+        "price_vwap": 1.3386,
+        "timestamp": 1781049600,
+        "date": "2026-06-10 00:00:00"
+    },
+    {
+        "price_open": 1.33612,
+        "price_hight": 1.34331,
+        "price_low": 1.3323,
+        "price_vwap": 1.3372,
+        "timestamp": 1781136000,
+        "date": "2026-06-11 00:00:00"
+    },
+    {
+        "price_open": 1.34141,
+        "price_hight": 1.34256,
+        "price_low": 1.3381,
+        "price_vwap": 1.3409,
+        "timestamp": 1781222400,
+        "date": "2026-06-12 00:00:00"
+    },
+    {
+        "price_open": 1.33963,
+        "price_hight": 1.3455,
+        "price_low": 1.33963,
+        "price_vwap": 1.3448,
+        "timestamp": 1781395200,
+        "date": "2026-06-14 00:00:00"
+    },
+    {
+        "price_open": 1.34492,
+        "price_hight": 1.3461,
+        "price_low": 1.33949,
+        "price_vwap": 1.3432,
+        "timestamp": 1781481600,
+        "date": "2026-06-15 00:00:00"
+    },
+    {
+        "price_open": 1.3415,
+        "price_hight": 1.34431,
+        "price_low": 1.3389,
+        "price_vwap": 1.3416,
+        "timestamp": 1781568000,
+        "date": "2026-06-16 00:00:00"
+    },
+    {
+        "price_open": 1.3425,
+        "price_hight": 1.34349,
+        "price_low": 1.3261,
+        "price_vwap": 1.3389,
+        "timestamp": 1781654400,
+        "date": "2026-06-17 00:00:00"
+    },
+    {
+        "price_open": 1.33003,
+        "price_hight": 1.3325,
+        "price_low": 1.31723,
+        "price_vwap": 1.3253,
+        "timestamp": 1781740800,
+        "date": "2026-06-18 00:00:00"
+    },
+    {
+        "price_open": 1.32013,
+        "price_hight": 1.3242,
+        "price_low": 1.3161,
+        "price_vwap": 1.3214,
+        "timestamp": 1781827200,
+        "date": "2026-06-19 00:00:00"
+    },
+    {
+        "price_open": 1.3193,
+        "price_hight": 1.321,
+        "price_low": 1.31854,
+        "price_vwap": 1.3205,
+        "timestamp": 1782000000,
+        "date": "2026-06-21 00:00:00"
+    },
+    {
+        "price_open": 1.32074,
+        "price_hight": 1.32731,
+        "price_low": 1.3182,
+        "price_vwap": 1.3233,
+        "timestamp": 1782086400,
+        "date": "2026-06-22 00:00:00"
+    },
+    {
+        "price_open": 1.32467,
+        "price_hight": 1.325,
+        "price_low": 1.31745,
+        "price_vwap": 1.3218,
+        "timestamp": 1782172800,
+        "date": "2026-06-23 00:00:00"
+    },
+    {
+        "price_open": 1.31993,
+        "price_hight": 1.3209,
+        "price_low": 1.3139,
+        "price_vwap": 1.3174,
+        "timestamp": 1782259200,
+        "date": "2026-06-24 00:00:00"
+    },
+    {
+        "price_open": 1.31645,
+        "price_hight": 1.3219,
+        "price_low": 1.3148,
+        "price_vwap": 1.3186,
+        "timestamp": 1782345600,
+        "date": "2026-06-25 00:00:00"
+    },
+    {
+        "price_open": 1.31871,
+        "price_hight": 1.3232,
+        "price_low": 1.3178,
+        "price_vwap": 1.3205,
+        "timestamp": 1782432000,
+        "date": "2026-06-26 00:00:00"
+    },
+    {
+        "price_open": 1.3199,
+        "price_hight": 1.3202,
+        "price_low": 1.319,
+        "price_vwap": 1.3194,
+        "timestamp": 1782604800,
+        "date": "2026-06-28 00:00:00"
+    },
+    {
+        "price_open": 1.31964,
+        "price_hight": 1.3263,
+        "price_low": 1.3192,
+        "price_vwap": 1.3228,
+        "timestamp": 1782691200,
+        "date": "2026-06-29 00:00:00"
+    },
+    {
+        "price_open": 1.3253,
+        "price_hight": 1.32765,
+        "price_low": 1.3211,
+        "price_vwap": 1.3241,
+        "timestamp": 1782777600,
+        "date": "2026-06-30 00:00:00"
+    },
+    {
+        "price_open": 1.32498,
+        "price_hight": 1.3292,
+        "price_low": 1.32185,
+        "price_vwap": 1.3256,
+        "timestamp": 1782864000,
+        "date": "2026-07-01 00:00:00"
+    },
+    {
+        "price_open": 1.32783,
+        "price_hight": 1.33845,
+        "price_low": 1.3273,
+        "price_vwap": 1.3332,
+        "timestamp": 1782950400,
+        "date": "2026-07-02 00:00:00"
+    },
+    {
+        "price_open": 1.33378,
+        "price_hight": 1.3381,
+        "price_low": 1.3333,
+        "price_vwap": 1.3358,
+        "timestamp": 1783036800,
+        "date": "2026-07-03 00:00:00"
+    },
+    {
+        "price_open": 1.33461,
+        "price_hight": 1.33541,
+        "price_low": 1.33385,
+        "price_vwap": 1.335,
+        "timestamp": 1783209600,
+        "date": "2026-07-05 00:00:00"
+    },
+    {
+        "price_open": 1.33522,
+        "price_hight": 1.3401,
+        "price_low": 1.3327,
+        "price_vwap": 1.3353,
+        "timestamp": 1783296000,
+        "date": "2026-07-06 00:00:00"
+    },
+    {
+        "price_open": 1.33936,
+        "price_hight": 1.34014,
+        "price_low": 1.33417,
+        "price_vwap": 1.3379,
+        "timestamp": 1783382400,
+        "date": "2026-07-07 00:00:00"
+    },
+    {
+        "price_open": 1.33462,
+        "price_hight": 1.34103,
+        "price_low": 1.3321,
+        "price_vwap": 1.3363,
+        "timestamp": 1783468800,
+        "date": "2026-07-08 00:00:00"
+    },
+    {
+        "price_open": 1.33944,
+        "price_hight": 1.34307,
+        "price_low": 1.33803,
+        "price_vwap": 1.3404,
+        "timestamp": 1783555200,
+        "date": "2026-07-09 00:00:00"
+    },
+    {
+        "price_open": 1.3412,
+        "price_hight": 1.3452,
+        "price_low": 1.33859,
+        "price_vwap": 1.3419,
+        "timestamp": 1783641600,
+        "date": "2026-07-10 00:00:00"
+    },
+    {
+        "price_open": 1.33844,
+        "price_hight": 1.3387,
+        "price_low": 1.33685,
+        "price_vwap": 1.3377,
+        "timestamp": 1783814400,
+        "date": "2026-07-12 00:00:00"
+    },
+    {
+        "price_open": 1.33866,
+        "price_hight": 1.3412,
+        "price_low": 1.33408,
+        "price_vwap": 1.3378,
+        "timestamp": 1783900800,
+        "date": "2026-07-13 00:00:00"
+    },
+    {
+        "price_open": 1.33497,
+        "price_hight": 1.34428,
+        "price_low": 1.3341,
+        "price_vwap": 1.3377,
+        "timestamp": 1783987200,
+        "date": "2026-07-14 00:00:00"
+    },
+    {
+        "price_open": 1.33959,
+        "price_hight": 1.3558,
+        "price_low": 1.3379,
+        "price_vwap": 1.3446,
+        "timestamp": 1784073600,
+        "date": "2026-07-15 00:00:00"
+    },
+    {
+        "price_open": 1.35383,
+        "price_hight": 1.35439,
+        "price_low": 1.3458,
+        "price_vwap": 1.3507,
+        "timestamp": 1784160000,
+        "date": "2026-07-16 00:00:00"
+    },
+    {
+        "price_open": 1.34774,
+        "price_hight": 1.34802,
+        "price_low": 1.3424,
+        "price_vwap": 1.3453,
+        "timestamp": 1784246400,
+        "date": "2026-07-17 00:00:00"
+    },
+    {
+        "price_open": 1.34385,
+        "price_hight": 1.34472,
+        "price_low": 1.34355,
+        "price_vwap": 1.3443,
+        "timestamp": 1784419200,
+        "date": "2026-07-19 00:00:00"
+    },
+    {
+        "price_open": 1.34453,
+        "price_hight": 1.34809,
+        "price_low": 1.34129,
+        "price_vwap": 1.3451,
+        "timestamp": 1784505600,
+        "date": "2026-07-20 00:00:00"
+    },
+    {
+        "price_open": 1.34306,
+        "price_hight": 1.3456,
+        "price_low": 1.3358,
+        "price_vwap": 1.3409,
+        "timestamp": 1784592000,
+        "date": "2026-07-21 00:00:00"
+    },
+    {
+        "price_open": 1.3379,
+        "price_hight": 1.33946,
+        "price_low": 1.33539,
+        "price_vwap": 1.3376,
+        "timestamp": 1784678400,
+        "date": "2026-07-22 00:00:00"
+    },
+    {
+        "price_open": 1.33744,
+        "price_hight": 1.33932,
+        "price_low": 1.3297,
+        "price_vwap": 1.3351,
+        "timestamp": 1784764800,
+        "date": "2026-07-23 00:00:00"
+    },
+    {
+        "price_open": 1.33111,
+        "price_hight": 1.33485,
+        "price_low": 1.3305,
+        "price_vwap": 1.3323,
+        "timestamp": 1784851200,
+        "date": "2026-07-24 00:00:00"
+    },
+    {
+        "price_open": 1.33414,
+        "price_hight": 1.33558,
+        "price_low": 1.33213,
+        "price_vwap": 1.3346,
+        "timestamp": 1785024000,
+        "date": "2026-07-26 00:00:00"
+    },
+    {
+        "price_open": 1.33503,
+        "price_hight": 1.3364,
+        "price_low": 1.3282,
+        "price_vwap": 1.3324,
+        "timestamp": 1785110400,
+        "date": "2026-07-27 00:00:00"
+    },
+    {
+        "price_open": 1.32888,
+        "price_hight": 1.3311,
+        "price_low": 1.3272,
+        "price_vwap": 1.3293,
+        "timestamp": 1785196800,
+        "date": "2026-07-28 00:00:00"
+    },
+    {
+        "price_open": 1.32865,
+        "price_hight": 1.3388,
+        "price_low": 1.3278,
+        "price_vwap": 1.3305,
+        "timestamp": 1785283200,
+        "date": "2026-07-29 00:00:00"
+    },
+    {
+        "price_open": 1.33667,
+        "price_hight": 1.3477,
+        "price_low": 1.3332,
+        "price_vwap": 1.3396,
+        "timestamp": 1785369600,
+        "date": "2026-07-30 00:00:00"
+    },
+    {
+        "price_open": 1.34606,
+        "price_hight": 1.34945,
+        "price_low": 1.34001,
+        "price_vwap": 1.3452,
+        "timestamp": 1785456000,
+        "date": "2026-07-31 00:00:00"
+    },
+    {
+        "price_open": 1.3482,
+        "price_hight": 1.3506,
+        "price_low": 1.3482,
+        "price_vwap": 1.3495,
+        "timestamp": 1785628800,
+        "date": "2026-08-02 00:00:00"
+    },
+    {
+        "price_open": 1.34907,
+        "price_hight": 1.35022,
+        "price_low": 1.34154,
+        "price_vwap": 1.3455,
+        "timestamp": 1785715200,
+        "date": "2026-08-03 00:00:00"
+    },
+    {
+        "price_open": 1.34265,
+        "price_hight": 1.3456,
+        "price_low": 1.3418,
+        "price_vwap": 1.344,
+        "timestamp": 1785801600,
+        "date": "2026-08-04 00:00:00"
+    },
+    {
+        "price_open": 1.34502,
+        "price_hight": 1.34861,
+        "price_low": 1.3443,
+        "price_vwap": 1.3464,
+        "timestamp": 1785888000,
+        "date": "2026-08-05 00:00:00"
+    },
+    {
+        "price_open": 1.34687,
+        "price_hight": 1.34792,
+        "price_low": 1.34403,
+        "price_vwap": 1.3461,
+        "timestamp": 1785974400,
+        "date": "2026-08-06 00:00:00"
+    },
+    {
+        "price_open": 1.34543,
+        "price_hight": 1.35088,
+        "price_low": 1.3433,
+        "price_vwap": 1.347,
+        "timestamp": 1786060800,
+        "date": "2026-08-07 00:00:00"
+    },
+    {
+        "price_open": 1.34896,
+        "price_hight": 1.34981,
+        "price_low": 1.34862,
+        "price_vwap": 1.349,
+        "timestamp": 1786233600,
+        "date": "2026-08-09 00:00:00"
+    },
+    {
+        "price_open": 1.34885,
+        "price_hight": 1.35303,
+        "price_low": 1.3481,
+        "price_vwap": 1.3501,
+        "timestamp": 1786320000,
+        "date": "2026-08-10 00:00:00"
+    },
+    {
+        "price_open": 1.35106,
+        "price_hight": 1.3516,
+        "price_low": 1.3491,
+        "price_vwap": 1.3504,
+        "timestamp": 1786406400,
+        "date": "2026-08-11 00:00:00"
+    },
+    {
+        "price_open": 1.35089,
+        "price_hight": 1.35447,
+        "price_low": 1.3486,
+        "price_vwap": 1.351,
+        "timestamp": 1786492800,
+        "date": "2026-08-12 00:00:00"
+    },
+    {
+        "price_open": 1.34976,
+        "price_hight": 1.3513,
+        "price_low": 1.3473,
+        "price_vwap": 1.3491,
+        "timestamp": 1786579200,
+        "date": "2026-08-13 00:00:00"
+    },
+    {
+        "price_open": 1.34899,
+        "price_hight": 1.35613,
+        "price_low": 1.3487,
+        "price_vwap": 1.3525,
+        "timestamp": 1786665600,
+        "date": "2026-08-14 00:00:00"
+    },
+    {
+        "price_open": 1.35284,
+        "price_hight": 1.3547,
+        "price_low": 1.35272,
+        "price_vwap": 1.3541,
+        "timestamp": 1786838400,
+        "date": "2026-08-16 00:00:00"
+    },
+    {
+        "price_open": 1.3546,
+        "price_hight": 1.35712,
+        "price_low": 1.35196,
+        "price_vwap": 1.3555,
+        "timestamp": 1786924800,
+        "date": "2026-08-17 00:00:00"
+    },
+    {
+        "price_open": 1.35489,
+        "price_hight": 1.3554,
+        "price_low": 1.3517,
+        "price_vwap": 1.3535,
+        "timestamp": 1787011200,
+        "date": "2026-08-18 00:00:00"
+    },
+    {
+        "price_open": 1.3536,
+        "price_hight": 1.36303,
+        "price_low": 1.3522,
+        "price_vwap": 1.3574,
+        "timestamp": 1787097600,
+        "date": "2026-08-19 00:00:00"
+    },
+    {
+        "price_open": 1.36,
+        "price_hight": 1.36592,
+        "price_low": 1.3593,
+        "price_vwap": 1.3625,
+        "timestamp": 1787184000,
+        "date": "2026-08-20 00:00:00"
+    },
+    {
+        "price_open": 1.36425,
+        "price_hight": 1.36754,
+        "price_low": 1.3617,
+        "price_vwap": 1.3647,
+        "timestamp": 1787270400,
+        "date": "2026-08-21 00:00:00"
     }
 ]
