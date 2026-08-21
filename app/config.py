@@ -41,4 +41,3 @@ def json_path_for_asset(asset: str) -> Path:
     if asset == "mxn":
         return Path(f"json/forex-{asset}/daily_prices.json")
     return Path(f"json/forex-{asset}/{asset}_daily_prices.json")
-    return Path(f"json/forex-{asset}/{asset}_daily_prices.json")
