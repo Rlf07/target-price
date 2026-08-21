@@ -1,0 +1,15 @@
+{
+  "asset": "tesouro",
+  "pair": "TESOURO/USD",
+  "sources": [
+    "clickhouse_oracle",
+    "onchain TESOURO/BRZ * forex-brl"
+  ],
+  "record_count": 209,
+  "first": "2025-11-27 23:59:27",
+  "last": "2026-08-21 14:53:13",
+  "ch_days": 106,
+  "onchain_days": 103,
+  "gap_ticks": 15288,
+  "gap_complete": true
+}

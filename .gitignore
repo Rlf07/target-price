@@ -41,3 +41,12 @@ test/
 # Dumps grandes gerados localmente
 estrutura.txt
 estrutura_filtrada.txt
+
+# Oracle on-chain caches / samples (regen via scripts)
+json/oracle-*/**/*_gap_cache.ndjson
+json/oracle-*/**/*_prices_gap_usd.json
+json/oracle-*/**/*_prices_from_logs.json
+json/oracle-*/**/*_prices_sample.json
+json/oracle-*/**/*_raw_txs_sample.json
+json/oracle-*/**/*_getlogs_benchmark.json
+json/oracle-*/**/*_daily_prices_onchain.json

@@ -7,7 +7,7 @@ from collections import defaultdict, deque
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
 
-from app.config import SUPPORTED_ASSETS
+from app.config import FOREX_ASSETS
 from app.providers.history_provider import load_price_history
 from app.schemas import ExpectedRangesRequest, ExpectedRangesResponse
 from app.services.expected_ranges import compute_expected_ranges, build_summary_payload
@@ -61,8 +61,14 @@ def expected_ranges(payload: ExpectedRangesRequest, request: Request) -> Expecte
     _enforce_rate_limit(client_ip)
 
     asset = payload.asset.lower().strip()
-    if asset not in SUPPORTED_ASSETS:
-        raise HTTPException(status_code=400, detail=f"Ativo não suportado: {asset}")
+    if asset not in FOREX_ASSETS:
+        raise HTTPException(
+            status_code=400,
+            detail=(
+                f"Ativo não suportado no hub: {asset}. "
+                f"Disponíveis: {', '.join(sorted(FOREX_ASSETS))}."
+            ),
+        )
     if not payload.horizons:
         raise HTTPException(status_code=400, detail="horizons não pode ser vazio")
 
