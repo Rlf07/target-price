@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 
 # === Configuração única do ativo e do modelo ===
-ASSET = "gbp"  # ex: brl, gbp, idr, krw, sgd, eur, hkd, mxn, aud, cad, zar
+ASSET = "gbp"  # ex: brl, gbp, idr, krw, sgd, eur, hkd, mxn, aud, cad, zar, ngn
 
 Z_SCORE = 2.576  # ex: 2.576 ≈ 99%, 1.645 ≈ 90%
 alpha = 0.5  # proporção da faixa abaixo do price_vwap (0.5 = 50%)
@@ -28,6 +28,7 @@ ASSET_PAIR_LABELS = {
     "hkd": ("HKD", "Hkd"),
     "mxn": ("MXN", "Mxn"),
     "zar": ("ZARP", "Zarp"),
+    "ngn": ("CNGN", "Cngn"),
 }
 
 
@@ -128,7 +129,7 @@ def write_summary_report(
 
     def fmt_price(x) -> str:
         # Para IDR o price é muito pequeno e aparece como e-05; aqui removemos notação científica.
-        if asset.lower() == "idr":
+        if asset.lower() in {"idr", "ngn"}:
             return format(Decimal(str(float(x))), "f")
         return str(x)
 
@@ -174,8 +175,8 @@ def main():
     out_dir.mkdir(parents=True, exist_ok=True)
 
     df_base = load_price_frame(asset)
-    if asset == "idr":
-        # A API arredonda o price_vwap para IDR; para os cálculos usamos price_open como referência.
+    if asset in {"idr", "ngn"}:
+        # A API arredonda o price_vwap; para os cálculos usamos price_open como referência.
         df_base = df_base.copy()
         df_base["price_vwap"] = df_base["price_open"]
     results_by_days: dict[int, pd.DataFrame] = {}

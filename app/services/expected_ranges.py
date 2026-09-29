@@ -32,7 +32,7 @@ def _format_date_br(d: pd.Timestamp) -> str:
 def _fmt_price(asset: str, x: float) -> str:
     from decimal import Decimal
 
-    if asset == "idr":
+    if asset in {"idr", "ngn"}:
         return format(Decimal(str(float(x))), "f")
     return str(float(x))
 
@@ -106,7 +106,8 @@ def compute_expected_ranges(
         if "price_usd" not in df_base.columns:
             raise ValueError(f"Oracle asset {asset} requer coluna price_usd no histórico.")
         df_base["price_vwap"] = df_base["price_usd"]
-    elif asset == "idr":
+    elif asset in {"idr", "ngn"}:
+        # Polygon arredonda o vwap (ex.: NGN fica em 0.0007). Open preserva o preço.
         df_base["price_vwap"] = df_base["price_open"]
 
     results: dict[int, pd.DataFrame] = {}

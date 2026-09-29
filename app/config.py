@@ -5,7 +5,7 @@ DEFAULT_Z_SCORE = 2.576
 DEFAULT_ALPHA = 0.5
 DEFAULT_HORIZONS = [2, 7, 14, 30]
 
-FOREX_ASSETS = {"brl", "gbp", "idr", "krw", "sgd", "eur", "hkd", "mxn", "aud", "cad", "zar"}
+FOREX_ASSETS = {"brl", "gbp", "idr", "krw", "sgd", "eur", "hkd", "mxn", "aud", "cad", "zar", "ngn"}
 ORACLE_ASSETS = {"tesouro", "ktb", "gilts"}
 SUPPORTED_ASSETS = FOREX_ASSETS | ORACLE_ASSETS
 
@@ -24,6 +24,7 @@ ASSET_PAIR_LABELS = {
     "hkd": ("HKD", "Hkd"),
     "mxn": ("MXN", "Mxn"),
     "zar": ("ZARP", "Zarp"),
+    "ngn": ("CNGN", "Cngn"),
     "tesouro": ("TESOURO", "Tesouro"),
     "ktb": ("KTB", "Ktb"),
     "gilts": ("GILTS", "Gilts"),
